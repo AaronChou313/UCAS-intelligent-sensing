@@ -33,7 +33,7 @@ node scripts/build-figures.mjs
 
 ## 完整性基线
 
-`sources/content-baseline.json`保存每个知识点的正文哈希、公式与显式锚点，质量检查会阻止无记录的删除或改写。若确实需要修改，先在`reports/change-log.md`解释原因，再运行：
+`sources/content-baseline.json`保存每个知识点的正文哈希、公式与显式锚点，并把逐页审阅表绑定到实际来源哈希。质量检查会阻止无记录的删除或改写；只重新提取、导出PDF而没有重新确认审阅基线，不能把旧页的审阅状态自动沿用到新课件。若确实需要修改，先在`reports/change-log.md`解释原因，再运行：
 
 ```sh
 node scripts/update-baseline.mjs --reason "具体说明修改及复核依据"

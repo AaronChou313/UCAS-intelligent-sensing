@@ -1,6 +1,48 @@
 {
-  "schema": 1,
-  "reason": "浏览器反向审查：弦长图移回误差传播节并补图后解释；DS图与正文共用同一合法示例，减少无必要重复",
+  "schema": 2,
+  "reason": "维护反向审查：绑定来源哈希与逐页审阅表，保留四页视觉限制，防止新课件沿用旧审阅状态；增加流程说明而不改变课程数学正文",
+  "sources": [
+    {
+      "id": "S01",
+      "sha256": "e12bed6731d45732da4877ebc4fbdca1d6a9c7d25ff516fc5f8fb68ecba2d407",
+      "topicsSha256": "26a9db7251300517c89c8ca311217a3b8bdbe5c74b8194db7377fb97aac99206"
+    },
+    {
+      "id": "S02",
+      "sha256": "9b66d5a6c456bd418ca7c93004b0065647e528d3d3b3335b13f0e1dc8434b352",
+      "topicsSha256": "bb18268a88b0f8be3c59ffbaaf97ff1399cf7010e050de298652db9ba5dceb28"
+    },
+    {
+      "id": "S03",
+      "sha256": "9f3294cc6c9831a71ccdb899bed4cdd290002cbbcc26f0cb04416bd8b4d3f8c4",
+      "topicsSha256": "50020c0e3e681a639435554784cb9ec5437ebb6410ad319f86be9ec357bbb94c"
+    },
+    {
+      "id": "S04",
+      "sha256": "d6b5121dbf082ddf859fcec56fe688204c9ff28bdcec96a14cdc969f9f62d2ce",
+      "topicsSha256": "f2a61e90efd06de8222bfd84af3d0e8e328c9599e96a3a199b9dd08f00647236"
+    },
+    {
+      "id": "S05",
+      "sha256": "78fb80418941d11093f9fe62cb0cd4f50434cad580f8601a2195c1b54174772f",
+      "topicsSha256": "2664f1bbf28dadd9b86eb6be07f2bdacbdf5e3cdfe3580c21dc2e7feb49015ff"
+    },
+    {
+      "id": "S06",
+      "sha256": "4f94f16e09c9f2e1f41dfbf71a9ad1c86bb64e4ada93bce744f3313dc44fca55",
+      "topicsSha256": "8a1ab75cd8eb91c63193618c15c4ac74ad5da976786ba09d959470a142799e59"
+    },
+    {
+      "id": "S07",
+      "sha256": "b466d38720bf491511eb9bd357c129fdb267d047e9005df08ae417056d16addd",
+      "topicsSha256": "6c144675caa6bf0843f3cacb548162403d8c3db4bddb0271c05376581684b8ad"
+    },
+    {
+      "id": "S08",
+      "sha256": "8651d2b5dff4566b18f4f6776c88458acde01a5d992b540b93028a32eeaab1b4",
+      "topicsSha256": "46683d0f7e0f5ad4ae7acca744766ce443d6c0727b090210bdc1f414b8248fdd"
+    }
+  ],
   "knowledge": [
     {
       "id": "IS-01-001",

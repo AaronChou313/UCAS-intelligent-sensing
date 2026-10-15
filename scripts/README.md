@@ -10,3 +10,5 @@
 - `python3 scripts/serve-nojs.py`：构建后启动4183端口检查，CSP阻止页面脚本，用于查看正文、公式、SVG和交互静态回退；搜索及交互控件不运行是预期行为。
 
 运行教材网站：Node.js 22+，`npm ci`，`npm run validate`，`npm run dev`。
+
+线上发布后执行`npm run check:live`，默认核对当前HEAD、八章与主要入口、资源、PDF及复现产物；需要系统curl。临时核对指定旧提交可运行`node scripts/verify-live.mjs <完整commit>`。

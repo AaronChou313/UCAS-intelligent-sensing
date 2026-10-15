@@ -49,7 +49,7 @@
 | 来源清单 | 八份原件哈希与逐页提取一致；八份PDF共1,063页，渲染哈希一致 |
 | 覆盖与链接 | 1,063个唯一来源页；174个唯一知识点；全部有实际正文目标 |
 | 视觉状态 | 静态页已视读；4页明确保留`limited`，音视频另行登记未完整播放 |
-| 正文保护 | 174知识点与19份正文文件的公式、锚点、哈希基线通过 |
+| 正文保护 | 174知识点与19份正文文件的公式、锚点、哈希基线通过；逐页审阅与原件哈希绑定，负向探针确认审阅变动被阻断 |
 | 数学测试 | 14项通过，零失败；含闭式解、边界、独立精度公式、Joseph协方差及BP中央有限差分 |
 | 科学产物 | 18幅SVG与生成器一致；JSON／CSV与重算结果一致；复现ZIP执行成功 |
 | 依赖 | `npm ci`可安装；`npm audit --omit=optional`为零已知漏洞 |
@@ -71,7 +71,11 @@
 
 ## 发布
 
-部署准备完成，正在执行GitHub仓库创建、Actions部署和线上commit／资源核对；完成后在本节记录实际结果，不以本地构建替代发布成功。
+[在线教材](https://aaronchou313.github.io/UCAS-intelligent-sensing/)与[公开仓库](https://github.com/AaronChou313/UCAS-intelligent-sensing)已发布。首次发布为`9e2cfce919e5b7b1610772cb2ed75deb20c089d1`，[Actions构建与部署均成功](https://github.com/AaronChou313/UCAS-intelligent-sensing/actions/runs/38766463182)。Pages使用workflow模式及HTTPS。
+
+已实际核对：线上version.json提交／来源摘要一致；14个页面（含八章）可达且无MathJax错误标记；6项首页样式／脚本资源与八份PDF可达；S03含隐藏页PDF哈希与本地一致；复现ZIP与计算JSON逐字节一致。浏览器已查看线上学习指南和知识地图，截图见`reports/screenshots/desktop-online.png`，移动端实景见`mobile-practice.png`。
+
+`scripts/verify-live.mjs`可复查这些结果，默认期望当前Git HEAD，依赖系统curl以沿用本机网络代理；网站正文与确定性数值计算不需要curl。后续实际部署版本由线上version.json与Actions对应提交决定，避免在正文硬编码会不断过期的“最新版”短哈希。
 
 ## 尚未验证的范围
 

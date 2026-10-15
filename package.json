@@ -14,7 +14,8 @@
     "validate": "npm run check && npm run build",
     "check:sources": "node scripts/check-sources.mjs",
     "figures:generate": "node scripts/build-figures.mjs",
-    "figures:check": "node scripts/build-figures.mjs --check"
+    "figures:check": "node scripts/build-figures.mjs --check",
+    "check:live": "node scripts/verify-live.mjs"
   },
   "devDependencies": {
     "vitepress": "1.6.4",
