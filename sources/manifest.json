@@ -1,0 +1,130 @@
+[
+  {
+    "id": "S01",
+    "file": "PPT/第一章-智能传感器概述.pptx",
+    "sha256": "e12bed6731d45732da4877ebc4fbdca1d6a9c7d25ff516fc5f8fb68ecba2d407",
+    "bytes": 57903053,
+    "pages": 86,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "hwh",
+      "revision": "5955",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-08-31T06:40:00Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S02",
+    "file": "PPT/第二章-常用传感器.pptx",
+    "sha256": "9b66d5a6c456bd418ca7c93004b0065647e528d3d3b3335b13f0e1dc8434b352",
+    "bytes": 346402860,
+    "pages": 355,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "hwh",
+      "revision": "5019",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-09-03T09:23:11Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S03",
+    "file": "PPT/第三章-智能传感器处理平台.pptx",
+    "sha256": "9f3294cc6c9831a71ccdb899bed4cdd290002cbbcc26f0cb04416bd8b4d3f8c4",
+    "bytes": 87155345,
+    "pages": 143,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "hwh",
+      "revision": "4948",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-09-04T06:22:38Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S04",
+    "file": "PPT/第四章-传感数据处理.pptx",
+    "sha256": "d6b5121dbf082ddf859fcec56fe688204c9ff28bdcec96a14cdc969f9f62d2ce",
+    "bytes": 15153918,
+    "pages": 86,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "希龙",
+      "revision": "6326",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-10-14T07:40:41Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S05",
+    "file": "PPT/第五章-视觉信息处理.pptx",
+    "sha256": "78fb80418941d11093f9fe62cb0cd4f50434cad580f8601a2195c1b54174772f",
+    "bytes": 19428855,
+    "pages": 83,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "希龙",
+      "revision": "6604",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-10-14T07:41:22Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S06",
+    "file": "PPT/第六章-点云数据处理.pptx",
+    "sha256": "4f94f16e09c9f2e1f41dfbf71a9ad1c86bb64e4ada93bce744f3313dc44fca55",
+    "bytes": 34371401,
+    "pages": 95,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "希龙",
+      "revision": "6287",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-10-14T07:40:58Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S07",
+    "file": "PPT/第七章-听觉信息处理.pptx",
+    "sha256": "b466d38720bf491511eb9bd357c129fdb267d047e9005df08ae417056d16addd",
+    "bytes": 15321862,
+    "pages": 78,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "希龙",
+      "revision": "6628",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2026-10-14T07:41:42Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  },
+  {
+    "id": "S08",
+    "file": "PPT/第八章-智能信息融合技术.pptx",
+    "sha256": "8651d2b5dff4566b18f4f6776c88458acde01a5d992b540b93028a32eeaab1b4",
+    "bytes": 20789003,
+    "pages": 137,
+    "properties": {
+      "title": "没有幻灯片标题",
+      "creator": "zhb",
+      "lastModifiedBy": "希龙",
+      "revision": "6409",
+      "created": "2001-12-28T07:12:00Z",
+      "modified": "2023-11-15T04:26:45Z"
+    },
+    "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
+  }
+]

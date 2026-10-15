@@ -1,0 +1,16 @@
+{
+  "name":"ucas-intelligent-sensing-textbook",
+  "version":"0.1.0",
+  "private":true,
+  "type":"module",
+  "engines":{"node":">=22"},
+  "scripts":{
+    "dev":"vitepress dev docs --host 127.0.0.1",
+    "build":"node scripts/prepare.mjs && vitepress build docs && node scripts/check-built.mjs",
+    "preview":"vitepress preview docs --host 127.0.0.1",
+    "check":"node scripts/check-content.mjs && node --test tests/*.test.mjs",
+    "validate":"npm run check && npm run build"
+  },
+  "devDependencies":{"vitepress":"1.6.4","markdown-it-mathjax3":"4.3.2"},
+  "overrides":{"vite":"6.4.4","@xmldom/xmldom":"0.9.12"}
+}
