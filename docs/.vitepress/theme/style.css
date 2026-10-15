@@ -1,0 +1,13 @@
+:root{--vp-c-brand-1:#17657a;--vp-c-brand-2:#1d7891;--vp-c-brand-3:#17657a;--vp-font-family-base:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;--vp-layout-max-width:1500px}
+body{min-width:0}
+.dark{--vp-c-brand-1:#70c6dd;--vp-c-brand-2:#93d8e9;--vp-c-brand-3:#18728b}
+.vp-doc{font-size:17px;line-height:1.9}.vp-doc p,.vp-doc li{line-height:1.9}.vp-doc h2{margin-top:3rem;padding-top:1.5rem}.vp-doc h3{margin-top:2rem;line-height:1.5}.vp-doc img{margin:1.4rem auto;width:100%;height:auto}.vp-doc table{font-size:15px}.vp-doc mjx-container[display="true"]{overflow-x:auto;overflow-y:hidden;padding:12px 0;max-width:100%}.vp-doc a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--vp-c-brand-1);outline-offset:3px}.vp-doc blockquote{border-left-width:1px}.VPDoc.has-aside .content-container{max-width:790px}.course-intro{border-top:2px solid var(--vp-c-brand-1);padding-top:1.3rem;margin-top:1.5rem}.course-intro p:first-child{font-size:1.25rem;line-height:1.8}.source-note{font-size:.92rem;color:var(--vp-c-text-2)}
+@media(max-width:640px){.vp-doc{font-size:16px}.vp-doc h1{font-size:28px}.vp-doc h2{font-size:23px}.vp-doc h3{font-size:20px}.vp-doc table{font-size:14px}.vp-doc img{margin:1rem 0}}
+@media print{.VPNav,.VPSidebar,.VPDocAside,.VPDocFooter{display:none!important}.VPContent{padding:0!important}.vp-doc{font-size:11pt}.vp-doc a{color:inherit}.vp-doc h2,.vp-doc h3{break-after:avoid}.vp-doc img{break-inside:avoid}}
+
+.teaching-figure{display:block;margin:1.7rem 0;padding:.7rem 0;border-block:1px solid var(--vp-c-divider);--figure-blue:#17657a;--figure-orange:#a95d17}.teaching-figure svg{display:block;width:100%;height:auto;color:var(--vp-c-text-1)}.dark .teaching-figure{--figure-blue:#70c6dd;--figure-orange:#efb06e}
+
+@media(max-width:640px){.teaching-figure{overflow-x:auto}.teaching-figure svg{min-width:600px}}
+.vp-doc .teaching-figure svg text{fill:currentColor;stroke:none;font-family:var(--vp-font-family-base)}
+.vp-doc mjx-container:not([display="true"]){display:inline-block;max-width:100%;overflow-x:auto;overflow-y:hidden;vertical-align:middle}
+.vp-doc p,.vp-doc li{overflow-wrap:anywhere}

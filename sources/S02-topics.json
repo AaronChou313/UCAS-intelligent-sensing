@@ -1,0 +1,2349 @@
+[
+  {
+    "start": 1,
+    "end": 1,
+    "title": "课程封面",
+    "depth": "noncontent",
+    "notes": "何文浩，中国科学院自动化研究所；无封面授课日期",
+    "visual_pages": [
+      1
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-observation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 2,
+    "end": 2,
+    "title": "机器人传感器应用动机",
+    "depth": "mentioned",
+    "notes": "军用/特种、工业、服务机器人照片；感知是智能化前提",
+    "visual_pages": [
+      2
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-observation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 3,
+    "end": 3,
+    "title": "十类器件目录",
+    "depth": "noncontent",
+    "notes": "开关/接触/接近、超声、温度、编码器、导航、力觉、激光、音频、图像、RGB-D",
+    "visual_pages": [
+      3
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-observation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 4,
+    "end": 7,
+    "title": "光电开关原理、光路和分类图",
+    "depth": "detailed",
+    "notes": "反射、透射、回归反射；非接触、目标材料与检测距离；扩展限定/距离设定等分类图",
+    "visual_pages": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-photoelectric",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "title": "光纤检测及选型参数",
+    "depth": "detailed",
+    "notes": "全反射示意；透射/反射与平行/同轴/分割型；长度、温度、弯曲半径、距离、光轴和最小检测物参数表",
+    "visual_pages": [
+      8,
+      9,
+      10
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-fiber-laser-switch",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 11,
+    "end": 12,
+    "title": "激光型光电开关",
+    "depth": "detailed",
+    "notes": "三光路图与小光斑、对准、间隙；50m单位异常与光不扩散绝对化",
+    "visual_pages": [
+      11,
+      12
+    ],
+    "issues": [
+      "50 m单位疑似缺µ，不能据猜测恢复产品参数；未核实。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-fiber-laser-switch",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 13,
+    "end": 13,
+    "title": "光电开关六应用",
+    "depth": "mentioned",
+    "notes": "偏摆、色标、目标、封装带、标签、光栅场景图",
+    "visual_pages": [
+      13
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-fiber-laser-switch",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 14,
+    "end": 14,
+    "title": "光电应用课堂思考",
+    "depth": "mentioned",
+    "notes": "原问：有没有别的适合光电开关传感器的场合；练习页T01",
+    "visual_pages": [
+      14
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-photoelectric",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 15,
+    "end": 15,
+    "title": "行程开关结构与NO/NC",
+    "depth": "detailed",
+    "notes": "机械触发、弹簧机构、触点切换与限位；滚轮/柱塞/杠杆实物和结构图",
+    "visual_pages": [
+      15
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-contact",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 16,
+    "end": 18,
+    "title": "接触位移与差动变压器",
+    "depth": "detailed",
+    "notes": "测头、刻度尺、铁芯与线圈示意；幅值随位移变化和方法优缺点对照",
+    "visual_pages": [
+      16,
+      17,
+      18
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-contact",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 19,
+    "end": 19,
+    "title": "涡流接近及全金属识别",
+    "depth": "detailed",
+    "notes": "振荡幅值或频率改变图；检测材料与距离表",
+    "visual_pages": [
+      19
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-eddy",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 20,
+    "end": 20,
+    "title": "干膜测厚与湿膜开放问题",
+    "depth": "detailed",
+    "notes": "仅检测金属/耐环境说明；非金属干膜限制；湿膜在线问题T02",
+    "visual_pages": [
+      20
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-eddy",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 21,
+    "end": 24,
+    "title": "超声物理与传播",
+    "depth": "detailed",
+    "notes": "纵横波、频率范围、反射折射衰减、探测频段图；超声高于20kHz",
+    "visual_pages": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-physics",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 25,
+    "end": 26,
+    "title": "超声发射接收链",
+    "depth": "detailed",
+    "notes": "共振频率示例23/40/75/200/400kHz；方波振荡-驱动-换能-接收-放大图",
+    "visual_pages": [
+      25,
+      26
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-physics",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 27,
+    "end": 28,
+    "title": "超声性能指标",
+    "depth": "detailed",
+    "notes": "共振频率、温度、灵敏度、机电耦合及产品图；医疗设备表述需限定",
+    "visual_pages": [
+      27,
+      28
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-physics",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 29,
+    "end": 32,
+    "title": "检测模式、调节与盲区",
+    "depth": "detailed",
+    "notes": "反射与对射；工作范围、近远阈值、介质和盲区定义",
+    "visual_pages": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-range",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 33,
+    "end": 34,
+    "title": "声束及目标相关检测区",
+    "depth": "detailed",
+    "notes": "声束开角和开关窗口；500×500mm平板与27mm圆棒比较；图形为主要信息",
+    "visual_pages": [
+      33,
+      34
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-range",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 35,
+    "end": 35,
+    "title": "超声目标与环境示例",
+    "depth": "mentioned",
+    "notes": "透明、有色、金属非金属、粉状液体照片；几乎不受环境影响需结合47页限定",
+    "visual_pages": [
+      35
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-range",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 36,
+    "end": 36,
+    "title": "超声时间与声速误差",
+    "depth": "detailed",
+    "notes": "L=CT；2.907ms单位错；332/350声速1m误差5mm算术错；温湿度补偿",
+    "visual_pages": [
+      36
+    ],
+    "issues": [
+      "原页2.907 ms应为2.907 µs（单程定义）；回波需明确1/2。",
+      "按332/350在1m计算误差约51.4mm，原页5mm不符。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-tof",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 37,
+    "end": 39,
+    "title": "流量测量与安装几何",
+    "depth": "detailed",
+    "notes": "顺逆流传播速度；沿管与斜声程示意；角θ是相对法向",
+    "visual_pages": [
+      37,
+      38,
+      39
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-flow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "title": "流量时差推导",
+    "depth": "detailed",
+    "notes": "t1=L/(c+v sinθ)、t2=L/(c-v sinθ)；Δt符号与正表达式冲突；小流速近似",
+    "visual_pages": [
+      40,
+      41
+    ],
+    "issues": [
+      "t1顺流、t2逆流，却写Δt=t1−t2并给正值，教材统一逆流减顺流。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-flow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 42,
+    "end": 42,
+    "title": "超声流量计应用范围",
+    "depth": "mentioned",
+    "notes": "外夹式非阻流、液体/渠道应用；需有声传播通路",
+    "visual_pages": [
+      42
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-flow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 43,
+    "end": 44,
+    "title": "液位与更精确方案思考",
+    "depth": "detailed",
+    "notes": "反射液位图、接触导波液位装置图；1%定义未给；两问归T03",
+    "visual_pages": [
+      43,
+      44
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-use",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 45,
+    "end": 46,
+    "title": "探伤、厚度与机器人避障",
+    "depth": "mentioned",
+    "notes": "穿透法、反射法；机器人各传感器位置标注",
+    "visual_pages": [
+      45,
+      46
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-use",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 47,
+    "end": 48,
+    "title": "超声注意事项与串扰",
+    "depth": "detailed",
+    "notes": "气流、温度、水滴、蒸汽、吸声；反射、噪声、交叉；编码区分信号",
+    "visual_pages": [
+      47,
+      48
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-use",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 49,
+    "end": 49,
+    "title": "超声与光电对照",
+    "depth": "detailed",
+    "notes": "材料/颜色、距离、精度、响应、灰尘水、量程表；示例参数不可泛化",
+    "visual_pages": [
+      49
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ultrasound-use",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "title": "温度动机与转换分类",
+    "depth": "mentioned",
+    "notes": "热膨胀、电阻、温差电势、导磁、电容、压电、超声传播、颜色、PN结、晶体管、辐射等分类图",
+    "visual_pages": [
+      50,
+      51
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-temperature-types",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 52,
+    "end": 52,
+    "title": "热电偶与西贝克效应",
+    "depth": "detailed",
+    "notes": "AB回路冷热端与热电势；极性和参考端",
+    "visual_pages": [
+      52
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-thermocouple",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 53,
+    "end": 54,
+    "title": "接触和温差电势模型",
+    "depth": "detailed",
+    "notes": "eAB=kT/e ln(NA/NB)、温度积分、闭回路总电势及电子密度；微观模型限制",
+    "visual_pages": [
+      53,
+      54
+    ],
+    "issues": [
+      "接触/温差电势简化模型及汤姆逊/塞贝克术语需防混用；工程用分度函数。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-thermocouple",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 55,
+    "end": 55,
+    "title": "热电势与中间温度关系",
+    "depth": "detailed",
+    "notes": "分度函数思想；中间等式减项错误；简化微观模型不能代替通用经验分度函数",
+    "visual_pages": [
+      55
+    ],
+    "issues": [
+      "冷端补偿中间等式减项错；已在正文修订。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-thermocouple",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "title": "冷端补偿与数值例",
+    "depth": "detailed",
+    "notes": "冰点槽图和计算修正；1.999+0.832=2.831mV；课件查表68℃，未独立核实分度数据",
+    "visual_pages": [
+      56,
+      57
+    ],
+    "issues": [
+      "68℃和0.832mV分度值尚未独立复核；61页K表不是T型查表依据。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-cold-junction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "title": "中间导体与补偿导线",
+    "depth": "detailed",
+    "notes": "等温三材料回路电势和为0；补偿导线与实际线路图",
+    "visual_pages": [
+      58,
+      59
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-cold-junction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "title": "分度号材料范围与K表",
+    "depth": "detailed",
+    "notes": "K/N/E/J/T/S/R/B/C/D材料与范围表；第61张为K型局部表，不是57页T型例题表",
+    "visual_pages": [
+      60,
+      61
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-cold-junction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 62,
+    "end": 64,
+    "title": "编码器定义、分类与结构",
+    "depth": "detailed",
+    "notes": "角/线位移、增量/绝对、检测原理及轴孔；机械/感应/电气单元",
+    "visual_pages": [
+      62,
+      63,
+      64
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-encoder-count",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 65,
+    "end": 66,
+    "title": "单通道增量角度",
+    "depth": "detailed",
+    "notes": "θ=2πn/N；单通道无法判向，需回零和初始参考",
+    "visual_pages": [
+      65,
+      66
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-encoder-count",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 67,
+    "end": 68,
+    "title": "双通道两种光道布局",
+    "depth": "detailed",
+    "notes": "两圈错栅或两光敏元件；机械间隔π/(2N)对应四分之一电周期",
+    "visual_pages": [
+      67,
+      68
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-quadrature",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 69,
+    "end": 70,
+    "title": "固定光栅及正反转判别",
+    "depth": "detailed",
+    "notes": "单圈码盘固定光栅；π/4电相位笔误，应π/2；AB状态顺序",
+    "visual_pages": [
+      69,
+      70
+    ],
+    "issues": [
+      "四分之一电周期误写π/4；应π/2。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-quadrature",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 71,
+    "end": 72,
+    "title": "索引Z相与差分传输",
+    "depth": "detailed",
+    "notes": "每转索引；ABZ反相输出、AM26LS31、双绞线；传输距离属示例",
+    "visual_pages": [
+      71,
+      72
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-quadrature",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 73,
+    "end": 75,
+    "title": "M法测速分辨率误差",
+    "depth": "detailed",
+    "notes": "n=60M1/(ZTc)、单计数分辨60/(ZTc)、相对量级1/M1；图片承载公式",
+    "visual_pages": [
+      73,
+      74,
+      75
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-speed-m",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "title": "T法周期测速及量化误差",
+    "depth": "detailed",
+    "notes": "T=M2/f0，n=60f0/(ZM2)；误差分母约定1/(M2−1)；适合低速",
+    "visual_pages": [
+      76,
+      77
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-speed-t-mt",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 78,
+    "end": 80,
+    "title": "M/T法同步测频测周",
+    "depth": "detailed",
+    "notes": "T=Tc−ΔT1+ΔT2；双计数；n=60f0M1/(ZM2)推导与时序图",
+    "visual_pages": [
+      78,
+      79,
+      80
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-speed-t-mt",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 81,
+    "end": 81,
+    "title": "增量编码特点总结",
+    "depth": "detailed",
+    "notes": "相对位置、AB正交、Z索引、掉电和丢计数；优势与缺点",
+    "visual_pages": [
+      81
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-speed-t-mt",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 82,
+    "end": 82,
+    "title": "绝对光电码盘",
+    "depth": "detailed",
+    "notes": "多码道2^b状态、唯一位置码；8位码盘读码图",
+    "visual_pages": [
+      82
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-gray",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 83,
+    "end": 84,
+    "title": "二进制过渡与格雷码",
+    "depth": "detailed",
+    "notes": "0001→0010的异步误码；反射循环格雷码定义及2/3/4位表",
+    "visual_pages": [
+      83,
+      84
+    ],
+    "issues": [
+      "转换表覆盖部分正文，原文件布局问题；表本身可读。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-gray",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 85,
+    "end": 86,
+    "title": "绝对磁编码器与中空结构",
+    "depth": "detailed",
+    "notes": "永磁体/霍尔、AS5047P等示例、安装图；图片磁通切割线圈描述不应混淆霍尔效应",
+    "visual_pages": [
+      85,
+      86
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-magnetic-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 87,
+    "end": 88,
+    "title": "电子与机械多圈",
+    "depth": "detailed",
+    "notes": "电子计圈依历史；机械绝对计圈齿轮图；掉电移动与圈数状态",
+    "visual_pages": [
+      87,
+      88
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-magnetic-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 89,
+    "end": 90,
+    "title": "霍尔物理与封装",
+    "depth": "detailed",
+    "notes": "洛伦兹力、横向霍尔电压与半导体实物",
+    "visual_pages": [
+      89,
+      90
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-magnetic-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 91,
+    "end": 92,
+    "title": "磁环测速与双霍尔判向",
+    "depth": "detailed",
+    "notes": "轴/径向充磁与布局；22极11周期；电相位与机械安装角需区分",
+    "visual_pages": [
+      91,
+      92
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-magnetic-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 93,
+    "end": 94,
+    "title": "电感式绝对编码器",
+    "depth": "detailed",
+    "notes": "三PCB、LDC5072、16/15周期通道、校准与耦合解算图",
+    "visual_pages": [
+      93,
+      94
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-magnetic-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 95,
+    "end": 96,
+    "title": "拖动示教和双编码器",
+    "depth": "mentioned",
+    "notes": "关节输入/输出轴观测、机械零点、力矩估计与柔顺；96含媒体，静态不能验证运动过程",
+    "visual_pages": [
+      95,
+      96
+    ],
+    "issues": [
+      "嵌入媒体的动态内容未执行，不把静态渲染视作视频核验。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-dual-encoder",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 97,
+    "end": 99,
+    "title": "导航定位与自主惯导",
+    "depth": "detailed",
+    "notes": "位置/姿态/导航区别；角速率、比力、积分和初始基准流程",
+    "visual_pages": [
+      97,
+      98,
+      99
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-inertial",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 100,
+    "end": 100,
+    "title": "惯导发展沿革",
+    "depth": "mentioned",
+    "notes": "历代历史和精度数字无测试历时；不能当当前通用保证",
+    "visual_pages": [
+      100
+    ],
+    "issues": [
+      "历史分代和精度无持续时间/工况，未作当前性能事实。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-inertial",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 101,
+    "end": 103,
+    "title": "牛顿定律与积分导航",
+    "depth": "detailed",
+    "notes": "F=ma；速度/加速度与位置积分；二维加速度计方框图；重力和坐标前提",
+    "visual_pages": [
+      101,
+      102,
+      103
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-inertial",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 104,
+    "end": 106,
+    "title": "MEMS加速度计和陀螺仪",
+    "depth": "detailed",
+    "notes": "梳齿电容质量块；驱动/敏感轴；aC=2v×ω；科里奥利方向",
+    "visual_pages": [
+      104,
+      105,
+      106
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-imu-errors",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 107,
+    "end": 110,
+    "title": "IMU误差分类",
+    "depth": "detailed",
+    "notes": "确定性/随机；bias/scale、轴不正交、温漂、重复性/动态性；b_a t与b_a t²/2",
+    "visual_pages": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "issues": [
+      "无外作用输出0不能直接用于静止加速度计，已限定去重力量。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-imu-errors",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 111,
+    "end": 112,
+    "title": "测试标定补偿及设备",
+    "depth": "detailed",
+    "notes": "标定输入输出模型，补偿修正；水平台、转台、分度头、离心/振动/冲击/环境平台",
+    "visual_pages": [
+      111,
+      112
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-imu-calibration",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 113,
+    "end": 114,
+    "title": "加速度计六面与交叉轴标定",
+    "depth": "detailed",
+    "notes": "bias=(lup+ldown)/2、scale=(lup−ldown)/(2g)；3×3耦合模型与±g向量",
+    "visual_pages": [
+      113,
+      114
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-imu-calibration",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 115,
+    "end": 116,
+    "title": "陀螺转台标定与积分漂移",
+    "depth": "detailed",
+    "notes": "3偏置+9矩阵项；角速率输入；MTI630加速度与积分曲线案例",
+    "visual_pages": [
+      115,
+      116
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-imu-calibration",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 117,
+    "end": 119,
+    "title": "GNSS定义、组成与PVT",
+    "depth": "detailed",
+    "notes": "四大系统、空间/控制/用户段；PVT与北斗短报文；卫星用户坐标图",
+    "visual_pages": [
+      117,
+      118,
+      119
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-gnss",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 120,
+    "end": 120,
+    "title": "伪距方程和四星定位",
+    "depth": "detailed",
+    "notes": "几何距离与伪距混称；经纬度不可代欧氏XYZ；接收机钟差应显式",
+    "visual_pages": [
+      120
+    ],
+    "issues": [
+      "经纬度不能直接进XYZ欧氏距离式；几何距离和伪距混称；钟差需显式。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-gnss",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 121,
+    "end": 124,
+    "title": "北斗与GPS历史数量",
+    "depth": "mentioned",
+    "notes": "系统阶段/星座与发射表；目前数量与GPSIII日期、轨道高度须独立核实，未作为当前事实",
+    "visual_pages": [
+      121,
+      122,
+      123,
+      124
+    ],
+    "issues": [
+      "在轨数量和2026发射日期等动态事实未独立核实；仅历史课件记录。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rtk-ppp",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 125,
+    "end": 125,
+    "title": "GNSS误差谱系",
+    "depth": "detailed",
+    "notes": "轨道/钟、信号延迟、天线相位中心、大气、多径、噪声等",
+    "visual_pages": [
+      125
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rtk-ppp",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "title": "RTK与网络RTK",
+    "depth": "detailed",
+    "notes": "基站、移动站、载波观测、OSR、传统和网络模式图；条件性厘米级",
+    "visual_pages": [
+      126,
+      127
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rtk-ppp",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 128,
+    "end": 130,
+    "title": "PPP原理与优劣",
+    "depth": "detailed",
+    "notes": "精密轨道钟差、框架站与SSR；产品播发与收敛，全球无系统偏差等绝对表述需限定",
+    "visual_pages": [
+      128,
+      129,
+      130
+    ],
+    "issues": [
+      "PPP无系统偏差、全球均匀等绝对化表述已限定。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rtk-ppp",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 131,
+    "end": 133,
+    "title": "PPP-AR、PPP-RTK与对照",
+    "depth": "detailed",
+    "notes": "整数模糊度、FCB/UPD、区域大气改正；结构图与比较表；收敛数字非普遍保证",
+    "visual_pages": [
+      131,
+      132,
+      133
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rtk-ppp",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 134,
+    "end": 134,
+    "title": "定位技术概览",
+    "depth": "mentioned",
+    "notes": "GNSS、LBS、WiFi/蓝牙/UWB/ZigBee、惯性、视觉激光、磁与声；非完整算法",
+    "visual_pages": [
+      134
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-navigation-complement",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 135,
+    "end": 135,
+    "title": "机器人定位比较与互补",
+    "depth": "detailed",
+    "notes": "IMU、码盘、视觉激光、GNSS表；视觉激光无漂移需修订；融合动机",
+    "visual_pages": [
+      135
+    ],
+    "issues": [
+      "视觉/激光无漂移并不普遍，已改为可能累积漂移。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-navigation-complement",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 136,
+    "end": 139,
+    "title": "力觉定义和转换类别",
+    "depth": "detailed",
+    "notes": "单/多维，电阻/压阻/电容/电感/压电/谐振/视触觉与扩散硅/蓝宝石/陶瓷概述",
+    "visual_pages": [
+      136,
+      137,
+      138,
+      139
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-force-strain",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 140,
+    "end": 142,
+    "title": "电阻应变片结构材料",
+    "depth": "detailed",
+    "notes": "丝/箔、敏感栅/基底/盖片/引线/黏结剂、半导体压阻与优缺点",
+    "visual_pages": [
+      140,
+      141,
+      142
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-force-strain",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 143,
+    "end": 144,
+    "title": "电容三种变化型",
+    "depth": "detailed",
+    "notes": "变间隙、变重叠面积、变介质图；非接触与动态特性",
+    "visual_pages": [
+      143,
+      144
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-force-transduction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 145,
+    "end": 146,
+    "title": "电感传感原理重复页",
+    "depth": "detailed",
+    "notes": "电磁感应、自感/互感/涡流；两页相同文字合并正文并保留来源",
+    "visual_pages": [
+      145,
+      146
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-force-transduction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 147,
+    "end": 149,
+    "title": "自感、互感与涡流压力结构",
+    "depth": "detailed",
+    "notes": "气隙衔铁、弹簧管、差动变压器、电涡流回路示意",
+    "visual_pages": [
+      147,
+      148,
+      149
+    ],
+    "issues": [
+      "原文括号中关于运动金属与涡流的表述不够严谨；教材采用交变场反作用机制。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-force-transduction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "title": "压电效应、材料、结构与等效电路",
+    "depth": "detailed",
+    "notes": "正/逆压电，石英/陶瓷/聚合物；电荷源、电容和泄漏电阻",
+    "visual_pages": [
+      150,
+      151
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-force-transduction",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "title": "视触觉结构与优势",
+    "depth": "detailed",
+    "notes": "弹性体、标记层、涂层、LED、相机、反射层；图像推断触觉；优势需条件",
+    "visual_pages": [
+      152,
+      153
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-tactile-sixaxis",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 154,
+    "end": 154,
+    "title": "应变片电桥读出",
+    "depth": "detailed",
+    "notes": "电路和ΔV=VΔR/(4R)图片；一阶近似需补条件和精确分压",
+    "visual_pages": [
+      154
+    ],
+    "issues": [
+      "ΔV=VΔR/(4R)是一阶近似，教材补精确分压。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-bridge",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 155,
+    "end": 157,
+    "title": "三维、六维力觉及产品",
+    "depth": "detailed",
+    "notes": "力与力矩维度、结构与实物；坐标/量纲/解耦；产品0.1N非通用",
+    "visual_pages": [
+      155,
+      156,
+      157
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-tactile-sixaxis",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "title": "力觉打磨与铣削应用",
+    "depth": "mentioned",
+    "notes": "自动打磨媒体与颅骨切削力示意，非医学操作规范",
+    "visual_pages": [
+      158,
+      159
+    ],
+    "issues": [
+      "媒体动态过程未执行，仅可审静态页面。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-tactile-sixaxis",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "title": "激光传感概述和激光器类别",
+    "depth": "mentioned",
+    "notes": "固体、气体、液体、半导体四类与示例；产品优点不可泛化",
+    "visual_pages": [
+      160,
+      161
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-triangulation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "title": "激光三角法像点变化",
+    "depth": "detailed",
+    "notes": "激光器、聚焦与接收镜头、CCD阵列和目标位移图",
+    "visual_pages": [
+      162,
+      163
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-triangulation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 164,
+    "end": 168,
+    "title": "点线多线面与条纹相位结构光",
+    "depth": "detailed",
+    "notes": "光线/平面/光栅投影，编码与空间/时间；条纹相位不同于飞行相位",
+    "visual_pages": [
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-triangulation",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 169,
+    "end": 170,
+    "title": "回波分析与脉冲ToF",
+    "depth": "detailed",
+    "notes": "发射接收计时框图；D=cΔt/2；1cm时间精度讨论T04",
+    "visual_pages": [
+      169,
+      170
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-tof-phase",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 171,
+    "end": 173,
+    "title": "调制相位、展开与粗精尺",
+    "depth": "detailed",
+    "notes": "相位计和调制波；172量纲混乱；整周歧义；386.57m例未给频率",
+    "visual_pages": [
+      171,
+      172,
+      173
+    ],
+    "issues": [
+      "ΔT=Δφ/(2π)把无量纲周期比例写成时间样符号；已重写完整相位距离推导。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-tof-phase",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 174,
+    "end": 174,
+    "title": "脉冲/相位方法对照",
+    "depth": "mentioned",
+    "notes": "课件测程、精度和采样率属于设备时期例；不能作普遍边界",
+    "visual_pages": [
+      174
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-tof-phase",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 175,
+    "end": 175,
+    "title": "四种扫描方式",
+    "depth": "mentioned",
+    "notes": "摆镜、旋转棱镜、光纤电扫描、圆锥镜与光脚轨迹图",
+    "visual_pages": [
+      175
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-scan",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "title": "道路轮廓与多线自动驾驶",
+    "depth": "mentioned",
+    "notes": "固定光束车辆轮廓、Velodyne64旋转扫描；空间间距非Hz",
+    "visual_pages": [
+      176,
+      177
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-laser-scan",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 178,
+    "end": 180,
+    "title": "气体光谱三路线与QCL",
+    "depth": "detailed",
+    "notes": "分散、NDIR、窄线宽激光吸收；QCL气体光谱图、选择性和远距优势",
+    "visual_pages": [
+      178,
+      179,
+      180
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-spectroscopy",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 181,
+    "end": 182,
+    "title": "TDLAS扫描和Beer-Lambert",
+    "depth": "detailed",
+    "notes": "电流调谐→波长扫描→吸收；I=I0exp(−κL)；温压/浓度/谱线强度/线型",
+    "visual_pages": [
+      181,
+      182
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-spectroscopy",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 183,
+    "end": 183,
+    "title": "分子截面与在线检漏题",
+    "depth": "detailed",
+    "notes": "波数谱线图、12000瓶/h课堂思考T05",
+    "visual_pages": [
+      183
+    ],
+    "issues": [
+      "缺气体/瓶体/光程/检漏率，0.3s仅预算，未执行检漏实验。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-spectroscopy",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 184,
+    "end": 186,
+    "title": "声敏分类、电阻与压电",
+    "depth": "detailed",
+    "notes": "膜片、碳粒、电阻；声压→形变→电阻/电荷信号",
+    "visual_pages": [
+      184,
+      185,
+      186
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 187,
+    "end": 188,
+    "title": "电容麦克风",
+    "depth": "detailed",
+    "notes": "膜片/背板/电源结构；驻极体是子类而非全体电容麦克风",
+    "visual_pages": [
+      187,
+      188
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 189,
+    "end": 189,
+    "title": "动圈麦克风",
+    "depth": "detailed",
+    "notes": "永磁体/音圈/振膜；好坏排序表述不可泛化",
+    "visual_pages": [
+      189
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "title": "MEMS麦克风封装制造",
+    "depth": "detailed",
+    "notes": "上/下声孔实物、膜片/穿孔背板/腔室/ASIC截面",
+    "visual_pages": [
+      190,
+      191
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 192,
+    "end": 192,
+    "title": "麦克风阵列",
+    "depth": "detailed",
+    "notes": "几何布局、空时处理；噪声抑制/去混响/测向跟踪；后续听觉章节衔接",
+    "visual_pages": [
+      192
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone-array",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 193,
+    "end": 193,
+    "title": "玻璃隐形裂纹应用",
+    "depth": "mentioned",
+    "notes": "裂纹与酒瓶示意，无音频原始数据或指标",
+    "visual_pages": [
+      193
+    ],
+    "issues": [
+      "无音频数据/采样或定量结论，案例不可复现。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-microphone-array",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 194,
+    "end": 198,
+    "title": "图像转换、MOS和CCD四步骤",
+    "depth": "detailed",
+    "notes": "光生电荷、势阱、收集、转移、读出；内光电术语需准确",
+    "visual_pages": [
+      194,
+      195,
+      196,
+      197,
+      198
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ccd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 199,
+    "end": 202,
+    "title": "CCD三相电荷转移图",
+    "depth": "detailed",
+    "notes": "120°时钟、t1到t5势阱、2V/10V状态、生成存储转移检测总图",
+    "visual_pages": [
+      199,
+      200,
+      201,
+      202
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-ccd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 203,
+    "end": 205,
+    "title": "线阵CCD单/双通道",
+    "depth": "detailed",
+    "notes": "一维感光区、转移栅与遮光寄存器；双通道减少移位次数",
+    "visual_pages": [
+      203,
+      204,
+      205
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-image-arrays-color",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 206,
+    "end": 208,
+    "title": "面阵CCD行间与帧转移",
+    "depth": "detailed",
+    "notes": "垂直/水平寄存器、储存区、下一帧积分和结构优缺点",
+    "visual_pages": [
+      206,
+      207,
+      208
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-image-arrays-color",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 209,
+    "end": 210,
+    "title": "三片彩色与Bayer",
+    "depth": "detailed",
+    "notes": "棱镜分RGB三芯片；滤色马赛克和去马赛克；空间采样代价",
+    "visual_pages": [
+      209,
+      210
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-image-arrays-color",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 211,
+    "end": 214,
+    "title": "CCD响应光谱、噪声与采样",
+    "depth": "detailed",
+    "notes": "响应度、IR滤光、光谱曲线、暗电流、物方像素尺度、均匀性",
+    "visual_pages": [
+      211,
+      212,
+      213,
+      214
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-image-performance",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 215,
+    "end": 215,
+    "title": "CCD厂商历史表",
+    "depth": "mentioned",
+    "notes": "日本/美/欧厂商表；未核实为当前制造商，非采购指南",
+    "visual_pages": [
+      215
+    ],
+    "issues": [
+      "历史厂商名单未当当前制造状态。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-image-performance",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 216,
+    "end": 221,
+    "title": "CMOS与CCD比较及背照",
+    "depth": "detailed",
+    "notes": "电荷/电压读出位置、集成ADC与控制、快门/功耗/填充因子、背照；各方面优于表述需限定",
+    "visual_pages": [
+      216,
+      217,
+      218,
+      219,
+      220,
+      221
+    ],
+    "issues": [
+      "最新CMOS各方面优于CCD绝对化，已限定型号比较。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-image-performance",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "title": "相机结构和镜头接口",
+    "depth": "detailed",
+    "notes": "镜头/芯片/电路/接口；C/CS法兰距离差5mm；接口不只螺纹",
+    "visual_pages": [
+      222,
+      223
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-camera-structure",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 224,
+    "end": 226,
+    "title": "FOV、WD、分辨率与镜头参数",
+    "depth": "detailed",
+    "notes": "焦距、光圈、格式、接口、景深、lp/mm、放大率、NA、后焦",
+    "visual_pages": [
+      224,
+      225,
+      226
+    ],
+    "issues": [
+      "NA原式缺括号；应n sin(半孔径角)，与后焦等术语一起说明。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-fov-lens",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 227,
+    "end": 228,
+    "title": "焦距视场几何与畸变",
+    "depth": "detailed",
+    "notes": "f/WD=Sensor/FOV近似；桶/枕形、MTF/分辨图；不宜普遍25mm规则",
+    "visual_pages": [
+      227,
+      228
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-fov-lens",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 229,
+    "end": 230,
+    "title": "光圈定义和分级",
+    "depth": "detailed",
+    "notes": "f/D、1.4和17.8/25例、光圈形状图；每档光量约二倍",
+    "visual_pages": [
+      229,
+      230
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-aperture-telecentric",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 231,
+    "end": 231,
+    "title": "成像格式与成像圈",
+    "depth": "detailed",
+    "notes": "典型1英寸/2/3/1/2/1/3/1/4靶面尺寸图；1inch=16mm为格式而非长度换算",
+    "visual_pages": [
+      231
+    ],
+    "issues": [
+      "1inch=16mm指光学格式，不是长度单位换算。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-camera-structure",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 232,
+    "end": 234,
+    "title": "景深、远心与镜头选型",
+    "depth": "detailed",
+    "notes": "容许弥散圆；光圈/焦距/距离；非远心/物方/双远心图、尺寸与安装约束",
+    "visual_pages": [
+      232,
+      233,
+      234
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-aperture-telecentric",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 235,
+    "end": 236,
+    "title": "工业相机数据接口",
+    "depth": "detailed",
+    "notes": "USB2/USB3/1394/GigE/CameraLink；距离、负载带宽与多机表为历史示例",
+    "visual_pages": [
+      235,
+      236
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-camera-data",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 237,
+    "end": 239,
+    "title": "相机采样、位深、帧率和噪声",
+    "depth": "detailed",
+    "notes": "存储37M数值单位异常；曝光/快门、像元、光谱、噪声、SNR/动态范围/响应度",
+    "visual_pages": [
+      237,
+      238,
+      239
+    ],
+    "issues": [
+      "500万8bit为5MB≈4.77MiB；原页37M算术和单位不清。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-camera-data",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "title": "相机选型原题和教师参考页",
+    "depth": "detailed",
+    "notes": "20cm、10×5cm、0.1mm两像素、至少4µm；2000×1000与8×4mm、8.8mm混用；题H01",
+    "visual_pages": [
+      240,
+      241
+    ],
+    "issues": [
+      "分辨率和靶面式是方向简写而非标量等式；8mm与8.8mm模型混用；已解释近似。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-system-design",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "title": "照明动机与划痕对比",
+    "depth": "detailed",
+    "notes": "照明改善光学信号、对比和稳定性，示例图片；比例问号非科学量化",
+    "visual_pages": [
+      242,
+      243
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-spectrum",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 244,
+    "end": 248,
+    "title": "荧光、卤素和LED对照",
+    "depth": "detailed",
+    "notes": "寿命、响应、稳定、颜色、形状、频闪、散热与成本；历史示例参数",
+    "visual_pages": [
+      244,
+      245,
+      246,
+      247,
+      248
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-spectrum",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 249,
+    "end": 253,
+    "title": "颜色、波长和色温",
+    "depth": "detailed",
+    "notes": "光谱/色温图与代码表，白蓝红绿IR/UV应用；紫外穿透绝对说法需限定",
+    "visual_pages": [
+      249,
+      250,
+      251,
+      252,
+      253
+    ],
+    "issues": [
+      "紫外穿透力强等判断不能跨材料推广。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-light-spectrum",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "title": "互补颜色与背景过滤",
+    "depth": "detailed",
+    "notes": "色环、绿背景红光、红文字同色照明抑制图；需材料光谱验证",
+    "visual_pages": [
+      254,
+      255
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-spectrum",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 256,
+    "end": 259,
+    "title": "照明分类、明场与暗场",
+    "depth": "detailed",
+    "notes": "光路方向图与IC实拍；正常镜面反射进入/避开镜头",
+    "visual_pages": [
+      256,
+      257,
+      258,
+      259
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-geometry",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 260,
+    "end": 262,
+    "title": "角度、垂直与低角度环光",
+    "depth": "detailed",
+    "notes": "照明光路和应用图，0/90角商品定义不统一",
+    "visual_pages": [
+      260,
+      261,
+      262
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-geometry",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 263,
+    "end": 266,
+    "title": "背光、多角度、圆顶与同轴",
+    "depth": "detailed",
+    "notes": "轮廓、RGB多角、球积分漫射、分光同轴光路和实拍",
+    "visual_pages": [
+      263,
+      264,
+      265,
+      266
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-geometry",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 267,
+    "end": 268,
+    "title": "透射波长与TSOP案例",
+    "depth": "detailed",
+    "notes": "材料/厚度/波段；扩散比率表模型未给；660/470nm实拍对照",
+    "visual_pages": [
+      267,
+      268
+    ],
+    "issues": [
+      "扩散比率表没有材料与模型，不作为通用透射率定律。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-light-geometry",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 269,
+    "end": 271,
+    "title": "定制流程和辅助光学器件",
+    "depth": "detailed",
+    "notes": "反射镜、分光镜、棱镜、偏振片、漫射片、光纤；非金属反射不总完全偏振",
+    "visual_pages": [
+      269,
+      270,
+      271
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-workflow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 272,
+    "end": 276,
+    "title": "打光指导、设计因素和流程",
+    "depth": "detailed",
+    "notes": "有效/杂散光，规格、试验、原型、反馈；设计质量、散热成本、WD安装",
+    "visual_pages": [
+      272,
+      273,
+      274,
+      275,
+      276
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-workflow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 277,
+    "end": 283,
+    "title": "各类照明选型细则",
+    "depth": "detailed",
+    "notes": "条光/环光/组合/背光/同轴/平行同轴，尺寸/安装距离/材料；经验比例需条件",
+    "visual_pages": [
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-workflow",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 284,
+    "end": 286,
+    "title": "齿轮同轴照明案例",
+    "depth": "detailed",
+    "notes": "普通照明低对比与同轴光缺陷反射；标题页合并",
+    "visual_pages": [
+      284,
+      285,
+      286
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-cases",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 287,
+    "end": 292,
+    "title": "瓶盖条码完整选型案例",
+    "depth": "detailed",
+    "notes": "25mm瓶盖、80mm纸箱余量、100/110mm高度、红背景蓝光、180mm30°对204mm60°对照",
+    "visual_pages": [
+      287,
+      288,
+      289,
+      290,
+      291,
+      292
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-cases",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 293,
+    "end": 293,
+    "title": "获得好图像的成像链",
+    "depth": "mentioned",
+    "notes": "相机像素、镜头分辨、光源、通光量与环境光控制",
+    "visual_pages": [
+      293
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-light-cases",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 294,
+    "end": 297,
+    "title": "二维三维关系与双目动机",
+    "depth": "detailed",
+    "notes": "E/F/弱标定仅目录提及；双眼视线图与单目绝对化表述需限定",
+    "visual_pages": [
+      294,
+      295,
+      296,
+      297
+    ],
+    "issues": [
+      "E/F矩阵和弱标定仅目录出现，不冒充详讲。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-stereo-depth",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 298,
+    "end": 301,
+    "title": "三角几何、视差深度与精度",
+    "depth": "detailed",
+    "notes": "Z=fB/d、相似三角形；同深度同视差与基线焦距分辨；深度平方误差解释",
+    "visual_pages": [
+      298,
+      299,
+      300,
+      301
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-stereo-depth",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "title": "匹配与重建两个子问题",
+    "depth": "detailed",
+    "notes": "立体图对与相机参数，遮挡和相似而非相同",
+    "visual_pages": [
+      302,
+      303
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-epipolar",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "title": "极线几何对象",
+    "depth": "detailed",
+    "notes": "基线、极平面、极点、极线及约束示意",
+    "visual_pages": [
+      304,
+      305
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-epipolar",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 306,
+    "end": 309,
+    "title": "图像校正",
+    "depth": "detailed",
+    "notes": "共面扫描行、极点无穷远、校正前后图；不等于解决对应",
+    "visual_pages": [
+      306,
+      307,
+      308,
+      309
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-epipolar",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 310,
+    "end": 313,
+    "title": "特征匹配",
+    "depth": "detailed",
+    "notes": "边缘/线/角点、相似度与极线搜索，左右城堡特征图",
+    "visual_pages": [
+      310,
+      311,
+      312,
+      313
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-stereo-match",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 314,
+    "end": 317,
+    "title": "稠密匹配、代价和全局模型",
+    "depth": "detailed",
+    "notes": "窗口SSD/SAD/MSE/MAD；Edata+λEsmooth，SA/DP/最大流/图割仅列名；稀疏稠密比较",
+    "visual_pages": [
+      314,
+      315,
+      316,
+      317
+    ],
+    "issues": [
+      "全局求解算法列名不是已提供完整算法实现。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-stereo-match",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 318,
+    "end": 320,
+    "title": "困难、失败图与约束",
+    "depth": "detailed",
+    "notes": "噪声/增益/透视/镜面/重复/无纹理/遮挡；极线与唯一/顺序/连续须区分",
+    "visual_pages": [
+      318,
+      319,
+      320
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-stereo-failures",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 321,
+    "end": 323,
+    "title": "结构光作用和编码分类",
+    "depth": "detailed",
+    "notes": "主动增加纹理，汉明距离1非普遍必要；二进制/Gray/灰度/相位/金字塔/伪随机；Salvi2004参考",
+    "visual_pages": [
+      321,
+      322,
+      323
+    ],
+    "issues": [
+      "相邻汉明距离1是特定编码设计条件，不是全部结构光必要条件。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-structured-light",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 324,
+    "end": 328,
+    "title": "各种结构光图案",
+    "depth": "detailed",
+    "notes": "二进制与Gray并排、改进Gray、n元灰度锯齿、金字塔、63×65伪随机数组",
+    "visual_pages": [
+      324,
+      325,
+      326,
+      327,
+      328
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-structured-light",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 329,
+    "end": 332,
+    "title": "投影模板、装置与结果",
+    "depth": "detailed",
+    "notes": "时序/空间图案、单/双相机投影器，High-Accuracy Stereo Depth Maps Using Structured Light参考；无数据代码",
+    "visual_pages": [
+      329,
+      330,
+      331,
+      332
+    ],
+    "issues": [
+      "无原始实验图片/标定/数据/代码，不声称重跑。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-structured-light",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 333,
+    "end": 334,
+    "title": "RGB-D代际与D400主动双目",
+    "depth": "detailed",
+    "notes": "Kinect1/2/DK产品图，RealSense双相机与可选IR投影文字",
+    "visual_pages": [
+      333,
+      334
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 335,
+    "end": 338,
+    "title": "Kinect一代结构规格与芯片",
+    "depth": "detailed",
+    "notes": "两个接收器与IR发射器、底座、阵列；336规格嵌图，337拆机、338USB与控制芯片",
+    "visual_pages": [
+      335,
+      336,
+      337,
+      338
+    ],
+    "issues": [
+      "历史一代规格需绑定代际，不是DK或v2参数。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 339,
+    "end": 341,
+    "title": "Kinect深度骨架音频功能",
+    "depth": "mentioned",
+    "notes": "339与340重复图；341深度骨架示例，未提供算法",
+    "visual_pages": [
+      339,
+      340,
+      341
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 342,
+    "end": 344,
+    "title": "Light Coding与参考平面模型",
+    "depth": "detailed",
+    "notes": "散斑、参考平面、互相关和插值教学模型；30幅和1—4m示例不等于已核商业实现",
+    "visual_pages": [
+      342,
+      343,
+      344
+    ],
+    "issues": [
+      "30参考平面互相关是课件解释模型，商业固件细节未独立核实。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 345,
+    "end": 345,
+    "title": "四元麦克风音频",
+    "depth": "mentioned",
+    "notes": "阵列照片，噪声/回声/波束功能",
+    "visual_pages": [
+      345
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd-applications",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "title": "DK相位检测与DepthSense表",
+    "depth": "mentioned",
+    "notes": "VCSEL/检测结双节点调制时序；IMX556与IMX570的像素、频率、像元、接口等历史规格表",
+    "visual_pages": [
+      346,
+      347
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd-applications",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 348,
+    "end": 348,
+    "title": "蒸汽高度拓展原题",
+    "depth": "mentioned",
+    "notes": "距料顶不超过100mm、蒸汽不穿汽原文语义待释；深度/红外相机与机器人图",
+    "visual_pages": [
+      348
+    ],
+    "issues": [
+      "蒸汽不穿汽原文含义待核实。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd-applications",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 349,
+    "end": 350,
+    "title": "表层信息融合与蒸汽模型案例",
+    "depth": "mentioned",
+    "notes": "ICP、Delaunay、温度和3D形貌；h=ΣT_n−vt缺变量单位；小于3cm为课件陈述；生产媒体图",
+    "visual_pages": [
+      349,
+      350
+    ],
+    "issues": [
+      "T_n未定义且量纲未知，原公式保留为待释义；3cm结果无数据证据。",
+      "照片及媒体封面，不代表动态工艺已核验。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd-applications",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 351,
+    "end": 353,
+    "title": "煤矿捡杂拓展原题和架构",
+    "depth": "mentioned",
+    "notes": "跳跃不规则3D轨迹，胶皮长杆网片木块；352频率感知特征融合检测+点云+预测网络与仿真；353媒体",
+    "visual_pages": [
+      351,
+      352,
+      353
+    ],
+    "issues": [
+      "架构图可读但无实现训练数据，不能报告网络指标。",
+      "媒体页无可读新增专业内容，动态未核验。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-rgbd-applications",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 354,
+    "end": 354,
+    "title": "瓶内杂质课后原题与尺寸图",
+    "depth": "mentioned",
+    "notes": "≥0.1mm、浮悬沉底、纤维玻璃色块毛发油渍；152.0±1.5高度、100外径等图上单位未写；参数和流程题H02",
+    "visual_pages": [
+      354
+    ],
+    "issues": [
+      "工程图有尺寸但本页未注明单位，不能说完全缺尺寸也不能擅认单位。"
+    ],
+    "destination": "docs/chapters/02-sensors.md#s02-impurity-design",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  },
+  {
+    "start": 355,
+    "end": 355,
+    "title": "致谢",
+    "depth": "noncontent",
+    "notes": "Thanks；无新增专业内容",
+    "visual_pages": [
+      355
+    ],
+    "issues": [],
+    "destination": "docs/chapters/02-sensors.md#s02-impurity-design",
+    "review_status": "visual-and-text-reviewed",
+    "visual_method": "fixed-CJK-PDF contact sheet; risk formulas individually enlarged"
+  }
+]

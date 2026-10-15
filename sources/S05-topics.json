@@ -1,0 +1,1038 @@
+[
+  {
+    "start": 1,
+    "end": 1,
+    "title": "封面",
+    "depth": "noncontent",
+    "notes": "视觉信息处理：成像原理、标定与测量；第8讲；2026.10.14。",
+    "visual_pages": [
+      1
+    ],
+    "issues": []
+  },
+  {
+    "start": 2,
+    "end": 2,
+    "title": "内容地图",
+    "depth": "noncontent",
+    "notes": "基本图像处理、成像标定、立体视觉、运动视觉、位姿测量关系图。",
+    "visual_pages": [
+      2
+    ],
+    "issues": [
+      "本文件未详细展开图像分割/边缘提取，不能据目录宣称覆盖。"
+    ]
+  },
+  {
+    "start": 3,
+    "end": 3,
+    "title": "成像几何",
+    "depth": "detailed",
+    "notes": "光心O和焦距f，物像对应示意。",
+    "visual_pages": [
+      3
+    ],
+    "issues": []
+  },
+  {
+    "start": 4,
+    "end": 4,
+    "title": "透视投影性质",
+    "depth": "detailed",
+    "notes": "点线平面及经过光心退化示意。",
+    "visual_pages": [
+      4
+    ],
+    "issues": [
+      "空间平面投影通常为二维区域；正对图像平面的平行线仍可平行。"
+    ]
+  },
+  {
+    "start": 5,
+    "end": 5,
+    "title": "消逝点",
+    "depth": "detailed",
+    "notes": "铁轨道路平行线与消逝点图。",
+    "visual_pages": [
+      5
+    ],
+    "issues": [
+      "同方向直线共享消逝点，不同方向不共享；像平面平行方向消逝点在无穷远。"
+    ]
+  },
+  {
+    "start": 6,
+    "end": 6,
+    "title": "齐次坐标动机",
+    "depth": "detailed",
+    "notes": "笛卡尔平行线相交困难与投影几何。",
+    "visual_pages": [
+      6
+    ],
+    "issues": []
+  },
+  {
+    "start": 7,
+    "end": 7,
+    "title": "齐次坐标定义",
+    "depth": "detailed",
+    "notes": "N+1分量表示N维点，w≠0反齐次，w=0方向点，仿射矩阵。",
+    "visual_pages": [
+      7
+    ],
+    "issues": [
+      "齐次点不允许全零；(1,2,0)为方向，不是有限点随意把w置零。"
+    ]
+  },
+  {
+    "start": 8,
+    "end": 8,
+    "title": "齐次缩放等价",
+    "depth": "detailed",
+    "notes": "[1,2,3]与[2,4,6]等价，规范w=1。",
+    "visual_pages": [
+      8
+    ],
+    "issues": [
+      "图中除数抄错：2/4和1a/2a应2/6和1a/3a；缩放系数非零。"
+    ]
+  },
+  {
+    "start": 9,
+    "end": 9,
+    "title": "右手坐标系",
+    "depth": "detailed",
+    "notes": "三维列向量P=(x,y,z)^T与右手图。",
+    "visual_pages": [
+      9
+    ],
+    "issues": []
+  },
+  {
+    "start": 10,
+    "end": 10,
+    "title": "二维刚体坐标变换",
+    "depth": "detailed",
+    "notes": "旧坐标=R新坐标+t，旋转和平移及3×3齐次变换。",
+    "visual_pages": [
+      10
+    ],
+    "issues": [
+      "主动旋点与被动换基勿混淆；图中公式是新坐标到旧坐标。"
+    ]
+  },
+  {
+    "start": 11,
+    "end": 11,
+    "title": "三维R与t",
+    "depth": "detailed",
+    "notes": "R∈SO(3)，R^-1=R^T，detR=1；平移t∈R³。",
+    "visual_pages": [
+      11
+    ],
+    "issues": []
+  },
+  {
+    "start": 12,
+    "end": 12,
+    "title": "针孔成像",
+    "depth": "detailed",
+    "notes": "光线与像平面交点，真实倒像和虚拟正像。",
+    "visual_pages": [
+      12
+    ],
+    "issues": []
+  },
+  {
+    "start": 13,
+    "end": 13,
+    "title": "相机坐标至物理像面",
+    "depth": "detailed",
+    "notes": "虚拟前像面，x=fXc/Zc,y=fYc/Zc，矩阵形式。",
+    "visual_pages": [
+      13
+    ],
+    "issues": [
+      "Zc>0和单位一致；三维到二维丢深度。"
+    ]
+  },
+  {
+    "start": 14,
+    "end": 14,
+    "title": "像素离散化",
+    "depth": "detailed",
+    "notes": "CCD/CMOS离散网格，坐标(0,0),(5,7)。",
+    "visual_pages": [
+      14
+    ],
+    "issues": [
+      "本教材固定左上原点、u右v下并说明像素中心约定。"
+    ]
+  },
+  {
+    "start": 15,
+    "end": 15,
+    "title": "物理像面至像素",
+    "depth": "detailed",
+    "notes": "u=x/dx+u0,v=y/dy+v0；dx,dy为像元物理尺寸。",
+    "visual_pages": [
+      15
+    ],
+    "issues": []
+  },
+  {
+    "start": 16,
+    "end": 16,
+    "title": "相机内参",
+    "depth": "detailed",
+    "notes": "K含fu=f/dx,fv=f/dy与主点，3D相机点到2D像素。",
+    "visual_pages": [
+      16
+    ],
+    "issues": [
+      "统一K为3×3，扩展[K",
+      "0]为3×4，课件标注混用。"
+    ]
+  },
+  {
+    "start": 17,
+    "end": 17,
+    "title": "世界至相机外参",
+    "depth": "detailed",
+    "notes": "Xc=RXw+t，4×4刚体变换；四坐标系图。",
+    "visual_pages": [
+      17
+    ],
+    "issues": []
+  },
+  {
+    "start": 18,
+    "end": 18,
+    "title": "完整坐标链",
+    "depth": "detailed",
+    "notes": "物理相机/世界变换与像素投影矩阵组合。",
+    "visual_pages": [
+      18
+    ],
+    "issues": []
+  },
+  {
+    "start": 19,
+    "end": 19,
+    "title": "四/五参数模型",
+    "depth": "detailed",
+    "notes": "K含fu、fv、skew与主点；M按旋转和平移分块，P=KM。",
+    "visual_pages": [
+      19
+    ],
+    "issues": [
+      "平移t不是相机世界位置，相机中心C=-R^Tt。"
+    ]
+  },
+  {
+    "start": 20,
+    "end": 20,
+    "title": "径向畸变",
+    "depth": "detailed",
+    "notes": "理想像点(u',v')经1+kr²映射实际像点；桶形枕形网格。",
+    "visual_pages": [
+      20
+    ],
+    "issues": [
+      "原图注系数符号与理想→畸变公式不一致：该前向约定k<0桶形、k>0枕形；r单位决定k单位。"
+    ]
+  },
+  {
+    "start": 21,
+    "end": 21,
+    "title": "四类逆问题",
+    "depth": "detailed",
+    "notes": "已知/未知参数对照成像、标定、测量、定位；SLAM仅提及。",
+    "visual_pages": [
+      21
+    ],
+    "issues": [
+      "SLAM不在此文件展开。"
+    ]
+  },
+  {
+    "start": 22,
+    "end": 22,
+    "title": "标定定义与目标",
+    "depth": "detailed",
+    "notes": "由已知世界点和像素对应确定内外参数或混合P；标定块。",
+    "visual_pages": [
+      22
+    ],
+    "issues": []
+  },
+  {
+    "start": 23,
+    "end": 23,
+    "title": "传统标定物",
+    "depth": "detailed",
+    "notes": "棋盘、圆点与三维标定块，精度/结构要求。",
+    "visual_pages": [
+      23
+    ],
+    "issues": []
+  },
+  {
+    "start": 24,
+    "end": 24,
+    "title": "DLT单点方程",
+    "depth": "detailed",
+    "notes": "消去Zc后每组3D-2D对应提供两线性方程。",
+    "visual_pages": [
+      24
+    ],
+    "issues": []
+  },
+  {
+    "start": 25,
+    "end": 25,
+    "title": "DLT矩阵",
+    "depth": "detailed",
+    "notes": "A为2N×12，L为12×1，AL=0。",
+    "visual_pages": [
+      25
+    ],
+    "issues": [
+      "理想一般位置至少6点，需非共面且rankA=11；噪声用最小奇异向量。"
+    ]
+  },
+  {
+    "start": 26,
+    "end": 26,
+    "title": "DLT尺度",
+    "depth": "detailed",
+    "notes": "P只定到尺度，选p34≠0归一化为11参数。",
+    "visual_pages": [
+      26
+    ],
+    "issues": [
+      "原min",
+      "",
+      "AL",
+      "",
+      "缺",
+      "",
+      "L",
+      "",
+      "=1会选零解；p34=0不能用此归一化。"
+    ]
+  },
+  {
+    "start": 27,
+    "end": 27,
+    "title": "非齐次DLT",
+    "depth": "detailed",
+    "notes": "C为2N×11，B为2N向量，CL'=B。",
+    "visual_pages": [
+      27
+    ],
+    "issues": []
+  },
+  {
+    "start": 28,
+    "end": 28,
+    "title": "P分解总关系",
+    "depth": "detailed",
+    "notes": "由DLT投影矩阵与K、R、t的分块关系逐行比较，恢复内外参。",
+    "visual_pages": [
+      28
+    ],
+    "issues": [
+      "C满列秩才可逆，实践宜SVD/QR。"
+    ]
+  },
+  {
+    "start": 29,
+    "end": 29,
+    "title": "DLT恢复尺度",
+    "depth": "detailed",
+    "notes": "根据旋转第三行单位范数恢复投影尺度的绝对值。",
+    "visual_pages": [
+      29
+    ],
+    "issues": [
+      "物体可见约束各点Zc>0，任意世界原点不自动意味着tz>0；尺度符号须检查。"
+    ]
+  },
+  {
+    "start": 30,
+    "end": 30,
+    "title": "DLT恢复主点",
+    "depth": "detailed",
+    "notes": "旋转行正交，点积u0=p34² p1'^T p3'，v0同理。",
+    "visual_pages": [
+      30
+    ],
+    "issues": []
+  },
+  {
+    "start": 31,
+    "end": 31,
+    "title": "DLT恢复焦距",
+    "depth": "detailed",
+    "notes": "利用投影矩阵行向量的叉乘范数恢复焦距。",
+    "visual_pages": [
+      31
+    ],
+    "issues": [
+      "只在本页采用的零skew模型下使用该简式。"
+    ]
+  },
+  {
+    "start": 32,
+    "end": 32,
+    "title": "DLT恢复外参",
+    "depth": "detailed",
+    "notes": "r1=(p34/fu)(p1'-u0p3')，r2同理；tx=(p34/fu)(p14'-u0)。",
+    "visual_pages": [
+      32
+    ],
+    "issues": [
+      "含噪R需正交化并检查det=+1。"
+    ]
+  },
+  {
+    "start": 33,
+    "end": 33,
+    "title": "单平面退化",
+    "depth": "detailed",
+    "notes": "zw=0使设计矩阵三列消失。",
+    "visual_pages": [
+      33
+    ],
+    "issues": [
+      "单幅平面无法恢复一般未知全部内外参；需多姿态或额外已知约束。"
+    ]
+  },
+  {
+    "start": 34,
+    "end": 34,
+    "title": "Tsai基本比例",
+    "depth": "detailed",
+    "notes": "xc/yc=sx^-1(u'-u0)/(v'-v0)，已知主点。",
+    "visual_pages": [
+      34
+    ],
+    "issues": []
+  },
+  {
+    "start": 35,
+    "end": 35,
+    "title": "Tsai径向一致",
+    "depth": "detailed",
+    "notes": "同径向畸变系数抵消，理想和实测方向比例一致。",
+    "visual_pages": [
+      35
+    ],
+    "issues": [
+      "r必须相对畸变中心，原写u²+v²未减主点。"
+    ]
+  },
+  {
+    "start": 36,
+    "end": 36,
+    "title": "Tsai线性参数",
+    "depth": "detailed",
+    "notes": "代入R,t并除ty得到7参数线性关系。",
+    "visual_pages": [
+      36
+    ],
+    "issues": [
+      "ty≠0是该参数化条件，不能任意配置。"
+    ]
+  },
+  {
+    "start": 37,
+    "end": 37,
+    "title": "Tsai两阶段",
+    "depth": "detailed",
+    "notes": "先R,tx,ty,sx，后非线性估f,tz,k1。",
+    "visual_pages": [
+      37
+    ],
+    "issues": [
+      "仅概述恢复过程，未逐个推导7参数至R的全部步骤。"
+    ]
+  },
+  {
+    "start": 38,
+    "end": 38,
+    "title": "平面单应",
+    "depth": "detailed",
+    "notes": "zw=0，平面到像面的H，H由K与旋转前两列和平移构成。",
+    "visual_pages": [
+      38
+    ],
+    "issues": [
+      "应写λ_i p_i=H q_i,H∼K[r1 r2 t]，不能将每点不同1/Zci吸收为同一常数H。"
+    ]
+  },
+  {
+    "start": 39,
+    "end": 39,
+    "title": "单应估计",
+    "depth": "detailed",
+    "notes": "棋盘平面坐标固定，提取像素交点，线性估H；不同姿态不同H。",
+    "visual_pages": [
+      39
+    ],
+    "issues": [
+      "至少4对无三点共线且不退化；齐次等号应按尺度。"
+    ]
+  },
+  {
+    "start": 40,
+    "end": 40,
+    "title": "张正友内参约束",
+    "depth": "detailed",
+    "notes": "B=K^-T K^-1，两列正交与等长给每幅两约束，三种姿态。",
+    "visual_pages": [
+      40
+    ],
+    "issues": [
+      "至少3个非退化姿态是一般五内参线性初始化条件；不是拍三张相同图。"
+    ]
+  },
+  {
+    "start": 41,
+    "end": 41,
+    "title": "张正友流程",
+    "depth": "detailed",
+    "notes": "多角度五幅以上、角点、H、内外参、畸变、优化；引Zhang2000。",
+    "visual_pages": [
+      41
+    ],
+    "issues": [
+      "原文5幅是实践建议；需区分线性初值与非线性重投影优化。"
+    ]
+  },
+  {
+    "start": 42,
+    "end": 42,
+    "title": "MATLAB内参示例",
+    "depth": "detailed",
+    "notes": "fc=[657.80887,658.51372],cc=[302.95191,248.06759],畸变及pixel error示例，重投影图。",
+    "visual_pages": [
+      42
+    ],
+    "issues": [
+      "仅课件演示结果，原图像数据/代码未提供，不声称复现。"
+    ]
+  },
+  {
+    "start": 43,
+    "end": 43,
+    "title": "MATLAB外参双目示例",
+    "depth": "detailed",
+    "notes": "Tc_ext、Rodrigues向量和3×3R，工具界面及pixel error。",
+    "visual_pages": [
+      43
+    ],
+    "issues": [
+      "原数据缺失，平移单位依赖标定板单位未给。"
+    ]
+  },
+  {
+    "start": 44,
+    "end": 44,
+    "title": "双目动机",
+    "depth": "detailed",
+    "notes": "两视点消深度歧义，三角测量结构。",
+    "visual_pages": [
+      44
+    ],
+    "issues": []
+  },
+  {
+    "start": 45,
+    "end": 45,
+    "title": "平行双目视差",
+    "depth": "detailed",
+    "notes": "课件坐标x向左，d=xr-xl，Z=fB/d。",
+    "visual_pages": [
+      45
+    ],
+    "issues": [
+      "若教材u右用d=ul-ur并统一正号；f与d需同单位。"
+    ]
+  },
+  {
+    "start": 46,
+    "end": 46,
+    "title": "基线权衡",
+    "depth": "detailed",
+    "notes": "短/长基线公共视野图、深度误差关系提示。",
+    "visual_pages": [
+      46
+    ],
+    "issues": [
+      "应在固定Z、f及视差误差σd下比较σZ≈Z²σd/(fB)。"
+    ]
+  },
+  {
+    "start": 47,
+    "end": 47,
+    "title": "任意姿态双目",
+    "depth": "detailed",
+    "notes": "左相机为世界，Pr=RP+t，两相机投影方程三角化。",
+    "visual_pages": [
+      47
+    ],
+    "issues": [
+      "K3×3不能直接乘4×4矩阵；改K[I",
+      "0]/K[R",
+      "t]。"
+    ]
+  },
+  {
+    "start": 48,
+    "end": 48,
+    "title": "重建与匹配子问题",
+    "depth": "detailed",
+    "notes": "已知标定参数由视差恢复3D；对应点匹配。",
+    "visual_pages": [
+      48
+    ],
+    "issues": []
+  },
+  {
+    "start": 49,
+    "end": 49,
+    "title": "共轭点匹配",
+    "depth": "detailed",
+    "notes": "重复点阵与场景图，寻找同一三维点两像点。",
+    "visual_pages": [
+      49
+    ],
+    "issues": []
+  },
+  {
+    "start": 50,
+    "end": 50,
+    "title": "极线几何",
+    "depth": "detailed",
+    "notes": "极平面、极线、极点，沿线搜索降低2D搜索维度。",
+    "visual_pages": [
+      50
+    ],
+    "issues": [
+      "两光心和点不共线才定唯一极平面，极点可在无穷远。"
+    ]
+  },
+  {
+    "start": 51,
+    "end": 51,
+    "title": "反对称矩阵",
+    "depth": "detailed",
+    "notes": "[t]×作用等于t×r，转置取负，平行向量叉乘零。",
+    "visual_pages": [
+      51
+    ],
+    "issues": [
+      "叉乘零表示共线含反向和零向量，不能仅称同向。"
+    ]
+  },
+  {
+    "start": 52,
+    "end": 52,
+    "title": "消去三维点",
+    "depth": "detailed",
+    "notes": "各相机投影矩阵分块为3×3部分和3×1平移相关列，消去世界点得到两像点及深度关系。",
+    "visual_pages": [
+      52
+    ],
+    "issues": []
+  },
+  {
+    "start": 53,
+    "end": 53,
+    "title": "叉乘消深度",
+    "depth": "detailed",
+    "notes": "m=m2b-M2A M1A^-1 m1b；左叉m再乘p2^T，p2^T[m]×p2=0。",
+    "visual_pages": [
+      53
+    ],
+    "issues": [
+      "应解释反对称二次型恒零，不只写Why。"
+    ]
+  },
+  {
+    "start": 54,
+    "end": 54,
+    "title": "基本矩阵",
+    "depth": "detailed",
+    "notes": "p2^TFp1=0，F=[m]×M2A M1A^-1，极线l2=Fp1。",
+    "visual_pages": [
+      54
+    ],
+    "issues": [
+      "必要条件不保证匹配正确；非零平移时F秩2，纯旋转需单应处理。"
+    ]
+  },
+  {
+    "start": 55,
+    "end": 55,
+    "title": "匹配其他约束",
+    "depth": "detailed",
+    "notes": "唯一性、连续性、边缘匹配与区域相关。",
+    "visual_pages": [
+      55
+    ],
+    "issues": [
+      "遮挡、反射、深度边缘会破坏简化约束。"
+    ]
+  },
+  {
+    "start": 56,
+    "end": 56,
+    "title": "立体重建案例图",
+    "depth": "mentioned",
+    "notes": "两图与视差，极线校正和应用界面。",
+    "visual_pages": [
+      56
+    ],
+    "issues": [
+      "未给原始数据/算法参数，不能声称复现。"
+    ]
+  },
+  {
+    "start": 57,
+    "end": 57,
+    "title": "单目测量路线",
+    "depth": "mentioned",
+    "notes": "运动匹配、已知平面、消逝点位姿、结构光列表。",
+    "visual_pages": [
+      57
+    ],
+    "issues": [
+      "单张单目无先验不能确定一般三维；运动匹配用多帧；消逝点定位未展开。"
+    ]
+  },
+  {
+    "start": 58,
+    "end": 58,
+    "title": "运动构造双目",
+    "depth": "detailed",
+    "notes": "平台已知R(Δt),T(Δt)，两帧作为两视点。",
+    "visual_pages": [
+      58
+    ],
+    "issues": [
+      "要求场景近静态、非零平移基线；纯旋转无三角深度。"
+    ]
+  },
+  {
+    "start": 59,
+    "end": 59,
+    "title": "运动测量案例",
+    "depth": "mentioned",
+    "notes": "棋盘图对、多视点与重建曲面。",
+    "visual_pages": [
+      59
+    ],
+    "issues": [
+      "无原始图像和真值，限解释性案例。"
+    ]
+  },
+  {
+    "start": 60,
+    "end": 60,
+    "title": "垂直平面设置",
+    "depth": "detailed",
+    "notes": "世界Z=0，轴对齐R=I,t=(0,0,d)^T。",
+    "visual_pages": [
+      60
+    ],
+    "issues": []
+  },
+  {
+    "start": 61,
+    "end": 61,
+    "title": "垂直平面测量",
+    "depth": "detailed",
+    "notes": "xw=d(u-u0)/fu，yw=d(v-v0)/fv，两点相减消主点。",
+    "visual_pages": [
+      61
+    ],
+    "issues": []
+  },
+  {
+    "start": 62,
+    "end": 62,
+    "title": "倾斜平面反算",
+    "depth": "detailed",
+    "notes": "已标P且zw=0，解关于xw,yw的2×2方程。",
+    "visual_pages": [
+      62
+    ],
+    "issues": [
+      "p34=0时不应相除，未归一化方程仍可用；系数矩阵需非奇异。"
+    ]
+  },
+  {
+    "start": 63,
+    "end": 63,
+    "title": "倾斜平面重复",
+    "depth": "detailed",
+    "notes": "与物理页62同式同图。",
+    "visual_pages": [
+      63
+    ],
+    "issues": [
+      "重复页面合并正文并保留来源。"
+    ]
+  },
+  {
+    "start": 64,
+    "end": 64,
+    "title": "结构光",
+    "depth": "detailed",
+    "notes": "相机射线与激光平面交点，给x,y,z解析式。",
+    "visual_pages": [
+      64
+    ],
+    "issues": [
+      "原d说距离但式负号对应n^TX+d=0的有符号偏置；须声明单位法向量与符号。"
+    ]
+  },
+  {
+    "start": 65,
+    "end": 65,
+    "title": "PnP位姿",
+    "depth": "detailed",
+    "notes": "已知3D-2D对应和K求R,t；P3P多解、共面点讨论。",
+    "visual_pages": [
+      65
+    ],
+    "issues": [
+      "原尺度误写zw而应相机深度Zc；四共面无三点共线并非无条件数值唯一可靠，需退化/正深度与噪声讨论。"
+    ]
+  },
+  {
+    "start": 66,
+    "end": 66,
+    "title": "两视图平面单应",
+    "depth": "detailed",
+    "notes": "平面n^TX1=d时H=K2(R+t n^T/d)K1^-1。",
+    "visual_pages": [
+      66
+    ],
+    "issues": [
+      "像素齐次关系应∼而非普通等号；不是所有三维点共享H，纯旋转是例外。"
+    ]
+  },
+  {
+    "start": 67,
+    "end": 67,
+    "title": "背景减除",
+    "depth": "detailed",
+    "notes": "背景建立、目标决策、背景更新；静态机位检测图。",
+    "visual_pages": [
+      67
+    ],
+    "issues": []
+  },
+  {
+    "start": 68,
+    "end": 68,
+    "title": "帧间差分",
+    "depth": "detailed",
+    "notes": "abs(I_t-I_prev)>T生成掩膜；噪声、空洞与光照问题。",
+    "visual_pages": [
+      68
+    ],
+    "issues": []
+  },
+  {
+    "start": 69,
+    "end": 69,
+    "title": "跟踪任务",
+    "depth": "detailed",
+    "notes": "遮挡、尺度、背景、光照、旋转和高速运动案例。",
+    "visual_pages": [
+      69
+    ],
+    "issues": []
+  },
+  {
+    "start": 70,
+    "end": 70,
+    "title": "检测与跟踪组织",
+    "depth": "detailed",
+    "notes": "DBT逐帧检出后关联，TBD利用时间证据跟踪检测；图示。",
+    "visual_pages": [
+      70
+    ],
+    "issues": [
+      "TBD在不同文献有更严格定义，保持课件概览层次。"
+    ]
+  },
+  {
+    "start": 71,
+    "end": 71,
+    "title": "跟踪方法概览",
+    "depth": "mentioned",
+    "notes": "运动预测、Kalman、Mean shift、MCMC/粒子、外观、在线学习、深度网络。",
+    "visual_pages": [
+      71
+    ],
+    "issues": [
+      "粒子滤波是序贯蒙特卡洛，不等同于MCMC；“当前最火”仅当时课件表述。"
+    ]
+  },
+  {
+    "start": 72,
+    "end": 72,
+    "title": "运动场",
+    "depth": "detailed",
+    "notes": "三维相对速度投影的二维速度，物理定义示意。",
+    "visual_pages": [
+      72
+    ],
+    "issues": []
+  },
+  {
+    "start": 73,
+    "end": 73,
+    "title": "光流场",
+    "depth": "detailed",
+    "notes": "亮度模式变化；前向、旋转、平移箭头图；光照伪流。",
+    "visual_pages": [
+      73
+    ],
+    "issues": [
+      "“越近光流越大”针对给定平移分量和几何，不适用于纯旋转。"
+    ]
+  },
+  {
+    "start": 74,
+    "end": 74,
+    "title": "光流案例图",
+    "depth": "detailed",
+    "notes": "Translation,Rotation,Scaling三类矢量场实例。",
+    "visual_pages": [
+      74
+    ],
+    "issues": []
+  },
+  {
+    "start": 75,
+    "end": 75,
+    "title": "运动场与光流反例",
+    "depth": "detailed",
+    "notes": "旋转匀色球与静止光照变化球，两者可不一致。",
+    "visual_pages": [
+      75
+    ],
+    "issues": []
+  },
+  {
+    "start": 76,
+    "end": 76,
+    "title": "亮度约束推导",
+    "depth": "detailed",
+    "notes": "亮度恒常Taylor一阶展开除Δt，Ix u+Iy v+It=0；梯度方向只定一分量。",
+    "visual_pages": [
+      76
+    ],
+    "issues": [
+      "u,v在本节是像素速度而非像素位置；需小位移可微/亮度假设。"
+    ]
+  },
+  {
+    "start": 77,
+    "end": 77,
+    "title": "Lucas-Kanade",
+    "depth": "detailed",
+    "notes": "局部光流常量，N×2梯度矩阵，最小二乘；图像金字塔。",
+    "visual_pages": [
+      77
+    ],
+    "issues": [
+      "应简称LK不是KL；A^TA需满秩，平坦/单边缘孔径问题；金字塔帮助小位移不直接保证同运动。"
+    ]
+  },
+  {
+    "start": 78,
+    "end": 78,
+    "title": "Horn-Schunck能量",
+    "depth": "detailed",
+    "notes": "亮度残差与全局平滑梯度平方积分，λ约定。",
+    "visual_pages": [
+      78
+    ],
+    "issues": [
+      "平滑项应惩罚而非强令等于0；运动边界可能不平滑。"
+    ]
+  },
+  {
+    "start": 79,
+    "end": 79,
+    "title": "HS离散化",
+    "depth": "detailed",
+    "notes": "四邻平均、亮度残差，偏导为0的2×2局部更新方程。",
+    "visual_pages": [
+      79
+    ],
+    "issues": [
+      "需全局迭代/边界条件，不能当独立像素一次求解。"
+    ]
+  },
+  {
+    "start": 80,
+    "end": 80,
+    "title": "HS迭代",
+    "depth": "detailed",
+    "notes": "行列式1+λ(Ix²+Iy²)，求逆化简邻域平均减残差校正。",
+    "visual_pages": [
+      80
+    ],
+    "issues": [
+      "λ位置与常见α²互逆，写明约定；λ≥0。"
+    ]
+  },
+  {
+    "start": 81,
+    "end": 81,
+    "title": "光流运动检测案例",
+    "depth": "mentioned",
+    "notes": "人物帧、光流矢量、前景掩膜与叠加图。",
+    "visual_pages": [
+      81
+    ],
+    "issues": [
+      "无原始视频与参数，不宣称复现。"
+    ]
+  },
+  {
+    "start": 82,
+    "end": 82,
+    "title": "课末四项作业",
+    "depth": "detailed",
+    "notes": "成像数值；标定目的及DLT/Tsai/张正友；极线推导；结构光推导。",
+    "visual_pages": [
+      82
+    ],
+    "issues": [
+      "原题序号重复2；数值解括注(736,328)错误，按给定R,t得到(735.7576,427.3401)。"
+    ]
+  },
+  {
+    "start": 83,
+    "end": 83,
+    "title": "致谢",
+    "depth": "noncontent",
+    "notes": "THANK YOU，页脚83/68。",
+    "visual_pages": [
+      83
+    ],
+    "issues": [
+      "实际83物理页，页脚/88,/68,/58不作页数依据。"
+    ]
+  }
+]

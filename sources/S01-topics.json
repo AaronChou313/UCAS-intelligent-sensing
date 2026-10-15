@@ -1,0 +1,310 @@
+[
+  {
+    "start": 1,
+    "end": 2,
+    "title": "封面与教师介绍",
+    "depth": "noncontent",
+    "notes": "不作为知识考核范围",
+    "visual_pages": [
+      1,
+      2
+    ],
+    "issues": []
+  },
+  {
+    "start": 3,
+    "end": 4,
+    "title": "课程定位与安排",
+    "depth": "detailed",
+    "notes": "封面2025、考试日期2026；原安排仅登记，不推断当前有效性",
+    "visual_pages": [
+      3,
+      4
+    ],
+    "issues": []
+  },
+  {
+    "start": 5,
+    "end": 9,
+    "title": "柔性电阻与热电偶转换链",
+    "depth": "detailed",
+    "notes": "5、7—8有公式；6、9是演示/视频占位，静态页无可读教学内容",
+    "visual_pages": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "issues": []
+  },
+  {
+    "start": 10,
+    "end": 13,
+    "title": "传感器定义分类与组成",
+    "depth": "detailed",
+    "notes": "敏感元件、转换元件和电路",
+    "visual_pages": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "issues": []
+  },
+  {
+    "start": 14,
+    "end": 17,
+    "title": "发展与系统形态",
+    "depth": "mentioned",
+    "notes": "产业数字与历史按课件背景处理",
+    "visual_pages": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "issues": []
+  },
+  {
+    "start": 18,
+    "end": 22,
+    "title": "智能传感器示例",
+    "depth": "mentioned",
+    "notes": "Kinect版本与结构光并列不可泛化",
+    "visual_pages": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "issues": []
+  },
+  {
+    "start": 23,
+    "end": 28,
+    "title": "智能结构与功能",
+    "depth": "detailed",
+    "notes": "校准、补偿、自适应、存储、诊断、通信为功能集合",
+    "visual_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "issues": []
+  },
+  {
+    "start": 29,
+    "end": 29,
+    "title": "误差指标",
+    "depth": "detailed",
+    "notes": "平均误差公式实际MAE",
+    "visual_pages": [
+      29
+    ],
+    "issues": []
+  },
+  {
+    "start": 30,
+    "end": 30,
+    "title": "分辨率与ADC",
+    "depth": "detailed",
+    "notes": "端点码距与量化箱步长区分",
+    "visual_pages": [
+      30
+    ],
+    "issues": []
+  },
+  {
+    "start": 31,
+    "end": 32,
+    "title": "动态范围灵敏度线性度",
+    "depth": "detailed",
+    "notes": "电流幅度dB系数修订，线性度说明参考直线",
+    "visual_pages": [
+      31,
+      32
+    ],
+    "issues": []
+  },
+  {
+    "start": 33,
+    "end": 33,
+    "title": "采样与动态响应",
+    "depth": "detailed",
+    "notes": "原文带宽与采样率混淆",
+    "visual_pages": [
+      33
+    ],
+    "issues": [
+      "原文带宽与采样率混淆"
+    ]
+  },
+  {
+    "start": 34,
+    "end": 38,
+    "title": "模型处理与嵌入实现",
+    "depth": "mentioned",
+    "notes": "多种算法仅列名称，未逐一推导",
+    "visual_pages": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "issues": []
+  },
+  {
+    "start": 39,
+    "end": 41,
+    "title": "控制应用与视觉伺服",
+    "depth": "mentioned",
+    "notes": "帧率例子不是当前性能保证",
+    "visual_pages": [
+      39,
+      40,
+      41
+    ],
+    "issues": []
+  },
+  {
+    "start": 42,
+    "end": 50,
+    "title": "智能传感应用案例",
+    "depth": "mentioned",
+    "notes": "桥梁、医学、交通、国防、家居、可穿戴、农业、生物识别",
+    "visual_pages": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "issues": []
+  },
+  {
+    "start": 51,
+    "end": 66,
+    "title": "机器人内外部与多模态传感",
+    "depth": "detailed",
+    "notes": "GNSS旧背景不认定当前卫星数和普遍精度",
+    "visual_pages": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "issues": []
+  },
+  {
+    "start": 67,
+    "end": 68,
+    "title": "配置选型",
+    "depth": "detailed",
+    "notes": "对象环境精度量程灵敏度响应稳定互换接口经济性",
+    "visual_pages": [
+      67,
+      68
+    ],
+    "issues": []
+  },
+  {
+    "start": 69,
+    "end": 72,
+    "title": "导丝在线检测",
+    "depth": "detailed",
+    "notes": "43μs拖影约1.63（原近似）或1.671像素；串行时序假设",
+    "visual_pages": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "issues": []
+  },
+  {
+    "start": 73,
+    "end": 75,
+    "title": "发展方向",
+    "depth": "mentioned",
+    "notes": "微型化、融合、网络、生物、虚拟传感、可靠与安全",
+    "visual_pages": [
+      73,
+      74,
+      75
+    ],
+    "issues": []
+  },
+  {
+    "start": 76,
+    "end": 83,
+    "title": "学术组织与文献线索",
+    "depth": "mentioned",
+    "notes": "期刊统计截图2014年，不能当当前排名",
+    "visual_pages": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "issues": []
+  },
+  {
+    "start": 84,
+    "end": 84,
+    "title": "课堂讨论原题",
+    "depth": "detailed",
+    "notes": "家庭人形机器人传感及技术瓶颈",
+    "visual_pages": [
+      84
+    ],
+    "issues": []
+  },
+  {
+    "start": 85,
+    "end": 85,
+    "title": "误差表与相机分辨率原题",
+    "depth": "detailed",
+    "notes": "表格已单页核对；题面被嵌图遮挡部分以XML交叉读取",
+    "visual_pages": [
+      85
+    ],
+    "issues": []
+  },
+  {
+    "start": 86,
+    "end": 86,
+    "title": "致谢",
+    "depth": "noncontent",
+    "notes": "结束页",
+    "visual_pages": [
+      86
+    ],
+    "issues": []
+  }
+]

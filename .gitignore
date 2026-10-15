@@ -8,3 +8,4 @@ sources/review/
 __pycache__/
 PPT/
 .preview/
+docs/public/version.json

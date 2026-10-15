@@ -1,0 +1,138 @@
+[
+  {
+    "source": "S01",
+    "page": 6,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media1.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S01",
+    "page": 9,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media3.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S01",
+    "page": 9,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media2.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S01",
+    "page": 41,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media5.wmv",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S01",
+    "page": 41,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media4.wmv",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 96,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media1.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 158,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media2.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 159,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media3.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 177,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media4.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 351,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media5.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 352,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media6.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S02",
+    "page": 353,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media7.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S03",
+    "page": 11,
+    "kind": "video",
+    "embedded": false,
+    "resource": "外部本地路径（未取得）",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S03",
+    "page": 37,
+    "kind": "audio",
+    "embedded": true,
+    "resource": "audio2.wav",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S03",
+    "page": 37,
+    "kind": "audio",
+    "embedded": true,
+    "resource": "audio1.wav",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S03",
+    "page": 137,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media1.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  },
+  {
+    "source": "S03",
+    "page": 138,
+    "kind": "video",
+    "embedded": true,
+    "resource": "media2.mp4",
+    "review": "已登记静态占位；未完整播放核验"
+  }
+]

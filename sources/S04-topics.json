@@ -1,0 +1,1048 @@
+[
+  {
+    "start": 1,
+    "end": 1,
+    "title": "封面",
+    "depth": "noncontent",
+    "notes": "传感数据处理；第6讲；封面2026.10.04。",
+    "visual_pages": [
+      1
+    ],
+    "issues": []
+  },
+  {
+    "start": 2,
+    "end": 2,
+    "title": "内容路线",
+    "depth": "noncontent",
+    "notes": "误差、粗大/随机误差滤波、系统误差判别和补偿、校正。",
+    "visual_pages": [
+      2
+    ],
+    "issues": []
+  },
+  {
+    "start": 3,
+    "end": 3,
+    "title": "误差、真值与平均值",
+    "depth": "detailed",
+    "notes": "x=M-A0；平均值及频数加权形式；偏差δ=平均值-A0。",
+    "visual_pages": [
+      3
+    ],
+    "issues": [
+      "n次测量的求和却写0..n；平均趋真值要求零均值与适用大数条件，系统偏差不会自动消失。"
+    ]
+  },
+  {
+    "start": 4,
+    "end": 4,
+    "title": "残差与样本方差",
+    "depth": "detailed",
+    "notes": "v_i=M_i-平均值；已知真值和估计均值的平方和分母分别n与n-1。",
+    "visual_pages": [
+      4
+    ],
+    "issues": [
+      "真值平方误差含偏差平方，只有中心真值/无偏条件下可称方差；样本标准差本身并非无偏估计。"
+    ]
+  },
+  {
+    "start": 5,
+    "end": 5,
+    "title": "系统误差",
+    "depth": "detailed",
+    "notes": "恒定、线性、非线性、周期和复杂曲线及产生原因。",
+    "visual_pages": [
+      5
+    ],
+    "issues": []
+  },
+  {
+    "start": 6,
+    "end": 6,
+    "title": "粗大误差",
+    "depth": "detailed",
+    "notes": "异常观测、条件突变、故障；坏值识别和处置。",
+    "visual_pages": [
+      6
+    ],
+    "issues": []
+  },
+  {
+    "start": 7,
+    "end": 7,
+    "title": "随机误差",
+    "depth": "detailed",
+    "notes": "微小偶然因素及随机波形。",
+    "visual_pages": [
+      7
+    ],
+    "issues": [
+      "随机误差不能逐次精确修正，但统计影响可降低；不必相互独立。"
+    ]
+  },
+  {
+    "start": 8,
+    "end": 8,
+    "title": "随机误差分布特征",
+    "depth": "detailed",
+    "notes": "集中、对称、有界和抵偿；均匀、三角、正态、t分布图片。",
+    "visual_pages": [
+      8
+    ],
+    "issues": [
+      "并非所有随机误差都对称单峰；正态/t分布无有限硬边界；抵偿需零均值等条件。"
+    ]
+  },
+  {
+    "start": 9,
+    "end": 9,
+    "title": "加法误差传播",
+    "depth": "detailed",
+    "notes": "Y=X1+X2；单次ΔY和方差相加。",
+    "visual_pages": [
+      9
+    ],
+    "issues": [
+      "第二个测量误差原式误写ΔX1，应ΔX2；方差相加需不相关。"
+    ]
+  },
+  {
+    "start": 10,
+    "end": 10,
+    "title": "线性组合误差传播",
+    "depth": "detailed",
+    "notes": "Y=Σa_i X_i+K；ΔY=Σa_iΔX_i，σY²=Σa_i²σi²。",
+    "visual_pages": [
+      10
+    ],
+    "issues": [
+      "索引0..N与1..N不统一。"
+    ]
+  },
+  {
+    "start": 11,
+    "end": 11,
+    "title": "非线性误差传播",
+    "depth": "detailed",
+    "notes": "在真值处一阶Taylor展开，独立误差方差按灵敏度系数平方加权。",
+    "visual_pages": [
+      11
+    ],
+    "issues": [
+      "非线性展开等式应为一阶近似并保留余项边界。"
+    ]
+  },
+  {
+    "start": 12,
+    "end": 12,
+    "title": "弓高弦长例",
+    "depth": "detailed",
+    "notes": "s=500mm,σs=.05mm,h=50mm,σh=.1mm；D=s²/(4h)+h；导数5和-24；σD≈2.41mm。",
+    "visual_pages": [
+      12
+    ],
+    "issues": []
+  },
+  {
+    "start": 13,
+    "end": 13,
+    "title": "模拟滤波",
+    "depth": "mentioned",
+    "notes": "RLC无源、运放RC有源；图还展示电力系统有源谐波补偿。",
+    "visual_pages": [
+      13
+    ],
+    "issues": [
+      "运放有源滤波与电力PWM有源补偿是不同实现，勿混为同一定义。"
+    ]
+  },
+  {
+    "start": 14,
+    "end": 14,
+    "title": "数字滤波特点",
+    "depth": "detailed",
+    "notes": "软件运算、参数灵活、低频滤波；可靠性和精度讨论。",
+    "visual_pages": [
+      14
+    ],
+    "issues": [
+      "仍受采样率、量化、有限精度、算力和采样硬件影响。"
+    ]
+  },
+  {
+    "start": 15,
+    "end": 15,
+    "title": "限幅滤波规则",
+    "depth": "detailed",
+    "notes": "绝对差Δx=abs(x_n-x_prev)，超阈值用前值或线性预测值替换。",
+    "visual_pages": [
+      15
+    ],
+    "issues": []
+  },
+  {
+    "start": 16,
+    "end": 16,
+    "title": "限幅阈值与算例",
+    "depth": "detailed",
+    "notes": "A=5，序列中17替换7；A=VΔT+ε及自适应历史变化阈值。",
+    "visual_pages": [
+      16
+    ],
+    "issues": [
+      "先前滤波值/原始值应区分，真实阶跃会被误判。"
+    ]
+  },
+  {
+    "start": 17,
+    "end": 17,
+    "title": "中值与窗口",
+    "depth": "detailed",
+    "notes": "奇数窗口排序取中值；1D和2D邻域/十字窗口。",
+    "visual_pages": [
+      17
+    ],
+    "issues": [
+      "窗口扩大并非无条件更好，会损细节。"
+    ]
+  },
+  {
+    "start": 18,
+    "end": 18,
+    "title": "中值保边与延迟",
+    "depth": "detailed",
+    "notes": "孤立脉冲、平台边缘图；因果后向窗口与等待未来半窗的中心窗口。",
+    "visual_pages": [
+      18
+    ],
+    "issues": [
+      "半窗等待只针对中心窗口，后向窗口没有未来数据等待。"
+    ]
+  },
+  {
+    "start": 19,
+    "end": 19,
+    "title": "二维中值算例",
+    "depth": "detailed",
+    "notes": "5×5输入，十字与全窗口的3×3输出，排序列表。",
+    "visual_pages": [
+      19
+    ],
+    "issues": []
+  },
+  {
+    "start": 20,
+    "end": 20,
+    "title": "原始数据缓存",
+    "depth": "detailed",
+    "notes": "展示原地中值更新导致结果依赖遍历顺序，须独立输出缓存。",
+    "visual_pages": [
+      20
+    ],
+    "issues": []
+  },
+  {
+    "start": 21,
+    "end": 21,
+    "title": "中值尺度权衡",
+    "depth": "detailed",
+    "notes": "3×3与5×5十字滤波图；噪声统计自适应窗口分段规则。",
+    "visual_pages": [
+      21
+    ],
+    "issues": [
+      "自适应阈值w1,w2,w3未给具体确定方法。"
+    ]
+  },
+  {
+    "start": 22,
+    "end": 22,
+    "title": "3σ筛查",
+    "depth": "detailed",
+    "notes": "绝对残差、样本均值与n-1标准差，正态/足量样本假设；替代值思考。",
+    "visual_pages": [
+      22
+    ],
+    "issues": [
+      "剔除是诊断决策而非正态观测不可能出现；原页v_i定义为绝对值。"
+    ]
+  },
+  {
+    "start": 23,
+    "end": 23,
+    "title": "二维门限与距离",
+    "depth": "detailed",
+    "notes": "GPS散点方/圆/椭圆门限；欧氏距离及对角协方差Mahalanobis形式。",
+    "visual_pages": [
+      23
+    ],
+    "issues": [
+      "通用Mahalanobis需完整协方差矩阵；经纬度应先转换合适物理坐标或注明比例。"
+    ]
+  },
+  {
+    "start": 24,
+    "end": 24,
+    "title": "小样本3σ局限",
+    "depth": "detailed",
+    "notes": "从同一批数据估计均值和方差时N>10的必要条件粗界，讨论Lσ。",
+    "visual_pages": [
+      24
+    ],
+    "issues": [
+      "精确上界abs(v_i)/s≤(N-1)/sqrt(N)，N≤10均不能严格超过3。"
+    ]
+  },
+  {
+    "start": 25,
+    "end": 25,
+    "title": "Hampel基本量",
+    "depth": "detailed",
+    "notes": "z=Med(X),D=Med(abs(X-z)),Q=1.4826D。",
+    "visual_pages": [
+      25
+    ],
+    "issues": [
+      "通常MAD指未缩放D，Q是正态一致尺度估计；系数不对所有分布等价标准差。"
+    ]
+  },
+  {
+    "start": 26,
+    "end": 26,
+    "title": "Hampel流程",
+    "depth": "detailed",
+    "notes": "前m历史窗口估计z,Q；abs(x_i-z)<LQ则保留否则输出z。",
+    "visual_pages": [
+      26
+    ],
+    "issues": [
+      "m≥7是课件经验非数学必须；Q=0及阈值等号需明确策略。"
+    ]
+  },
+  {
+    "start": 27,
+    "end": 27,
+    "title": "Hampel窗口示例",
+    "depth": "detailed",
+    "notes": "m=3局部MAD为0误伤；m=7阈值约.21；m=21曲线及上下界。",
+    "visual_pages": [
+      27
+    ],
+    "issues": []
+  },
+  {
+    "start": 28,
+    "end": 28,
+    "title": "消抖",
+    "depth": "detailed",
+    "notes": "状态计数连续N次改变才更新；键盘按下和动态显示示例。",
+    "visual_pages": [
+      28
+    ],
+    "issues": [
+      "多值状态不能仅统计不等于旧值，还应要求连续候选状态一致。"
+    ]
+  },
+  {
+    "start": 29,
+    "end": 29,
+    "title": "算术平均滤波",
+    "depth": "detailed",
+    "notes": "x_i=s_i+n_i，N点平均分解信号均值与噪声均值，适合慢变信号。",
+    "visual_pages": [
+      29
+    ],
+    "issues": [
+      "降噪结论需零均值/相关性假设。"
+    ]
+  },
+  {
+    "start": 30,
+    "end": 30,
+    "title": "均值脉冲与延迟",
+    "depth": "detailed",
+    "notes": "3,3,7均值4.3；五点3,3,3,3,7均值3.8；脉冲扩散与中心窗口延迟。",
+    "visual_pages": [
+      30
+    ],
+    "issues": []
+  },
+  {
+    "start": 31,
+    "end": 31,
+    "title": "图像均值与中值比较",
+    "depth": "detailed",
+    "notes": "硬币及植物图展示窗口扩大导致模糊、与中值保边对比。",
+    "visual_pages": [
+      31
+    ],
+    "issues": []
+  },
+  {
+    "start": 32,
+    "end": 32,
+    "title": "十字均值数值与缓存",
+    "depth": "detailed",
+    "notes": "同5×5矩阵中心十字均值4.6,5.0,2.6 / 6.2,4.4,4.2 / 3.4,4.2,4.0。",
+    "visual_pages": [
+      32
+    ],
+    "issues": []
+  },
+  {
+    "start": 33,
+    "end": 33,
+    "title": "滑动平均",
+    "depth": "detailed",
+    "notes": "固定N队列，每采样去首入尾，y_k=(1/N)Σx_(k-j)。",
+    "visual_pages": [
+      33
+    ],
+    "issues": [
+      "每点更新率提高不会消除平滑响应延迟。"
+    ]
+  },
+  {
+    "start": 34,
+    "end": 34,
+    "title": "加权滑动平均",
+    "depth": "detailed",
+    "notes": "越近权重越大，权重为正和为1。",
+    "visual_pages": [
+      34
+    ],
+    "issues": [
+      "显示式额外乘1/N导致常量缩小；应y=Σw_jx_(k-j)。"
+    ]
+  },
+  {
+    "start": 35,
+    "end": 35,
+    "title": "权重选取",
+    "depth": "detailed",
+    "notes": "时间记忆d_j=N-j及归一化；空间距离归一化权重；3×3表。",
+    "visual_pages": [
+      35
+    ],
+    "issues": [
+      "LibreOffice渲染两张小表重复首单元格，1800px复核仍如此；OMML含不同节点和分数，表格逐格外观仍待原生PowerPoint核查；公式明示可独立推导权重，不猜表格。"
+    ],
+    "visual_status": "limited",
+    "pending_review": "旧公式表格的原生视觉呈现待核查；已使用OMML与独立计算交叉，不宣称逐格恢复。"
+  },
+  {
+    "start": 36,
+    "end": 36,
+    "title": "高斯滤波",
+    "depth": "detailed",
+    "notes": "二维高斯曲面，σ=1的5×5整数核除273，图像平滑。",
+    "visual_pages": [
+      36
+    ],
+    "issues": [
+      "原式前因子显示1/sqrt(2πσ)，与二维高斯不符，应1/(2πσ²)，离散核重新归一化。"
+    ]
+  },
+  {
+    "start": 37,
+    "end": 37,
+    "title": "一阶滞后",
+    "depth": "detailed",
+    "notes": "Y_n=aX_n+(1-a)Y_(n-1),a∈[0,1]；递归低通。",
+    "visual_pages": [
+      37
+    ],
+    "issues": [
+      "a=0冻结初值，a=1不滤波；须定义初始化。"
+    ]
+  },
+  {
+    "start": 38,
+    "end": 38,
+    "title": "系统误差类别",
+    "depth": "detailed",
+    "notes": "定值和变值，线性、周期、复杂漂移示意。",
+    "visual_pages": [
+      38
+    ],
+    "issues": []
+  },
+  {
+    "start": 39,
+    "end": 39,
+    "title": "定值误差判别前置",
+    "depth": "detailed",
+    "notes": "实验对比；两组均值与样本方差。",
+    "visual_pages": [
+      39
+    ],
+    "issues": []
+  },
+  {
+    "start": 40,
+    "end": 40,
+    "title": "均值差比较",
+    "depth": "detailed",
+    "notes": "标准误差s1²/n1+s2²/n2，正态区间阈值。",
+    "visual_pages": [
+      40
+    ],
+    "issues": [
+      "“存在定值误差”只能是差异证据；独立、零假设和置信水平需解释。"
+    ]
+  },
+  {
+    "start": 41,
+    "end": 41,
+    "title": "视觉激光对比例",
+    "depth": "detailed",
+    "notes": "均值10.0236与10.0248mm，均值标准差均.2μm；差1.2μm，99%阈值。",
+    "visual_pages": [
+      41
+    ],
+    "issues": [
+      "精算差标准误.28284μm，阈值约.7285μm；原.77为先粗舍入。"
+    ]
+  },
+  {
+    "start": 42,
+    "end": 42,
+    "title": "残差观察法",
+    "depth": "detailed",
+    "notes": "按时间排序残差识别无规律、线性、周期及叠加。",
+    "visual_pages": [
+      42
+    ],
+    "issues": []
+  },
+  {
+    "start": 43,
+    "end": 43,
+    "title": "残差判别规则",
+    "depth": "detailed",
+    "notes": "四种曲线图对应无明显规律、线性趋势、周期、趋势加周期。",
+    "visual_pages": [
+      43
+    ],
+    "issues": [
+      "只能诊断线索，常量偏差不能从去均值残差识别。"
+    ]
+  },
+  {
+    "start": 44,
+    "end": 44,
+    "title": "马列可夫判据",
+    "depth": "detailed",
+    "notes": "前k与后n-k残差和作差；显著非零提示累积误差；零不排除周期。",
+    "visual_pages": [
+      44
+    ],
+    "issues": [
+      "未给显著性阈值，不能把任何非零当正式统计检验。"
+    ]
+  },
+  {
+    "start": 45,
+    "end": 45,
+    "title": "尺寸趋势算例",
+    "depth": "detailed",
+    "notes": "34.588,.589,.588,.590,.592,.594,.596,.600,.600,.603mm；平均34.594；前后残差和-23,+23μm。",
+    "visual_pages": [
+      45
+    ],
+    "issues": []
+  },
+  {
+    "start": 46,
+    "end": 46,
+    "title": "阿贝-赫梅特判据",
+    "depth": "detailed",
+    "notes": "U=abs(Σv_iv_(i+1))与sqrt(n-1)s²比较，残差时间相邻乘积。",
+    "visual_pages": [
+      46
+    ],
+    "issues": [
+      "求和页写i=0却展开从v1，统一1..n-1；检出相关性不独自证明周期性。"
+    ]
+  },
+  {
+    "start": 47,
+    "end": 47,
+    "title": "频率判据算例",
+    "depth": "detailed",
+    "notes": "10次kHz数据110.050,.090,.090,.070,.060,.050,.040,.030,.035,.030；残差单位10^-4kHz。",
+    "visual_pages": [
+      47
+    ],
+    "issues": [
+      "独立重算s²=.000513611111,U=.00308725,阈值=.001540833333；课件.0035不准，结论仍有相关性迹象。"
+    ]
+  },
+  {
+    "start": 48,
+    "end": 48,
+    "title": "系统误差根因与修正",
+    "depth": "detailed",
+    "notes": "溯因改善条件，误差表/曲线取反号修正。",
+    "visual_pages": [
+      48
+    ],
+    "issues": [
+      "真实系统残余不确定度仍存在。"
+    ]
+  },
+  {
+    "start": 49,
+    "end": 49,
+    "title": "定值误差消除",
+    "depth": "detailed",
+    "notes": "代替法x=xr+xc-xrc；抵消法；不等臂天平交换法x=sqrt(P1P2)。",
+    "visual_pages": [
+      49
+    ],
+    "issues": []
+  },
+  {
+    "start": 50,
+    "end": 50,
+    "title": "线性漂移对称测量",
+    "depth": "detailed",
+    "notes": "ABBA顺序测标准源和被检源，两对时间均值相等取消线性漂移；差值推导。",
+    "visual_pages": [
+      50
+    ],
+    "issues": [
+      "简单对称平均只等于中点误差，不直接消除常量偏差；需共同漂移和时间对称。"
+    ]
+  },
+  {
+    "start": 51,
+    "end": 51,
+    "title": "半周期补偿",
+    "depth": "detailed",
+    "notes": "正弦误差相隔π取均值相消。",
+    "visual_pages": [
+      51
+    ],
+    "issues": [
+      "一般周期函数只有满足半波反对称部分被消，不能声称任意周期误差均消。"
+    ]
+  },
+  {
+    "start": 52,
+    "end": 52,
+    "title": "两点线性校正",
+    "depth": "detailed",
+    "notes": "0输入N0，参考Vref输入NR，当前Nx，Vx=(Nx-N0)Vref/(NR-N0)。",
+    "visual_pages": [
+      52
+    ],
+    "issues": [
+      "NR≠N0；参考/当前须同一稳定增益零点条件。"
+    ]
+  },
+  {
+    "start": 53,
+    "end": 53,
+    "title": "非线性校正路线",
+    "depth": "detailed",
+    "notes": "物理量y到读数x=f(y)，再由读数恢复y；函数、查表、插值、拟合。",
+    "visual_pages": [
+      53
+    ],
+    "issues": []
+  },
+  {
+    "start": 54,
+    "end": 54,
+    "title": "反函数校正",
+    "depth": "detailed",
+    "notes": "热敏电阻RT=αR25 exp(β/T)，取对数求T；α=1.44e-6,β=4016K。",
+    "visual_pages": [
+      54
+    ],
+    "issues": [
+      "指数温度必须K，0..50℃需换273.15..323.15K；输入输出映射须单调可逆。"
+    ]
+  },
+  {
+    "start": 55,
+    "end": 55,
+    "title": "标定实验",
+    "depth": "detailed",
+    "notes": "规定条件逐个输入已知标准量，记录N组输入输出对。",
+    "visual_pages": [
+      55
+    ],
+    "issues": []
+  },
+  {
+    "start": 56,
+    "end": 56,
+    "title": "查表校正",
+    "depth": "detailed",
+    "notes": "标定表ROM存储，按采样读数查标准量。",
+    "visual_pages": [
+      56
+    ],
+    "issues": []
+  },
+  {
+    "start": 57,
+    "end": 57,
+    "title": "查表邻近与线性内插",
+    "depth": "detailed",
+    "notes": "最近邻与y_i+(y_(i+1)-y_i)(x-x_i)/(x_(i+1)-x_i)。",
+    "visual_pages": [
+      57
+    ],
+    "issues": [
+      "需x节点严格递增，越界单独处理。"
+    ]
+  },
+  {
+    "start": 58,
+    "end": 58,
+    "title": "插值定义",
+    "depth": "detailed",
+    "notes": "节点处函数等于标定标准量；简单多项式近似逆特性。",
+    "visual_pages": [
+      58
+    ],
+    "issues": []
+  },
+  {
+    "start": 59,
+    "end": 59,
+    "title": "多项式系数",
+    "depth": "detailed",
+    "notes": "m次多项式需m+1不同节点，Vandermonde方程。",
+    "visual_pages": [
+      59
+    ],
+    "issues": [
+      "展示方程行至m但文字m+1，须统一索引；高阶不保证更准。"
+    ]
+  },
+  {
+    "start": 60,
+    "end": 60,
+    "title": "线性Lagrange",
+    "depth": "detailed",
+    "notes": "两点权重、系数a1,a0、全区间允许误差ε定义。",
+    "visual_pages": [
+      60
+    ],
+    "issues": []
+  },
+  {
+    "start": 61,
+    "end": 61,
+    "title": "二次Lagrange",
+    "depth": "detailed",
+    "notes": "三点二次基函数乘积、全区间误差要求。",
+    "visual_pages": [
+      61
+    ],
+    "issues": []
+  },
+  {
+    "start": 62,
+    "end": 62,
+    "title": "Lagrange与Runge函数",
+    "depth": "detailed",
+    "notes": "n+1点插值，f=1/(1+25x²),[-1,1]等距节点h=2/n。",
+    "visual_pages": [
+      62
+    ],
+    "issues": []
+  },
+  {
+    "start": 63,
+    "end": 63,
+    "title": "Runge阶次图",
+    "depth": "detailed",
+    "notes": "n=2,4,8,10插值曲线与原函数比较，端点振荡。",
+    "visual_pages": [
+      63
+    ],
+    "issues": []
+  },
+  {
+    "start": 64,
+    "end": 64,
+    "title": "Runge现象解释",
+    "depth": "detailed",
+    "notes": "n=10详细图；等距高阶插值的端点失真。",
+    "visual_pages": [
+      64
+    ],
+    "issues": [
+      "0.726边界是特定函数/等距序列结论不可泛化；分段并非唯一改善方式。"
+    ]
+  },
+  {
+    "start": 65,
+    "end": 65,
+    "title": "分段插值思想",
+    "depth": "detailed",
+    "notes": "全区间拆段，各段低阶；等距与非等距节点。",
+    "visual_pages": [
+      65
+    ],
+    "issues": []
+  },
+  {
+    "start": 66,
+    "end": 66,
+    "title": "节点分配",
+    "depth": "detailed",
+    "notes": "曲率小可粗网格，变化大用细网格，误差均衡图。",
+    "visual_pages": [
+      66
+    ],
+    "issues": []
+  },
+  {
+    "start": 67,
+    "end": 67,
+    "title": "分段线性式与余项",
+    "depth": "detailed",
+    "notes": "各段两点Lagrange；误差f''(ξ)(x-left)(x-right)/2。",
+    "visual_pages": [
+      67
+    ],
+    "issues": [
+      "需f∈C²，节点有序。"
+    ]
+  },
+  {
+    "start": 68,
+    "end": 68,
+    "title": "线性误差界",
+    "depth": "detailed",
+    "notes": "局部M_i h_i²/8，全局M h²/8；折线节点不光滑。",
+    "visual_pages": [
+      68
+    ],
+    "issues": [
+      "收敛关键max h_i→0而非仅节点个数增加。"
+    ]
+  },
+  {
+    "start": 69,
+    "end": 69,
+    "title": "Hermite四条件",
+    "depth": "detailed",
+    "notes": "每段两端函数值与一阶导数确定三次多项式，整体分段。",
+    "visual_pages": [
+      69
+    ],
+    "issues": []
+  },
+  {
+    "start": 70,
+    "end": 70,
+    "title": "Hermite基函数条件",
+    "depth": "detailed",
+    "notes": "两值基函数、两导数基函数的4×4节点条件表。",
+    "visual_pages": [
+      70
+    ],
+    "issues": []
+  },
+  {
+    "start": 71,
+    "end": 71,
+    "title": "Hermite基函数推导",
+    "depth": "detailed",
+    "notes": "利用右端双零点设φ_left=(x-right)²(ax+b)，代入左端值导求a,b。",
+    "visual_pages": [
+      71
+    ],
+    "issues": []
+  },
+  {
+    "start": 72,
+    "end": 72,
+    "title": "Hermite四基函数",
+    "depth": "detailed",
+    "notes": "给出φ_left,φ_right,ψ_left,ψ_right及端点条件。",
+    "visual_pages": [
+      72
+    ],
+    "issues": []
+  },
+  {
+    "start": 73,
+    "end": 73,
+    "title": "Hermite组合",
+    "depth": "detailed",
+    "notes": "把四基函数代回构造各段并拼接。",
+    "visual_pages": [
+      73
+    ],
+    "issues": []
+  },
+  {
+    "start": 74,
+    "end": 74,
+    "title": "Hermite余项与界",
+    "depth": "detailed",
+    "notes": "余项f^(4)(ξ)(x-left)²(x-right)²/4!，界M h⁴/384。",
+    "visual_pages": [
+      74
+    ],
+    "issues": [
+      "图中M_i误写max abs(f'')，应max abs(f^(4))；需C⁴和h→0。"
+    ]
+  },
+  {
+    "start": 75,
+    "end": 75,
+    "title": "插值曲线对照",
+    "depth": "detailed",
+    "notes": "f=1/(1+x²)，线性[-6,6]n=4,10,40；Hermite[-5,5]n=5,7,9。",
+    "visual_pages": [
+      75
+    ],
+    "issues": [
+      "图区间节点数不同，不能据图直接作同成本精度比较。"
+    ]
+  },
+  {
+    "start": 76,
+    "end": 76,
+    "title": "Hermite性质",
+    "depth": "detailed",
+    "notes": "分段三次、C¹连续、需导数数据、收敛。",
+    "visual_pages": [
+      76
+    ],
+    "issues": [
+      "若导数由噪声估计需额外分析，不等同于已知精确导数。"
+    ]
+  },
+  {
+    "start": 77,
+    "end": 77,
+    "title": "拟合动机",
+    "depth": "detailed",
+    "notes": "含随机误差节点不宜强制穿点；拟合反映趋势。",
+    "visual_pages": [
+      77
+    ],
+    "issues": []
+  },
+  {
+    "start": 78,
+    "end": 78,
+    "title": "多项式回归",
+    "depth": "detailed",
+    "notes": "所有数据拟合逆校正函数，多项式系数优化。",
+    "visual_pages": [
+      78
+    ],
+    "issues": []
+  },
+  {
+    "start": 79,
+    "end": 79,
+    "title": "最小二乘定义",
+    "depth": "detailed",
+    "notes": "点误差，平方和目标，argmin；偏导与梯度下降。",
+    "visual_pages": [
+      79
+    ],
+    "issues": []
+  },
+  {
+    "start": 80,
+    "end": 80,
+    "title": "直线回归推导",
+    "depth": "detailed",
+    "notes": "目标Σ(y-ax-b)²，两偏导为0组成2×2正规方程；拟合后E带平方根。",
+    "visual_pages": [
+      80
+    ],
+    "issues": [
+      "E原称均方误差但式为RMSE；解需x不全相同，数值实现用QR/SVD不用显式逆。"
+    ]
+  },
+  {
+    "start": 81,
+    "end": 81,
+    "title": "指数线性化例",
+    "depth": "detailed",
+    "notes": "τ=3,6,9,12,15,18,21,24；y=57.6,41.9,31,22.7,16.6,12.2,8.9,6.5；lny回归，课件m=-.104,k=78.57。",
+    "visual_pages": [
+      81
+    ],
+    "issues": [
+      "原始数据视觉核对；全精度对数回归m=-.103685839,k=78.570036，原空间RMSE=.108326；课件舍入m=-.104,k=78.57回代RMSE=.125832，解释其.126，非算错。"
+    ]
+  },
+  {
+    "start": 82,
+    "end": 82,
+    "title": "多项式正规方程",
+    "depth": "detailed",
+    "notes": "Vandermonde设计，Σx^k各阶矩构造Gram矩阵与右侧。",
+    "visual_pages": [
+      82
+    ],
+    "issues": [
+      "原目标式x未标样本下标；满列秩才唯一，QR/SVD较稳。"
+    ]
+  },
+  {
+    "start": 83,
+    "end": 83,
+    "title": "拟合阶次与过拟合",
+    "depth": "detailed",
+    "notes": "0,1,3,9次拟合图展示欠拟合与高阶波动。",
+    "visual_pages": [
+      83
+    ],
+    "issues": []
+  },
+  {
+    "start": 84,
+    "end": 84,
+    "title": "智能校正",
+    "depth": "mentioned",
+    "notes": "神经网络、模糊、遗传算法，仅网络结构图。",
+    "visual_pages": [
+      84
+    ],
+    "issues": [
+      "不补写成已详细讲授训练算法。"
+    ]
+  },
+  {
+    "start": 85,
+    "end": 85,
+    "title": "课末五道作业",
+    "depth": "detailed",
+    "notes": "角度误差；十字均值/中值；温度趋势；Rayleigh氮密度比较；Hermite另三基函数。",
+    "visual_pages": [
+      85
+    ],
+    "issues": [
+      "原题/作者参考解须分开；氮密度标准差是否均值标准不确定度及样本量未知。"
+    ]
+  },
+  {
+    "start": 86,
+    "end": 86,
+    "title": "致谢",
+    "depth": "noncontent",
+    "notes": "THANK YOU，握手图。",
+    "visual_pages": [
+      86
+    ],
+    "issues": []
+  }
+]

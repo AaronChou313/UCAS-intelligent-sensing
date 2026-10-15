@@ -1,0 +1,385 @@
+[
+  {
+    "start": 1,
+    "end": 7,
+    "title": "瓶内杂质检测任务与方案",
+    "depth": "detailed",
+    "notes": "38的光学含义未知，不能认定焦距例完整可核算",
+    "visual_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "issues": [
+      "38的光学含义未知，不能认定焦距例完整可核算"
+    ]
+  },
+  {
+    "start": 8,
+    "end": 10,
+    "title": "检测图像与处理结果",
+    "depth": "detailed",
+    "notes": "原图和二值化视觉案例，无配套图像序列",
+    "visual_pages": [
+      8,
+      9,
+      10
+    ],
+    "issues": []
+  },
+  {
+    "start": 11,
+    "end": 11,
+    "title": "外链视频占位",
+    "depth": "mentioned",
+    "notes": "关系文件含外部视频链接，静态页无图；视频本体不在PPTX内，不能称已播放核验。",
+    "visual_pages": [
+      11
+    ],
+    "issues": [
+      "外部视频资源未取得；静态页面不代表视频内容。"
+    ]
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "title": "封面与目录",
+    "depth": "noncontent",
+    "notes": "章封面位于12，目录13。",
+    "visual_pages": [
+      12,
+      13
+    ],
+    "issues": []
+  },
+  {
+    "start": 14,
+    "end": 16,
+    "title": "智能传感器结构功能",
+    "depth": "detailed",
+    "notes": "复用第一章定义",
+    "visual_pages": [
+      14,
+      15,
+      16
+    ],
+    "issues": []
+  },
+  {
+    "start": 17,
+    "end": 24,
+    "title": "嵌入式定义特点",
+    "depth": "detailed",
+    "notes": "历史绝对表述不可普遍推广",
+    "visual_pages": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "issues": []
+  },
+  {
+    "start": 25,
+    "end": 35,
+    "title": "发展阶段与趋势",
+    "depth": "mentioned",
+    "notes": "历史背景",
+    "visual_pages": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "issues": []
+  },
+  {
+    "start": 36,
+    "end": 41,
+    "title": "应用与学习能力",
+    "depth": "mentioned",
+    "notes": "含第37张隐藏应用页，按物理编号保留",
+    "visual_pages": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "issues": []
+  },
+  {
+    "start": 42,
+    "end": 53,
+    "title": "处理器类别",
+    "depth": "detailed",
+    "notes": "MPU MCU DSP SoC FPGA AI加速并非互斥",
+    "visual_pages": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "issues": []
+  },
+  {
+    "start": 54,
+    "end": 59,
+    "title": "RAM ROM Flash与存储路线",
+    "depth": "detailed",
+    "notes": "RAM不是移动硬盘；具体规格属于课件背景",
+    "visual_pages": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "issues": []
+  },
+  {
+    "start": 60,
+    "end": 63,
+    "title": "看门狗ADDA与定时计数",
+    "depth": "detailed",
+    "notes": "外设功能及限制",
+    "visual_pages": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "issues": []
+  },
+  {
+    "start": 64,
+    "end": 67,
+    "title": "总线SPI与PWM",
+    "depth": "detailed",
+    "notes": "历史并口8倍和固定速率不泛化",
+    "visual_pages": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "issues": []
+  },
+  {
+    "start": 68,
+    "end": 76,
+    "title": "I2C电气寻址时序与代码",
+    "depth": "detailed",
+    "notes": "75读取寄存器与发送注释不一致；片段无超时/配置不是完整驱动",
+    "visual_pages": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "issues": [
+      "75读取寄存器与发送注释不一致；片段无超时/配置不是完整驱动"
+    ]
+  },
+  {
+    "start": 77,
+    "end": 88,
+    "title": "操作系统与ROS",
+    "depth": "detailed",
+    "notes": "ROS非OS；ROS2不自动保证硬实时，Master故障不等于全部已建连接立停",
+    "visual_pages": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "issues": []
+  },
+  {
+    "start": 89,
+    "end": 99,
+    "title": "Bootloader位置功能模式",
+    "depth": "detailed",
+    "notes": "复位入口取决平台",
+    "visual_pages": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "issues": []
+  },
+  {
+    "start": 100,
+    "end": 107,
+    "title": "两阶段启动与内存布局",
+    "depth": "detailed",
+    "notes": "103图1MB与0x400=1KiB冲突；ATAG为特定平台路径",
+    "visual_pages": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "issues": [
+      "103图1MB与0x400=1KiB冲突；ATAG为特定平台路径"
+    ]
+  },
+  {
+    "start": 108,
+    "end": 120,
+    "title": "交叉开发CCS链接与调试",
+    "depth": "detailed",
+    "notes": "CCS3.3历史环境，截图未附完整工程",
+    "visual_pages": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "issues": []
+  },
+  {
+    "start": 121,
+    "end": 121,
+    "title": "FPGA开发入口",
+    "depth": "mentioned",
+    "notes": "指向另一章详述但对应独立课件未取得",
+    "visual_pages": [
+      121
+    ],
+    "issues": [
+      "指向另一章详述但对应独立课件未取得"
+    ]
+  },
+  {
+    "start": 122,
+    "end": 127,
+    "title": "电路设计EMIF信号与时序",
+    "depth": "detailed",
+    "notes": "同步突发RL=2，异步Setup/Strobe/Hold与NotReady，不能漏图示页",
+    "visual_pages": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "issues": []
+  },
+  {
+    "start": 128,
+    "end": 136,
+    "title": "原理图PCB与制造",
+    "depth": "detailed",
+    "notes": "叠层孔类型thermal relief antipad丝印阻焊锡膏工序",
+    "visual_pages": [
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "issues": []
+  },
+  {
+    "start": 137,
+    "end": 138,
+    "title": "制造与焊接视频",
+    "depth": "mentioned",
+    "notes": "静态PDF不还原播放内容",
+    "visual_pages": [
+      137,
+      138
+    ],
+    "issues": []
+  },
+  {
+    "start": 139,
+    "end": 142,
+    "title": "机器人仿生视觉案例",
+    "depth": "detailed",
+    "notes": "139体积数字未明示单位；141网口10/100M，数据预算另计算",
+    "visual_pages": [
+      139,
+      140,
+      141,
+      142
+    ],
+    "issues": []
+  },
+  {
+    "start": 143,
+    "end": 143,
+    "title": "致谢",
+    "depth": "noncontent",
+    "notes": "结束页",
+    "visual_pages": [
+      143
+    ],
+    "issues": []
+  }
+]

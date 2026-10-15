@@ -13,6 +13,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-08-31T06:40:00Z"
     },
+    "coverDate": "2025-09-15",
+    "coverLecture": "第1讲",
+    "notes": "安排页出现2026考试日期；页脚/81与物理86不一致。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -29,6 +33,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-09-03T09:23:11Z"
     },
+    "coverDate": null,
+    "coverLecture": "第二章",
+    "notes": "无明确封面授课日期；仅有单一来源版本。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -45,6 +53,12 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-09-04T06:22:38Z"
     },
+    "coverDate": null,
+    "coverLecture": "第三章（物理第12张封面）",
+    "notes": "第37张隐藏页；第1—11张为拓展案例。",
+    "hiddenPages": [
+      37
+    ],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -61,6 +75,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-10-14T07:40:41Z"
     },
+    "coverDate": "2026-10-04",
+    "coverLecture": "第6讲",
+    "notes": "文件第四章，与讲次不同编号体系。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -77,6 +95,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-10-14T07:41:22Z"
     },
+    "coverDate": "2026-10-14",
+    "coverLecture": "第8讲",
+    "notes": "文件第五章；页脚/88与物理83不一致。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -93,6 +115,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-10-14T07:40:58Z"
     },
+    "coverDate": "2026-10-14",
+    "coverLecture": "第11讲",
+    "notes": "页脚/92与物理95不一致。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -109,6 +135,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2026-10-14T07:41:42Z"
     },
+    "coverDate": "2026-10-14",
+    "coverLecture": "第7讲",
+    "notes": "原题引用的三组声波及参数未取得。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   },
   {
@@ -125,6 +155,10 @@
       "created": "2001-12-28T07:12:00Z",
       "modified": "2023-11-15T04:26:45Z"
     },
+    "coverDate": null,
+    "coverLecture": "第12—13讲",
+    "notes": "属性修改时间2023年；不认定已同步2026。物理137页，页脚/138。",
+    "hiddenPages": [],
     "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份"
   }
 ]

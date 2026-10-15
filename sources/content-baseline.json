@@ -1,0 +1,1533 @@
+{
+  "schema": 1,
+  "reason": "浏览器反向审查：弦长图移回误差传播节并补图后解释；DS图与正文共用同一合法示例，减少无必要重复",
+  "knowledge": [
+    {
+      "id": "IS-01-001",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-chain",
+      "hash": "331288b4c734bd43240a722a4eec4ee487d997ba8ff4eb5d976981daaaa9e638",
+      "formulas": [
+        "y=f(x;\\theta)+n."
+      ]
+    },
+    {
+      "id": "IS-01-002",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-transduction",
+      "hash": "0676d2a2925626d686654ee64095f5d7d381378ba0846c6a43fff4023a2ba4b9",
+      "formulas": [
+        "V_o=V_s\\frac{R}{R+R_x},\\qquad R_x=R\\left(\\frac{V_s}{V_o}-1\\right).",
+        "E_{AB}(T,T_0)=F(T)-F(T_0)."
+      ]
+    },
+    {
+      "id": "IS-01-003",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-smart",
+      "hash": "59232cf7c6208f50abda71b83f6319a39a4ab6161b0db5597fcd0413f8810530",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-004",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-error",
+      "hash": "fbd4d3c7e978fa4ef4085f4a4f7565cae337a0d0c82cfd4240ed2304c8de7e2e",
+      "formulas": [
+        "e_i=y_i-y_i^\\ast.",
+        "\\bar e=\\frac1N\\sum_{i=1}^N e_i,\\qquad\n\\operatorname{MAE}=\\frac1N\\sum_{i=1}^N|e_i|,\\qquad\n\\operatorname{RMSE}=\\sqrt{\\frac1N\\sum_{i=1}^N e_i^2}."
+      ]
+    },
+    {
+      "id": "IS-01-005",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-resolution",
+      "hash": "ccfa5f4a4d4d83dc1000ddd68b04fe9d7963295d195a0604746d22192f2632df",
+      "formulas": [
+        "\\Delta=\\frac{V_{\\rm span}}{2^b}."
+      ]
+    },
+    {
+      "id": "IS-01-006",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-characteristics",
+      "hash": "a3fee0f02b791b46bf7aba5c002fc69e59cca8dae5fe00e1d4c5010c1a176a4d",
+      "formulas": [
+        "20\\log_{10}\\frac{20}{0.001}\\approx86.02\\ \\mathrm{dB}.",
+        "\\delta_L=\\frac{\\Delta_{L,\\max}}{y_{\\rm FS}}\\times100\\%."
+      ]
+    },
+    {
+      "id": "IS-01-007",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-sampling",
+      "hash": "8430f761dc990a793b36873d1aea16c22d0ed7ab7ea301b421bd32444380abc0",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-008",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-processing",
+      "hash": "f69bead42fee54a66b69bf65f930f1980cfe569bdb9aa6813930a8f044d016fa",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-009",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-robot",
+      "hash": "7557cca0014b8eea3ef190fc822326d123407c8d3d2e963773de4d8573012403",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-010",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-selection",
+      "hash": "46ee3f1df87aefad45f94392b64a3d72aecaccd4982398477724a76835282bcf",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-011",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-wire",
+      "hash": "8113520415c62e78bb6d5e4219da18e16d8dbd1ac2d3f4ddc5e9dff0e4564615",
+      "formulas": [
+        "b=vt_e\\rho."
+      ]
+    },
+    {
+      "id": "IS-01-012",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-outlook",
+      "hash": "02c6906cd76dda2bff13f7120f29a37b0f36e08a03de5341182de3668cd50777",
+      "formulas": []
+    },
+    {
+      "id": "IS-01-013",
+      "file": "chapters/01-foundations.md",
+      "anchor": "s01-review",
+      "hash": "837f92f54541c87f695ffc02eab16f3db5db92fe63a940e2e0b2022604b5ccc6",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-001",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-observation",
+      "hash": "2609736e8a3837053a3da8be001cc931803d66eb29968753082139059b924f7c",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-002",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-photoelectric",
+      "hash": "6e85393829933bb36a9b2510b7b5c926d429295ed9fbe2f81e536e7866eae04d",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-003",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-fiber-laser-switch",
+      "hash": "3b413e1e5726cfa04f5a6eaefa31ffe10a65462b2c6df318b9b9a6c2e38e35f5",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-004",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-contact",
+      "hash": "ca8a8aafc05bdac8ad5b2bc210e8763b5cc6d2f3396f36cd44fbb14470f53611",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-005",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-eddy",
+      "hash": "76c2a18b7b9c84159847a6bca6e6545163e36b16e9e78f4ff4c9aa2dec97deb5",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-006",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ultrasound-physics",
+      "hash": "2216a8f79e63fb684cf1473905a3ca65e9e3acb2bcf10b360517b8d0d284c9b1",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-007",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ultrasound-range",
+      "hash": "d940d2cfeb03b5ce5e1db2088e9a5dd176e7f2cff23776986a75bac7b306d6db",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-008",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ultrasound-tof",
+      "hash": "e9e7ac2e42acd82d12b40d5008be494dcc4ead44c10901de836b564130f58ee1",
+      "formulas": [
+        "2d=c\\tau,\\qquad d=\\frac{c\\tau}{2}."
+      ]
+    },
+    {
+      "id": "IS-02-009",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ultrasound-flow",
+      "hash": "fa3cfe5da1659c4ed4f5f96c582b775c2b8e8646e874b23225b45a3aef0d5635",
+      "formulas": [
+        "t_+=\\frac{L}{c+u},\\qquad t_-=\\frac{L}{c-u}.",
+        "\\Delta t=\\frac{2Lu}{c^2-u^2}."
+      ]
+    },
+    {
+      "id": "IS-02-010",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ultrasound-use",
+      "hash": "dbc52eec10bff3b37e2ada557ac25705a7792e7c77655df6e1894f08639b9b16",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-011",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-temperature-types",
+      "hash": "a77d7df76723e9eaeeb9a5ed23a3e3d60baa89960109b7dbfb3459fe4b5a5766",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-012",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-thermocouple",
+      "hash": "66ac9418b51148126ac0d930826774e0fc63467021ec3d364dfbfe4139a6139e",
+      "formulas": [
+        "E_{AB}(T,T_0)=\\int_{T_0}^{T}S_{AB}(\\vartheta)\\,\\mathrm d\\vartheta.",
+        "E_{AB}(T,T_0)=F(T)-F(T_0)."
+      ]
+    },
+    {
+      "id": "IS-02-013",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-cold-junction",
+      "hash": "aeac429ea65068282306001352108edb98819fd36fc0625795eb07233661f5b2",
+      "formulas": [
+        "F(T)=E_{AB}(T,T_H)+F(T_H)."
+      ]
+    },
+    {
+      "id": "IS-02-014",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-encoder-count",
+      "hash": "20a15ac5ff60dc8e844a0d5d6db1954dbfb863542e23732b4a1ff955bf852e86",
+      "formulas": [
+        "\\Delta\\theta=\\frac{2\\pi n}{N}."
+      ]
+    },
+    {
+      "id": "IS-02-015",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-quadrature",
+      "hash": "1efa002a7773333fce415edcddc666091b10c7634d2154b088f10e7ca7e1a5a1",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-016",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-speed-m",
+      "hash": "1b354782c8a5c9f74c052af21e7fd5f00fb09d47bf973e22f0d641fe032e84f7",
+      "formulas": [
+        "n=\\frac{60M_1}{ZT_c}."
+      ]
+    },
+    {
+      "id": "IS-02-017",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-speed-t-mt",
+      "hash": "bfe196286c0b0cdff194c959c50c8aa62cd23f7ccae7256aacf6850fe56779af",
+      "formulas": [
+        "n=\\frac{60f_0}{ZM_2}.",
+        "n=\\frac{60f_0M_1}{ZM_2}."
+      ]
+    },
+    {
+      "id": "IS-02-018",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-gray",
+      "hash": "c4d2cd70243e6209730720e5fb50a79f3ae198467371cbc36b3ddc1dd557538b",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-019",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-magnetic-encoder",
+      "hash": "652458a507e950899f914bfcb48a7dd5ec04c7f10dea087b72362c3e8292ec28",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-020",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-dual-encoder",
+      "hash": "e2fc681f4812732b70d49628889641b359e633fccaf525c324035902aa5a8181",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-021",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-inertial",
+      "hash": "0509ed5eda005e562bbf0bbc7c6a9295aa20167273ba36d674987747e8c35f17",
+      "formulas": [
+        "\\boldsymbol v(t)=\\boldsymbol v_0+\\int_0^t\\boldsymbol a(\\tau)\\,\\mathrm d\\tau,\n\\qquad\n\\boldsymbol p(t)=\\boldsymbol p_0+\\int_0^t\\boldsymbol v(\\tau)\\,\\mathrm d\\tau."
+      ]
+    },
+    {
+      "id": "IS-02-022",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-imu-errors",
+      "hash": "716d6cfd98cdffe6a907c85fa16d8ae4a949de32c3173501a1b3255549813600",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-023",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-imu-calibration",
+      "hash": "a2830bcc8286290cdcc70d9e4f87c579849e6d6d23907e185ac84051e3e9e664",
+      "formulas": [
+        "\\boldsymbol l=\\boldsymbol b+A\\boldsymbol a."
+      ]
+    },
+    {
+      "id": "IS-02-024",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-gnss",
+      "hash": "a9d103deee60bfac925f3d93109afc25940d8a358337d1cb6e3a6eb1998f5ab0",
+      "formulas": [
+        "\\rho_i=\\|\\boldsymbol p-\\boldsymbol s_i\\|+c\\,\\delta t+\\varepsilon_i."
+      ]
+    },
+    {
+      "id": "IS-02-025",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-rtk-ppp",
+      "hash": "9de162bc4b9b28fe22cda0ca1fd1fdb3d6adf2783c7961f25c82c10f57355606",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-026",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-navigation-complement",
+      "hash": "da5a4a49224daba531c1107e68bf8d5f6c8a0e4ed4746db76c3b00da66f336e0",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-027",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-force-strain",
+      "hash": "cf06ea901117b4afbc1dd4a39f13d2396d88b765238a773642a26421cffbc560",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-028",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-force-transduction",
+      "hash": "e4a6c1996f45381eb9ebbd15c513585b274fdef61c6c3a904a31768e61e23881",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-029",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-bridge",
+      "hash": "5dae4ff47104c0473b2393783ed8a25e6a618ddc4405394bbdb25824a1ee0bba",
+      "formulas": [
+        "V_o=\\frac{V_s}{2}-\\frac{V_sR}{2R+\\Delta R}\n=\\frac{V_s\\Delta R}{2(2R+\\Delta R)}."
+      ]
+    },
+    {
+      "id": "IS-02-030",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-tactile-sixaxis",
+      "hash": "d23c30dbd7dbe0330835f4a04d7950bc81890068a6c2cc87b5044a02428f3a2b",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-031",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-laser-triangulation",
+      "hash": "85bc2f41427094ced97595b4c8416592cf8dafbd207c88955b4ecf8cd1630284",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-032",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-laser-tof-phase",
+      "hash": "3c64f55b8b59fbd71034ee1acd7254a62cc26486543d334ba9f0d5aa4f7ab64e",
+      "formulas": [
+        "D=\\frac{c\\phi}{4\\pi f_m}.",
+        "D=\\frac{c}{2f_m}\\left(k+\\frac{\\phi_0}{2\\pi}\\right)."
+      ]
+    },
+    {
+      "id": "IS-02-033",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-laser-scan",
+      "hash": "24a87f2ad048be4a8612a327fce3308bbfa7087d7e6ff0b0e43493956451852a",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-034",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-spectroscopy",
+      "hash": "be6438794b9230f089679eea3800988ce22029211a70d652ed7ba024859558a1",
+      "formulas": [
+        "I(\\nu)=I_0(\\nu)\\exp[-\\kappa(\\nu)L]."
+      ]
+    },
+    {
+      "id": "IS-02-035",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-microphone",
+      "hash": "1362b8c2b0de96f921b1ad2b82e3232f50fa4a77aa704605c5785f0951729ec2",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-036",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-microphone-array",
+      "hash": "91983abe8c456c643fe5c5f9716c67018742f4abb3a6c8bea9f569bf904d1029",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-037",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-ccd",
+      "hash": "519b0c16c6aaf3c8b493d237730e34080728cb04c48d226f3755da75e049d8de",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-038",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-image-arrays-color",
+      "hash": "e71d548c1c339618ebdef5c2d519e72457fc365641ebba8209ee04d74a9bfee8",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-039",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-image-performance",
+      "hash": "73de84860c8b2ab302e4b3513d84c38e13847218f60a1fc61ed631898750cf54",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-040",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-camera-structure",
+      "hash": "95dc86deaf66d564f83c1ed22f9bc9d377b675f536185d26cfb9652be3e8ad31",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-041",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-fov-lens",
+      "hash": "6601cdcf2a9210a07e11f4926358ceb15bfd624fd8448dfa7b6ec5813a3e7f89",
+      "formulas": [
+        "f=\\frac{um}{1+m}."
+      ]
+    },
+    {
+      "id": "IS-02-042",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-aperture-telecentric",
+      "hash": "838a4194f4c6602e32191242db4c8b4e14fece89083249f922646dbef78b510b",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-043",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-camera-data",
+      "hash": "fa4ae9d0a2ea94ea16d8b4c265e060aec695df9af0bfba6a6d4489acf6f9f487",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-044",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-light-spectrum",
+      "hash": "56b7b3b8fcbb462ad38a22fd04aaf229e1793e117ac90634ae3c9bf84196fdee",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-045",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-light-geometry",
+      "hash": "71118fed0f3d7d829692b916a991d58ed57fc406d389951f8ffa0a1d03a6aead",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-046",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-light-workflow",
+      "hash": "2c09e0b8ae96176a32381de3b6f7cf84711141b0630107c33e3c3f3ec6754ec4",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-047",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-light-cases",
+      "hash": "0c0c4fea1d7fd883fba0ef1aec19c8cded68813e2ce798e10d37c33b0e9e7aba",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-048",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-stereo-depth",
+      "hash": "7daf80ae443eff369ec0c7bab23ea044bde65b6c7c2c5e1461d9e8c96182c783",
+      "formulas": [
+        "Z=\\frac{f_xB}{d}."
+      ]
+    },
+    {
+      "id": "IS-02-049",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-epipolar",
+      "hash": "4d6cdaf9269af6ebfe5f799ad1f62c4e078b532fa597d2383af1eb1cb5f5e518",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-050",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-stereo-match",
+      "hash": "f3e89060a83586dba9281776f431de156b1eb45bbb211d86c88aae40ab2eb574",
+      "formulas": [
+        "C_{\\rm SSD}(d)=\\sum_{(u,v)\\in W}[I_L(x+u,y+v)-I_R(x+u-d,y+v)]^2."
+      ]
+    },
+    {
+      "id": "IS-02-051",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-stereo-failures",
+      "hash": "2024a025cacb83f6f818ecae3721d0aab904d3ba5bab1b74525d9b0a887b56eb",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-052",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-structured-light",
+      "hash": "20108797a6568f17e49869af59879c06f285f0c4645b8a8a252b24c36474d289",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-053",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-rgbd",
+      "hash": "6e3d693fe531959371d18e8ba864575693893d1ac9711a3436950084b60412ed",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-054",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-rgbd-applications",
+      "hash": "ea853f2fd24c65593e00485a35352181b12c303dc71a02da35d1dfd301b58206",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-055",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-system-design",
+      "hash": "7915d3da328995c551081e439476be659b8023bf44592645d72ff6f2aa811d41",
+      "formulas": []
+    },
+    {
+      "id": "IS-02-056",
+      "file": "chapters/02-sensors.md",
+      "anchor": "s02-impurity-design",
+      "hash": "d33c7cfcfac9d07404045536dfc9db5dccb4b274cfb18481281456f026928ffb",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-001",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-embedded",
+      "hash": "144b1a14e656ac366ff3eaf531f2c637c7056b01902e6db553539346188ff943",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-002",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-development",
+      "hash": "d6ed9387dda1aac8aaeb54cd7dee090862d9946354e505937563fe4b93d2006a",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-003",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-processors",
+      "hash": "94acee65f89a749d89a57c2ed2e046f1461f62edcf8154bdb6e69d891c497e1d",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-004",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-memory",
+      "hash": "a34e6ed65d5290616ca98a4629ded2ef54d491f9accc5c94437de536a517c3b3",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-005",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-peripherals",
+      "hash": "e539adf0ed62f8d89566cf9c31dfd147fbc4d559bd955e760666f99117537b6a",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-006",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-buses",
+      "hash": "53ad7025fc97875cf824cb4409d632538612ad5bc9213f6d5aaea4e7be62a321",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-007",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-i2c",
+      "hash": "8c9a959de7922a864e50bd24acefe4bdfdc0f5cce897e547e6a3e0b49f99f09a",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-008",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-os",
+      "hash": "bcd951f86f4cf9acfff6c83f4e9e6849dda9b178b79c22b848a7c496ad56401c",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-009",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-boot",
+      "hash": "4171fdb413b17af04acfb54ca63e88b83ef07512a143dbdbfdc00d779aff868d",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-010",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-tools",
+      "hash": "9bc28f66011e72fbf2639a1b7b4358192b79a74c35d882912af39e210b411942",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-011",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-emif",
+      "hash": "f8f1281f18def2e98f2af5ade65bd3863882035b8d23fffc316b76df30322978",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-012",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-pcb",
+      "hash": "9f31c18b7a47c6eae4fa843af6c1c0f52832be1f90274c887580293816cc5416",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-013",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-bottle",
+      "hash": "343fb1ffb7b854c626a0732ad5577be7152a734536121add52f904a88d5aa799",
+      "formulas": []
+    },
+    {
+      "id": "IS-03-014",
+      "file": "chapters/03-platforms.md",
+      "anchor": "s03-bandwidth",
+      "hash": "4e96ec449e10ba78d9b1e98f45fd73b09f49ca5524bc60f85989fafdbe854693",
+      "formulas": [
+        "R=512\\times512\\times100\\times8=209715200\\ \\mathrm{bit/s}\\approx209.72\\ \\mathrm{Mbit/s}."
+      ]
+    },
+    {
+      "id": "IS-04-001",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-error",
+      "hash": "9d01a20ebfea75a0968305cf9b1e6e2440790e6dd96dbe201f294794ab1b34ed",
+      "formulas": [
+        "x_i=M_i-A_0.",
+        "\\bar M=\\frac1n\\sum_{i=1}^{n}M_i,",
+        "s^2=\\frac1{n-1}\\sum_{i=1}^{n}(M_i-\\bar M)^2",
+        "\\sum_i(M_i-\\mu)^2=\\sum_i(M_i-\\bar M)^2+n(\\bar M-\\mu)^2."
+      ]
+    },
+    {
+      "id": "IS-04-002",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-types",
+      "hash": "ff4dde938f8d48731d2de73f6681fcc059b28661b5387accbacd3d963fa9f7a8",
+      "formulas": []
+    },
+    {
+      "id": "IS-04-003",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-propagation",
+      "hash": "da77075b76597e6713c1b2bdabcc7cce64004ee57a4807c5b1e912f7aae16a85",
+      "formulas": [
+        "Y=\\sum_{j=1}^{m}a_jX_j+c.",
+        "\\sigma_Y^2=\\sum_j a_j^2\\sigma_j^2+2\\sum_{j<k}a_ja_k\\operatorname{Cov}(X_j,X_k).",
+        "f(\\boldsymbol X_0+\\Delta\\boldsymbol X)\n=f(\\boldsymbol X_0)+\\sum_j\\left.\\frac{\\partial f}{\\partial X_j}\\right|_{\\boldsymbol X_0}\\Delta X_j+R.",
+        "\\sigma_Y^2\\approx\\boldsymbol J\\boldsymbol\\Sigma_X\\boldsymbol J^T.",
+        "D=\\frac{s^2}{4h}+h=1300\\ \\mathrm{mm}.",
+        "\\sigma_D\\approx\\sqrt{5^2(0.05)^2+(-24)^2(0.1)^2}\n=2.41299\\ \\mathrm{mm}."
+      ]
+    },
+    {
+      "id": "IS-04-004",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-filter-role",
+      "hash": "78affe8d8c23bbee6a34d0d8f5dc05a69b4fb56ea1c489e4fbbe974e91c70741",
+      "formulas": []
+    },
+    {
+      "id": "IS-04-005",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-limit",
+      "hash": "f7743769ce1509b38047c174534d930928eac2f0718b3b9ddd7c735833dc334b",
+      "formulas": [
+        "y_k=\\begin{cases}x_k,&d_k\\le A,\\\\y_{k-1},&d_k>A.\\end{cases}"
+      ]
+    },
+    {
+      "id": "IS-04-006",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-median",
+      "hash": "6e01022ea9ced7086039876786d3d03bb68ee83249bda925c2391cdc86fb2841",
+      "formulas": []
+    },
+    {
+      "id": "IS-04-007",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-sigma",
+      "hash": "2ab03a0aa4067ca18c9d84f25483c116dba823d8f1554f19c3f7a06c433457c5",
+      "formulas": [
+        "\\sum_{j\\ne i}v_j=-v_i,\n\\qquad\n\\sum_{j\\ne i}v_j^2\\ge\\frac{v_i^2}{N-1}.",
+        "s^2\\ge\\frac{Nv_i^2}{(N-1)^2},\\qquad\n\\frac{|v_i|}{s}\\le\\frac{N-1}{\\sqrt N}.",
+        "d_M^2=(\\boldsymbol x-\\boldsymbol\\mu)^T\\boldsymbol\\Sigma^{-1}(\\boldsymbol x-\\boldsymbol\\mu)."
+      ]
+    },
+    {
+      "id": "IS-04-008",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-hampel",
+      "hash": "9f89d26b1cc976b321cbb90df5654f2c4c60e9ebc515382d55443a8810a7e2ce",
+      "formulas": [
+        "D=\\operatorname{median}_j|x_j-z|,\n\\qquad Q=1.4826D."
+      ]
+    },
+    {
+      "id": "IS-04-009",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-debounce",
+      "hash": "fe33ff323407364dd798682151f28359105b064281c8a41511f2a5621f51fd9b",
+      "formulas": []
+    },
+    {
+      "id": "IS-04-010",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-average",
+      "hash": "133bd13a7d6951dbd8ea01bd8bee9afdb2e726f2147ffc59b13c8e6e03336b82",
+      "formulas": [
+        "y_k=\\frac1N\\sum_{j=0}^{N-1}x_{k-j}."
+      ]
+    },
+    {
+      "id": "IS-04-011",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-weighted",
+      "hash": "c736cd8b5c8ac2e1243d2179b150c6519f93ed2140f9e3ccb564bff64dd30b70",
+      "formulas": [
+        "y_k=\\sum_{j=0}^{N-1}w_jx_{k-j},\\qquad\\sum_jw_j=1.",
+        "w_{ij}=\\frac1{N-1}\\left(1-\\frac{d_{ij}}S\\right).",
+        "G(x,y)=\\frac1{2\\pi\\sigma^2}\\exp\\left(-\\frac{x^2+y^2}{2\\sigma^2}\\right),\\quad\\sigma>0."
+      ]
+    },
+    {
+      "id": "IS-04-012",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-lag",
+      "hash": "376cdabf5be466803911c8a6d4af95bbed961077d2763afe2b47223bdfe49107",
+      "formulas": [
+        "y_k=ax_k+(1-a)y_{k-1},\\qquad0<a\\le1."
+      ]
+    },
+    {
+      "id": "IS-04-013",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-mean-test",
+      "hash": "b70b8a7c498ac1a124f11fb179062b68809eff87346491b0b5b8837733ad4ae0",
+      "formulas": [
+        "s_\\Delta=\\sqrt{\\frac{s_1^2}{n_1}+\\frac{s_2^2}{n_2}}."
+      ]
+    },
+    {
+      "id": "IS-04-014",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-residual-tests",
+      "hash": "6b4176e004530c1abfcb69199842d94d86caa9984c34fcc9b05b63efbfce822c",
+      "formulas": [
+        "\\Delta=\\sum_{i=1}^{k}v_i-\\sum_{i=k+1}^{n}v_i.",
+        "U=\\left|\\sum_{i=1}^{n-1}v_iv_{i+1}\\right|,\n\\qquad s^2=\\frac1{n-1}\\sum_{i=1}^{n}v_i^2."
+      ]
+    },
+    {
+      "id": "IS-04-015",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-compensation",
+      "hash": "b564625ed1771182b12c048e7fc719c97a2eeaa4d2976cc87e35da66aad25a15",
+      "formulas": [
+        "V_B-V_A=\\frac{x_2+x_3}{2}-\\frac{a_1+a_4}{2}."
+      ]
+    },
+    {
+      "id": "IS-04-016",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-calibration",
+      "hash": "fdae6b1981be9b0c3dedb043eb4cd79a977f87f5751beb5ac6b4ad1a270c27b7",
+      "formulas": [
+        "V_x=\\frac{N_x-N_0}{N_R-N_0}V_{\\mathrm{ref}}.",
+        "R_T=\\alpha R_{25}\\exp(\\beta/T),\\qquad\nT=\\frac{\\beta}{\\ln[R_T/(\\alpha R_{25})]}."
+      ]
+    },
+    {
+      "id": "IS-04-017",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-interpolation",
+      "hash": "fbee8419d698f8af84a452503bb8f6a587752336f2ec1c14a22fb25d4e4a38b4",
+      "formulas": [
+        "P_1(x)=y_i+\\frac{y_{i+1}-y_i}{x_{i+1}-x_i}(x-x_i).",
+        "P_m(x)=\\sum_{j=0}^{m}y_j\\ell_j(x),\\qquad\n\\ell_j(x)=\\prod_{i\\ne j}\\frac{x-x_i}{x_j-x_i}."
+      ]
+    },
+    {
+      "id": "IS-04-018",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-runge",
+      "hash": "9ecef5205deeb46a745255e87fa06d205d2f7fef5ad48e48f5ec53e1108b27f3",
+      "formulas": [
+        "f(x)-S_i(x)=\\frac{f''(\\xi)}2(x-x_{i-1})(x-x_i).",
+        "|f(x)-S_i(x)|\\le\\frac{M_ih_i^2}{8}."
+      ]
+    },
+    {
+      "id": "IS-04-019",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-hermite",
+      "hash": "4e4b6030861628636e6e393047dcf549a780cd72207570f52851406181c10f8f",
+      "formulas": [
+        "h_{00}=2t^3-3t^2+1.",
+        "h_{01}=-2t^3+3t^2,\\qquad\nh_{10}=t^3-2t^2+t,\\qquad\nh_{11}=t^3-t^2.",
+        "H_i(x)=h_{00}(t)y_{i-1}+h_{01}(t)y_i\n+h\\,h_{10}(t)y'_{i-1}+h\\,h_{11}(t)y'_i.",
+        "f(x)-H_i(x)=\\frac{f^{(4)}(\\xi)}{4!}(x-a)^2(x-b)^2,"
+      ]
+    },
+    {
+      "id": "IS-04-020",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-least-squares",
+      "hash": "c75ef3a896f1e5b5adee9856f3269a3ab6f7d6eff3b1bdca428045ef4bcaad5d",
+      "formulas": [
+        "J(a,b)=\\sum_{i=1}^{N}(y_i-ax_i-b)^2.",
+        "\\begin{bmatrix}\\sum x_i^2&\\sum x_i\\\\\\sum x_i&N\\end{bmatrix}\n\\begin{bmatrix}a\\\\b\\end{bmatrix}\n=\\begin{bmatrix}\\sum x_iy_i\\\\\\sum y_i\\end{bmatrix}.",
+        "\\operatorname{RMSE}=\\sqrt{\\frac1N\\sum_i(y_i-\\hat y_i)^2},",
+        "m=-0.1036858392,\\qquad k=78.57003613."
+      ]
+    },
+    {
+      "id": "IS-04-021",
+      "file": "chapters/04-data.md",
+      "anchor": "s04-intelligent",
+      "hash": "6b77c739655cb323bd5a8bdc25c0c8f2ea26979c0d51182f58bf51575ecb47c1",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-001",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-perspective",
+      "hash": "fa09f9c70085f16b51177f79cf287003fbc1f3991a860dbf3e2997c2ad23350d",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-002",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-homogeneous",
+      "hash": "2a06c65b44053d09dce74c974bba9fc9ec60d90290626426edcb1afeef21582f",
+      "formulas": [
+        "(1,2,3)^T\\sim(2,4,6)^T,"
+      ]
+    },
+    {
+      "id": "IS-05-003",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-transform",
+      "hash": "7080a1f104ec728b04dfea4e0bc88858d446d1fe30e666a8d3972d688d4d95e0",
+      "formulas": [
+        "\\boldsymbol X_c=\\boldsymbol R\\boldsymbol X_w+\\boldsymbol t,\n\\qquad\n\\begin{bmatrix}\\boldsymbol X_c\\\\1\\end{bmatrix}\n=\\begin{bmatrix}\\boldsymbol R&\\boldsymbol t\\\\\\boldsymbol0^T&1\\end{bmatrix}\n\\begin{bmatrix}\\boldsymbol X_w\\\\1\\end{bmatrix}.",
+        "R(\\theta)=\\begin{bmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{bmatrix}."
+      ]
+    },
+    {
+      "id": "IS-05-004",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-camera",
+      "hash": "e91f5639f03a2690e35a6f3084f3069f47030b023f2f0819fad1562ce7572930",
+      "formulas": [
+        "x=f\\frac{X_c}{Z_c},\\qquad y=f\\frac{Y_c}{Z_c}.",
+        "u=\\frac{x}{d_x}+u_0=f_u\\frac{X_c}{Z_c}+u_0,\n\\qquad\nv=\\frac{y}{d_y}+v_0=f_v\\frac{Y_c}{Z_c}+v_0,",
+        "K=\\begin{bmatrix}f_u&s&u_0\\\\0&f_v&v_0\\\\0&0&1\\end{bmatrix}.",
+        "Z_c\\tilde{\\boldsymbol p}=K[R\\mid t]\\tilde{\\boldsymbol X}_w=P\\tilde{\\boldsymbol X}_w."
+      ]
+    },
+    {
+      "id": "IS-05-005",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-distortion",
+      "hash": "c0a152dafb1e716ebeb17db480f5374fdbf622e5afd433e804e4981555f29d33",
+      "formulas": [
+        "x_d=x_n(1+k_1r^2),\\qquad\ny_d=y_n(1+k_1r^2)."
+      ]
+    },
+    {
+      "id": "IS-05-006",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-problems",
+      "hash": "b2ba96c5ca2ecbdf400e886255a66600ea4290e2b45b589b333cc5c55cefc0c5",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-007",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-dlt",
+      "hash": "a7b84b3b1593accebd1a1304fda518c7bf349112fe0bf99d709697320ccaaab8",
+      "formulas": [
+        "u_i=\\frac{p_1^T\\tilde X_i}{p_3^T\\tilde X_i},\\qquad\nv_i=\\frac{p_2^T\\tilde X_i}{p_3^T\\tilde X_i}",
+        "(p_1^T-u_ip_3^T)\\tilde X_i=0,\n\\qquad(p_2^T-v_ip_3^T)\\tilde X_i=0.",
+        "\\min_{\\|\\ell\\|=1}\\|A\\ell\\|^2,"
+      ]
+    },
+    {
+      "id": "IS-05-008",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-dlt-decompose",
+      "hash": "2be95c4a6ace9be152d0c77bee2448e5512f365a1e3b9aa9493ec46a37339176",
+      "formulas": [
+        "\\rho a_1=f_ur_1+u_0r_3,\\quad\n\\rho a_2=f_vr_2+v_0r_3,\\quad\n\\rho a_3=r_3.",
+        "u_0=\\rho^2a_1^Ta_3,\\qquad v_0=\\rho^2a_2^Ta_3.",
+        "f_u=\\rho^2\\|a_1\\times a_3\\|,\\qquad\nf_v=\\rho^2\\|a_2\\times a_3\\|."
+      ]
+    },
+    {
+      "id": "IS-05-009",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-tsai",
+      "hash": "811bffef3208b7ef0148d9a16de80b6d7585b53a95dbb1275dfd8664b1a7cb52",
+      "formulas": [
+        "\\frac{X_c}{Y_c}=\\frac1{s_x}\\frac{u'-u_0}{v'-v_0}.",
+        "s_x(v-v_0)(r_1^TX_w+t_x)\n=(u-u_0)(r_2^TX_w+t_y)."
+      ]
+    },
+    {
+      "id": "IS-05-010",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-zhang",
+      "hash": "50dfd0389f9ee67ad3f5f8caf1ba96e25cfd36ccc1d4f1313cec8c5942e846b9",
+      "formulas": [
+        "\\lambda_i\\tilde p_i=Hq_i,\\qquad H\\sim K[r_1\\ r_2\\ t],",
+        "h_1^TBh_2=0,\\qquad h_1^TBh_1-h_2^TBh_2=0."
+      ]
+    },
+    {
+      "id": "IS-05-011",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-calibration-output",
+      "hash": "b035f0c1c1b82437fb1b1a551381ef1e7183fd5802f25553822ad31f31ff3ab9",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-012",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-stereo",
+      "hash": "e9953dc7f54e88ed4f8a064c2f01d78c1e403b18f78031c7a262f97cb7069f14",
+      "formulas": [
+        "u_l-u_0=f_uX/Z,\\qquad\nu_r-u_0=f_u(X-B)/Z.",
+        "d=\\frac{f_uB}{Z},\\qquad Z=\\frac{f_uB}{d}.",
+        "\\sigma_Z\\approx\\frac{f_uB}{d^2}\\sigma_d\n=\\frac{Z^2}{f_uB}\\sigma_d."
+      ]
+    },
+    {
+      "id": "IS-05-013",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-triangulation",
+      "hash": "fd73c1ae87f26229e020556ddec029fa878d7e244b634f4a668445905bd53570",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-014",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-epipolar",
+      "hash": "08eb7157ae386fc92a149e7aaad672d0f7bc667bc87451424641b0c94c9bb345",
+      "formulas": [
+        "x_2^T[t]_\\times Rx_1=0,",
+        "[t]_\\times=\\begin{bmatrix}0&-t_z&t_y\\\\t_z&0&-t_x\\\\-t_y&t_x&0\\end{bmatrix},\n\\qquad [t]_\\times a=t\\times a.",
+        "F=K_2^{-T}[t]_\\times RK_1^{-1},\\qquad\n\\tilde p_2^TF\\tilde p_1=0."
+      ]
+    },
+    {
+      "id": "IS-05-015",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-matching",
+      "hash": "a8f463d4e864c714fe5b0bd1d45cecc5e181c9055521a0abf8ac9886f8eebb5b",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-016",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-monocular",
+      "hash": "ba8dfd3a90f1053c29da12481c9667fb0cb7e0711e94307c6b009474dd760fdc",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-017",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-plane",
+      "hash": "aff59ed03b3f70faf8e146daded74f71705948162f0a97440f4be69eeb6dd231",
+      "formulas": [
+        "X_w=\\frac d{f_u}(u-u_0),\\qquad\nY_w=\\frac d{f_v}(v-v_0)."
+      ]
+    },
+    {
+      "id": "IS-05-018",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-structured-light",
+      "hash": "e9403c25c545f01d3c4e888f1fc7ea4fca8b80f81d00c2292726e2912278eb64",
+      "formulas": [
+        "n^TX+d_0=0,\\qquad\\|n\\|=1.",
+        "X=-\\frac{d_0}{n^Tq}q."
+      ]
+    },
+    {
+      "id": "IS-05-019",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-pnp",
+      "hash": "4e5d42b8abcd3edaa3e0e2b06c0aa19c0afcdce658e947145bd7400a4a40c6be",
+      "formulas": [
+        "X_2=\\left(R+\\frac{tn^T}{d}\\right)X_1.",
+        "\\tilde p_2\\sim H\\tilde p_1,\n\\qquad H=K_2\\left(R+\\frac{tn^T}{d}\\right)K_1^{-1}."
+      ]
+    },
+    {
+      "id": "IS-05-020",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-detection-tracking",
+      "hash": "7e9171831afb457c300a9d196a167c5862a0bcf52221c970bf4ffd3055b89c53",
+      "formulas": [
+        "D(x,y)=\\begin{cases}1,&|I(x,y,t)-I(x,y,t-\\Delta t)|>T,\\\\0,&\\text{其他}.\\end{cases}"
+      ]
+    },
+    {
+      "id": "IS-05-021",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-tracking-methods",
+      "hash": "9d5f0ae477bb484b743fea0a951efe52d38d30ce988a8cfa5e4582d12081ebf5",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-022",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-flow-fields",
+      "hash": "b951f04364a1ceab8f5b70ed87fa2b5fa675a5bf0d4d979a4564d7588b09d022",
+      "formulas": []
+    },
+    {
+      "id": "IS-05-023",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-flow-constraint",
+      "hash": "29d76854ac61733066fd3320531f2550fdafe95a02a8964079a1855c6b2505f9",
+      "formulas": [
+        "I(x+\\delta x,y+\\delta y,t+\\delta t)=I(x,y,t).",
+        "I_xu+I_yv+I_t=0."
+      ]
+    },
+    {
+      "id": "IS-05-024",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-lk",
+      "hash": "68270a856590a6c72646e57b2fc7433b8029c783b42765d8071bbc5f5665ea1d",
+      "formulas": [
+        "A^TAw=A^Tb."
+      ]
+    },
+    {
+      "id": "IS-05-025",
+      "file": "chapters/05-vision.md",
+      "anchor": "s05-hs",
+      "hash": "47fd0d2460a2fa61ecabcd53631ef4e24cd6129fe38c0643a81fe105217b71ed",
+      "formulas": [
+        "E(u,v)=\\int_\\Omega\\left[|\\nabla u|^2+|\\nabla v|^2+\n\\lambda(I_xu+I_yv+I_t)^2\\right]dx\\,dy,\n\\qquad\\lambda>0.",
+        "\\begin{bmatrix}1+\\lambda I_x^2&\\lambda I_xI_y\\\\\n\\lambda I_xI_y&1+\\lambda I_y^2\\end{bmatrix}\n\\begin{bmatrix}u\\\\v\\end{bmatrix}\n=\\begin{bmatrix}\\bar u-\\lambda I_xI_t\\\\\\bar v-\\lambda I_yI_t\\end{bmatrix}.",
+        "u^{(k+1)}=\\bar u^{(k)}-\n\\frac{\\lambda I_x(I_x\\bar u^{(k)}+I_y\\bar v^{(k)}+I_t)}{1+\\lambda(I_x^2+I_y^2)},",
+        "v^{(k+1)}=\\bar v^{(k)}-\n\\frac{\\lambda I_y(I_x\\bar u^{(k)}+I_y\\bar v^{(k)}+I_t)}{1+\\lambda(I_x^2+I_y^2)}."
+      ]
+    },
+    {
+      "id": "IS-06-001",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-cloud",
+      "hash": "d030bdccc714bfc04e68e6c7836d269f88827b8aba77ac12c01cc6c4a29d191f",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-002",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-filter",
+      "hash": "ba6360118f1bb0f5505f28afbf9ebd1177c8724d9a1a2548a81cfb5b1d2f62ba",
+      "formulas": [
+        "\\bar{\\mathbf p}_V=\\frac1{|V|}\\sum_{i\\in V}\\mathbf p_i."
+      ]
+    },
+    {
+      "id": "IS-06-003",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-bilateral",
+      "hash": "0d03ea67dd9f1cecdbb0b70f4b3033139a908de32bb5279db9bf7029e479a2ec",
+      "formulas": [
+        "\\hat f_i=\\frac{\\sum_{j\\in\\mathcal N(i)} w_{ij}f_j}{\\sum_{j\\in\\mathcal N(i)}w_{ij}},\\qquad\nw_{ij}=\\exp\\!\\left[-\\frac{\\|\\mathbf u_i-\\mathbf u_j\\|^2}{2\\sigma_s^2}-\\frac{(f_i-f_j)^2}{2\\sigma_r^2}\\right]."
+      ]
+    },
+    {
+      "id": "IS-06-004",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-pca",
+      "hash": "99d6b220b222a27d20b0fdea1896cd911b7be72628a51dae675498541aeceb38",
+      "formulas": [
+        "C=\\frac1mXX^\\mathsf T\\in\\mathbb R^{n\\times n}.",
+        "\\|X-\\mathbf u\\mathbf u^\\mathsf TX\\|_F^2\n=\\operatorname{tr}(X^\\mathsf TX)-\\mathbf u^\\mathsf TXX^\\mathsf T\\mathbf u."
+      ]
+    },
+    {
+      "id": "IS-06-005",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-normal",
+      "hash": "27b4bc825cb88bd4994085b2c83337bcd3ce94e53718577ded36c954e3bbec74",
+      "formulas": [
+        "\\Delta\\mathbf n(\\mathbf p;r_s,r_l)=\\frac{\\mathbf n(\\mathbf p,r_s)-\\mathbf n(\\mathbf p,r_l)}2."
+      ]
+    },
+    {
+      "id": "IS-06-006",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-morphology",
+      "hash": "6cac06e1c6bbc86acd6876af1f49cf91851d417ccecdcce6ee6bbfd366cfde00",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-007",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-simplify",
+      "hash": "f5b2bd771ec1312353b3ab6173bc820b4dd5c8effe354c438d3d433303111ceb",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-008",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-gauss-map",
+      "hash": "46bac303d0a4c37143af3f9a4417291f8100ba5038e432492e0a288a28606c03",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-009",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-meanshift",
+      "hash": "bac65e891c2d49dc0509d53d89e43650672c0c1e2cfae39f5ab4803d9b734921",
+      "formulas": [
+        "\\hat f(\\mathbf x)=\\frac{c_k}{h^d\\sum_i a_i}\\sum_i a_i k\\!\\left(\\left\\|\\frac{\\mathbf x-\\mathbf x_i}{h}\\right\\|^2\\right).",
+        "\\sum_i a_i g_i(\\mathbf x)(\\mathbf x_i-\\mathbf x)\n=\\left(\\sum_i a_i g_i(\\mathbf x)\\right)\\left[\\frac{\\sum_i a_i g_i(\\mathbf x)\\mathbf x_i}{\\sum_i a_i g_i(\\mathbf x)}-\\mathbf x\\right],"
+      ]
+    },
+    {
+      "id": "IS-06-010",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-registration",
+      "hash": "89c70215cad0a80525f8cf5669696ca5d279bd0362a53597f5782f91584f700f",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-011",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-icp",
+      "hash": "07a750e348a898e2467ed8007401295b606f9649bfe9107aa67aa6b74c526621",
+      "formulas": [
+        "E=\\sum_i\\|\\mathbf q_i'\\|^2+\\sum_i\\|\\mathbf p_i'\\|^2-2\\operatorname{tr}(RH),\\qquad H=\\sum_i\\mathbf p_i'\\mathbf q_i'^\\mathsf T.",
+        "R=V\\operatorname{diag}(1,1,\\det(VU^\\mathsf T))U^\\mathsf T,\\qquad\n\\mathbf t=\\bar{\\mathbf q}-R\\bar{\\mathbf p}."
+      ]
+    },
+    {
+      "id": "IS-06-012",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-ransac",
+      "hash": "5186db5b3255d08977b583553cc3b0aa69b64bfabed882930d43b3b97b767b66",
+      "formulas": [
+        "M\\ge\\frac{\\log(1-p)}{\\log(1-w^s)}.",
+        "\\rho(\\mathbf p)=\\frac{|a x+b y+c z-d|}{\\sqrt{a^2+b^2+c^2}}."
+      ]
+    },
+    {
+      "id": "IS-06-013",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-segmentation",
+      "hash": "77f4461180b9e7f382bcd9a8b3ef6ff1feef7120cdaa9682da8703e4be58c921",
+      "formulas": []
+    },
+    {
+      "id": "IS-06-014",
+      "file": "chapters/06-pointcloud.md",
+      "anchor": "s06-scale",
+      "hash": "bc8d474f0416a0d52a2e3275450ba4dd0caf3a86ccbdbc99ce538b9fdd81d624",
+      "formulas": []
+    },
+    {
+      "id": "IS-07-001",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-wave",
+      "hash": "68a13603c722175e7515b3b17dfa10faa51b6d5af653d5754ca411567905fd6e",
+      "formulas": [
+        "c(t)=331.45\\sqrt{\\frac{t+273.15}{273.15}}\\ \\mathrm{m/s},\n\\qquad c(t)\\approx331.45+0.606t\\ \\mathrm{m/s}."
+      ]
+    },
+    {
+      "id": "IS-07-002",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-range",
+      "hash": "037c2e7128b192f0bdec391304398e459163bdf97706e4a16137f885bce4b9b3",
+      "formulas": [
+        "D=\\frac{c\\Delta t}{2}.",
+        "D=\\frac{v_1v_2}{v_2-v_1}(t_1-t_2)."
+      ]
+    },
+    {
+      "id": "IS-07-003",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-correlation",
+      "hash": "affa864bfdd4bc7a4eed88f2dd94f4c305e25f681c13fde7a2dbb0f23770ce0f",
+      "formulas": [
+        "r_{xy}[\\ell]=\\sum_n x[n]y[n+\\ell]."
+      ]
+    },
+    {
+      "id": "IS-07-004",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-binaural",
+      "hash": "de8b7de4df569ffb0b9f46a15e6e1948fe6f5fe7ccbd8e661cc312e5b5a62441",
+      "formulas": []
+    },
+    {
+      "id": "IS-07-005",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-field",
+      "hash": "958e514c4fb0f674185a2b50d3016cbd6494e813a4e47f486b5cfbcdc5bd4451",
+      "formulas": []
+    },
+    {
+      "id": "IS-07-006",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-manifold",
+      "hash": "305a2cde0cd22ba56e3f5f512d3c93e9880b1cbaadc41941261a1259afab67ab",
+      "formulas": [
+        "\\mathbf x(t)=A\\mathbf s(t)+\\mathbf v(t),\\qquad A=[\\mathbf a_1,\\ldots,\\mathbf a_K]\\in\\mathbb C^{M\\times K}.",
+        "a_{mk}=\\frac{r_k}{r_{mk}}\\exp\\!\\left[-j2\\pi f\\frac{r_{mk}-r_k}{c}\\right]."
+      ]
+    },
+    {
+      "id": "IS-07-007",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-gcc",
+      "hash": "2c0ea01e12277d004e0116d8984d8461e296197b2e5e33cfe9c7b490ff567217",
+      "formulas": [
+        "r^{\\mathrm{GCC}}_{xy}(\\tau)=\\mathcal F^{-1}\\{\\Psi(f)S_{xy}(f)\\}."
+      ]
+    },
+    {
+      "id": "IS-07-008",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-tdoa-position",
+      "hash": "0caed39ac77b36ae68743f5e4042758f4d84ac022eddef6e4a974b91e8405c82",
+      "formulas": [
+        "\\|\\mathbf r-\\mathbf r_i\\|-\\|\\mathbf r-\\mathbf r_0\\|=c\\tau_{i0}.",
+        "2\\mathbf r_i^\\mathsf T\\mathbf r+2d_{i0}D_0=\\|\\mathbf r_i\\|^2-d_{i0}^2."
+      ]
+    },
+    {
+      "id": "IS-07-009",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-beamforming",
+      "hash": "d95ea72dd00f17160d0b7cbe5402b9707a0e9ac906b2aab7f24f4b3dfba27ccb",
+      "formulas": [
+        "P(\\theta)=E[|y|^2]=\\mathbf w(\\theta)^H R_x\\mathbf w(\\theta),\\qquad R_x=E[\\mathbf x\\mathbf x^H]."
+      ]
+    },
+    {
+      "id": "IS-07-010",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-music",
+      "hash": "5bc34bab806982f56c9efe370c59292dd933d7156168617f712ddcad4d5a3a12",
+      "formulas": [
+        "R_x=A R_s A^H+\\sigma_v^2 I.",
+        "0=\\mathbf u^H A R_s A^H\\mathbf u=(A^H\\mathbf u)^H R_s(A^H\\mathbf u).",
+        "P_{\\mathrm{MUSIC}}(\\theta)=\\frac1{\\mathbf a(\\theta)^H U_NU_N^H\\mathbf a(\\theta)}=\\frac1{\\|U_N^H\\mathbf a(\\theta)\\|^2}."
+      ]
+    },
+    {
+      "id": "IS-07-011",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-check-geometry",
+      "hash": "be4ec59ee5957c250f85914f601c2f9416074d102b975ce9152b3b77ac50e32d",
+      "formulas": []
+    },
+    {
+      "id": "IS-07-012",
+      "file": "chapters/07-audio.md",
+      "anchor": "s07-reproducibility",
+      "hash": "c2f75aef2274eaeea7bf72e8b24e223c157fa74721b60b4affa4beba2bb6fdf4",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-001",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-levels",
+      "hash": "24bd894821f4bb3881bb9d6bb1200783deab8b51405532756909d6a5570fa33c",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-002",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-uncertainty",
+      "hash": "f1076a364372b490a561e440fd9936d2ba79c386f81eea76c5feec5dd8cbab63",
+      "formulas": [
+        "p(x)=\\frac1{\\sqrt{2\\pi}\\sigma}\\exp\\!\\left[-\\frac{(x-\\mu)^2}{2\\sigma^2}\\right],\\quad\\sigma>0."
+      ]
+    },
+    {
+      "id": "IS-08-003",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-weighted",
+      "hash": "4ff55f92ad1bc181dbf5070c62a54a466bbc36b26f920cb77e87e0e737274dc3",
+      "formulas": [
+        "\\hat x=\\frac{r_2z_1+r_1z_2}{r_1+r_2},\\qquad\nP=\\frac{r_1r_2}{r_1+r_2}."
+      ]
+    },
+    {
+      "id": "IS-08-004",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-state",
+      "hash": "3d3e063e123818c39dd0a9b251f0d32d202e328a0f3fada97580d36c78ef7c4e",
+      "formulas": [
+        "\\mathbf x_k=F_k\\mathbf x_{k-1}+B_k\\mathbf u_k+\\mathbf w_k,\\qquad\n\\mathbf z_k=H_k\\mathbf x_k+\\mathbf v_k."
+      ]
+    },
+    {
+      "id": "IS-08-005",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-kalman",
+      "hash": "67ab96ea728fa3309743893728c8d02f27580f2e089246ec1946dd59a6bae051",
+      "formulas": [
+        "\\hat{\\mathbf x}_{k|k-1}=F_k\\hat{\\mathbf x}_{k-1|k-1}+B_k\\mathbf u_k,",
+        "P_{k|k-1}=F_kP_{k-1|k-1}F_k^\\mathsf T+Q_k.",
+        "P^+=(I-KH)P^-(I-KH)^\\mathsf T+KRK^\\mathsf T.",
+        "K_k=P_{k|k-1}H_k^\\mathsf T S_k^{-1},",
+        "\\hat{\\mathbf x}_{k|k}=\\hat{\\mathbf x}_{k|k-1}+K_k\\boldsymbol\\nu_k.",
+        "P_{k|k}=(I-K_kH_k)P_{k|k-1}."
+      ]
+    },
+    {
+      "id": "IS-08-006",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-ekf-boundary",
+      "hash": "e3c70eb53a26f730b2438b6b39606ea733744b5ec9e78d2e07ea16cbfc52c73c",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-007",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-bayes",
+      "hash": "d6eb13c3aa54f07cb25a9b9d5f1f51cc7f6085255622709fccc16972d2e16a15",
+      "formulas": [
+        "\\hat x=\\frac{\\sum_i z_i/r_i}{\\sum_i1/r_i},\\qquad\nP=\\left(\\sum_i1/r_i\\right)^{-1}."
+      ]
+    },
+    {
+      "id": "IS-08-008",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-bayes-filter",
+      "hash": "7e858b6a37828f70982fe630dc822f19c2d394e389b0fe43b42413708f1251a6",
+      "formulas": [
+        "\\bar b_k(x)=\\int p(x|x',u_k)b_{k-1}(x')\\,dx'.",
+        "b_k(x)=\\eta\\,p(z_k|x)\\bar b_k(x),\\qquad\n\\eta^{-1}=\\int p(z_k|x)\\bar b_k(x)\\,dx."
+      ]
+    },
+    {
+      "id": "IS-08-009",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-importance",
+      "hash": "533a9fb6d20019f3264c5f9a64376867e14347ac4f3607993c71fcb93a36358a",
+      "formulas": [
+        "E[f(X)]\\approx\\sum_i\\bar w_i f(x_i)."
+      ]
+    },
+    {
+      "id": "IS-08-010",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-particle",
+      "hash": "64dcdf1fb4f5739d4ac0fd5b15ff09184d6b3941054747ed5a46066fc506cf99",
+      "formulas": [
+        "w_k^{(i)}\\propto w_{k-1}^{(i)}\\frac{p(z_k|x_k^{(i)})p(x_k^{(i)}|x_{k-1}^{(i)})}{q(x_k^{(i)}|x_{k-1}^{(i)},z_k)}."
+      ]
+    },
+    {
+      "id": "IS-08-011",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-ds",
+      "hash": "ac5a280bfe22c6f6888751a4cd1ed927cc9ef1c7f6bc27d1b5405cea86cbd1c4",
+      "formulas": [
+        "\\operatorname{Bel}(A)=\\sum_{B\\subseteq A}m(B),\\qquad\n\\operatorname{Pl}(A)=\\sum_{B\\cap A\\ne\\varnothing}m(B)=1-\\operatorname{Bel}(\\Omega\\setminus A)."
+      ]
+    },
+    {
+      "id": "IS-08-012",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-ds-combine",
+      "hash": "75402b565f99d7ae32ef8a1c5c02ad0b00fdfc6c68bdf825d48f23e70da03862",
+      "formulas": [
+        "m(A)=\\frac{\\sum_{B\\cap C=A}m_1(B)m_2(C)}{1-K}\\quad(A\\ne\\varnothing),\\qquad m(\\varnothing)=0."
+      ]
+    },
+    {
+      "id": "IS-08-013",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-fuzzy-set",
+      "hash": "68b3bdfde6bb46b44237bff720affc5583b9544882b267469186d180b4ad1610",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-014",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-fuzzy-inference",
+      "hash": "6fca34b7174e24cc2508c86f1df0119a8a93e0b918b0f3d4903ffb6475966b72",
+      "formulas": [
+        "y=\\frac{\\sum_r\\alpha_r f_r(x_1,x_2)}{\\sum_r\\alpha_r}."
+      ]
+    },
+    {
+      "id": "IS-08-015",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-defuzz",
+      "hash": "d07633ed33cd11686c3133f85a598d906c1aaa25bffabe3d8a439672a59f7abd",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-016",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-neuron",
+      "hash": "1c7a6b466f6e19530ff3461ce3dd0345c16029e3f8a23f8f384057dbef2dec6f",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-017",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-bp",
+      "hash": "791ff494f6f1a4f4b7a6fa1a79d613651ef37611676ea0419ffe8fa4b89490de",
+      "formulas": [
+        "\\boldsymbol\\delta_2=(\\mathbf y-\\mathbf t)\\odot\\sigma'(\\mathbf a_2),\\qquad\n\\boldsymbol\\delta_1=(W_2^\\mathsf T\\boldsymbol\\delta_2)\\odot\\sigma'(\\mathbf a_1).",
+        "\\nabla_{W_2}E=\\boldsymbol\\delta_2\\mathbf h^\\mathsf T,\\quad\n\\nabla_{W_1}E=\\boldsymbol\\delta_1\\mathbf x^\\mathsf T,\\quad\n\\nabla_{\\mathbf b_l}E=\\boldsymbol\\delta_l."
+      ]
+    },
+    {
+      "id": "IS-08-018",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-bp-example",
+      "hash": "2f20154aea242af4d81f3c0b80d6248c65f1c5f244afdd723ede0619a6ad7655",
+      "formulas": []
+    },
+    {
+      "id": "IS-08-019",
+      "file": "chapters/08-fusion.md",
+      "anchor": "s08-network-boundaries",
+      "hash": "f7a8f554d78d271a6f5e875808306bf5df1acf514fd6e2792a90ef653df8e776",
+      "formulas": []
+    }
+  ],
+  "documents": [
+    {
+      "file": "guide.md",
+      "sha256": "b4f8e4cac0c4da4f98c696a1db433b96932559a67bf4157cbe68652f8394d921"
+    },
+    {
+      "file": "symbols.md",
+      "sha256": "b6bc6ce508a4cd1eca5a3778a735ea62245ee6f14720795d1ff11636bf899261"
+    },
+    {
+      "file": "practice.md",
+      "sha256": "cb026f3f7e493eb40f9c556534f71097e71702bfa04bf4f8d41b8ce1d9d92696"
+    },
+    {
+      "file": "chapters/01-foundations.md",
+      "sha256": "c7136443a86033da98c89f8d93116e38d61adea38050d8fcfabda0c71d908729"
+    },
+    {
+      "file": "chapters/02-sensors.md",
+      "sha256": "37ead92b326897e689bba91b73540e486be29a025284fe6e92a96c7fad92a665"
+    },
+    {
+      "file": "chapters/03-platforms.md",
+      "sha256": "81800c43b911c9fa2702f07e69d01fde442e30cf3276abc3da900cf07717665a"
+    },
+    {
+      "file": "chapters/04-data.md",
+      "sha256": "91b85741c2f0e2e8f14033aee176d19a474d672c453fac09fc3cde1a9c2eeb9b"
+    },
+    {
+      "file": "chapters/05-vision.md",
+      "sha256": "c87154dac17076b37f95acc5f0291dcd53c087bdf8fc9988bb520f57e0430246"
+    },
+    {
+      "file": "chapters/06-pointcloud.md",
+      "sha256": "1cd90982749b784a9520215de48779bb23feecd67ca2d792ebccc9691c7feb99"
+    },
+    {
+      "file": "chapters/07-audio.md",
+      "sha256": "6c2b70da5e485c0343853ce55bf7c563ce4776ca9b22dbfc94228ee7339d8fe3"
+    },
+    {
+      "file": "chapters/08-fusion.md",
+      "sha256": "85e9104435d2aed35e894058e81a25e6b20376363d7fa10686e9ce6dc2ed96cf"
+    },
+    {
+      "file": "exercises/s01.md",
+      "sha256": "5666efd32099bbd21aa449303b1bb06464d20ed0be2dfdcbaf6f00c8aa58bcef"
+    },
+    {
+      "file": "exercises/s02.md",
+      "sha256": "6c4f3f38f2d2b840327e66c07707e2286d9fb69472dd6d62d091c14734d4d7bf"
+    },
+    {
+      "file": "exercises/s03.md",
+      "sha256": "a62d6a4a8b6e6ed83dd7e078734105c669c93162aa6f177f9d8b5538e40f16b5"
+    },
+    {
+      "file": "exercises/s04.md",
+      "sha256": "5fa0f64d0280efb43d6bf13c0dc50634517fb9105a43765d5daff1af9715e0d8"
+    },
+    {
+      "file": "exercises/s05.md",
+      "sha256": "c6cf868ac82b5e170e47b5f764977827c748091631c44720b87ae9a7861c4519"
+    },
+    {
+      "file": "exercises/s06.md",
+      "sha256": "0f5fc224cb4b1828a143e696df6e2d74a49dba12231da4b413ab2a2d38399d59"
+    },
+    {
+      "file": "exercises/s07.md",
+      "sha256": "3d2d3b3617b61a6e7f6e0649166f22b09359cb8077bd7f03195e77195cfa2598"
+    },
+    {
+      "file": "exercises/s08.md",
+      "sha256": "9bd75dd93eb10413c766d8468416bd029143b5fdbf241a0b145a10be795df5cf"
+    }
+  ]
+}

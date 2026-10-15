@@ -12,6 +12,10 @@
     "created": "2001-12-28T07:12:00Z",
     "modified": "2026-10-14T07:41:42Z"
   },
+  "coverDate": "2026-10-14",
+  "coverLecture": "第7讲",
+  "notes": "原题引用的三组声波及参数未取得。",
+  "hiddenPages": [],
   "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份",
   "slides": [
     {
@@ -35,7 +39,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 2,
@@ -49,7 +54,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 3,
@@ -81,7 +87,8 @@
       "omml": [],
       "pictures": 6,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 4,
@@ -101,7 +108,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 5,
@@ -146,7 +154,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 6,
@@ -184,7 +193,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 7,
@@ -232,7 +242,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 8,
@@ -270,7 +281,8 @@
       ],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 9,
@@ -331,7 +343,8 @@
       "ole": 0,
       "notes": [
         "、"
-      ]
+      ],
+      "relationships": []
     },
     {
       "page": 10,
@@ -364,7 +377,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 11,
@@ -404,7 +418,8 @@
       "ole": 0,
       "notes": [
         "、"
-      ]
+      ],
+      "relationships": []
     },
     {
       "page": 12,
@@ -479,7 +494,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 13,
@@ -521,7 +537,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 14,
@@ -544,7 +561,8 @@
         "去掉二级提纲",
         "计算大脑理论研究",
         "与现有系统紧密结合，补充、完善、"
-      ]
+      ],
+      "relationships": []
     },
     {
       "page": 15,
@@ -607,7 +625,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 16,
@@ -626,7 +645,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 17,
@@ -660,7 +680,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 18,
@@ -711,7 +732,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 19,
@@ -730,7 +752,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 20,
@@ -750,7 +773,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 21,
@@ -790,7 +814,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 22,
@@ -841,7 +866,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 23,
@@ -859,7 +885,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 24,
@@ -889,7 +916,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 25,
@@ -946,7 +974,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 26,
@@ -1005,7 +1034,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 27,
@@ -1046,7 +1076,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 28,
@@ -1073,7 +1104,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 29,
@@ -1099,7 +1131,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 30,
@@ -1155,7 +1188,8 @@
       ],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 31,
@@ -1233,7 +1267,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 32,
@@ -1264,7 +1299,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 33,
@@ -1306,7 +1342,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 34,
@@ -1344,7 +1381,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 35,
@@ -1401,7 +1439,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 36,
@@ -1429,7 +1468,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 37,
@@ -1455,7 +1495,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 38,
@@ -1491,7 +1532,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 39,
@@ -1515,7 +1557,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 40,
@@ -1540,7 +1583,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 41,
@@ -1586,7 +1630,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 42,
@@ -1611,7 +1656,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 43,
@@ -1642,7 +1688,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 44,
@@ -1687,7 +1734,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 45,
@@ -1734,7 +1782,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 46,
@@ -1761,7 +1810,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 47,
@@ -1807,7 +1857,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 48,
@@ -1852,7 +1903,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 49,
@@ -1914,7 +1966,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 50,
@@ -1950,7 +2003,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 51,
@@ -1995,7 +2049,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 52,
@@ -2043,7 +2098,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 53,
@@ -2083,7 +2139,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 54,
@@ -2120,7 +2177,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 55,
@@ -2166,7 +2224,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 56,
@@ -2195,7 +2254,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 57,
@@ -2247,7 +2307,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 58,
@@ -2288,7 +2349,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 59,
@@ -2350,7 +2412,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 60,
@@ -2405,7 +2468,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 61,
@@ -2434,7 +2498,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 62,
@@ -2485,7 +2550,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 63,
@@ -2512,7 +2578,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 64,
@@ -2567,7 +2634,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 65,
@@ -2609,7 +2677,8 @@
       ],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 66,
@@ -2636,7 +2705,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 67,
@@ -2674,7 +2744,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 68,
@@ -2712,7 +2783,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 69,
@@ -2750,7 +2822,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 70,
@@ -2813,7 +2886,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 71,
@@ -2862,7 +2936,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 72,
@@ -2935,7 +3010,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 73,
@@ -2983,7 +3059,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 74,
@@ -3031,7 +3108,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 75,
@@ -3103,7 +3181,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 76,
@@ -3142,7 +3221,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 77,
@@ -3194,7 +3274,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 78,
@@ -3206,7 +3287,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject1.bin",
+          "external": false
+        }
+      ]
     }
   ]
 }

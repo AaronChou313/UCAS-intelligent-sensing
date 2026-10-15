@@ -1,0 +1,66 @@
+[
+  {
+    "id": "S01",
+    "sourceSha256": "e12bed6731d45732da4877ebc4fbdca1d6a9c7d25ff516fc5f8fb68ecba2d407",
+    "pdf": "docs/public/sources/S01.pdf",
+    "pdfSha256": "6382087257e9c1a2c7a993b039ee05346185112448f74e3389e41c8d8c213634",
+    "pdfPages": 86,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S02",
+    "sourceSha256": "9b66d5a6c456bd418ca7c93004b0065647e528d3d3b3335b13f0e1dc8434b352",
+    "pdf": "docs/public/sources/S02.pdf",
+    "pdfSha256": "0fdcd5e896116bc577290de272bdb7fc2bbb0796b4076da5bcac9d5b00426753",
+    "pdfPages": 355,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S03",
+    "sourceSha256": "9f3294cc6c9831a71ccdb899bed4cdd290002cbbcc26f0cb04416bd8b4d3f8c4",
+    "pdf": "docs/public/sources/S03.pdf",
+    "pdfSha256": "e983f0277ad42719bf72fac38513d65a89bf637e5a636dc553a7c9e76657fa48",
+    "pdfPages": 143,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S04",
+    "sourceSha256": "d6b5121dbf082ddf859fcec56fe688204c9ff28bdcec96a14cdc969f9f62d2ce",
+    "pdf": "docs/public/sources/S04.pdf",
+    "pdfSha256": "e5e1ca287003a8e874ffa5fcafd22b0013294edc46fce40c981ad11250234a37",
+    "pdfPages": 86,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S05",
+    "sourceSha256": "78fb80418941d11093f9fe62cb0cd4f50434cad580f8601a2195c1b54174772f",
+    "pdf": "docs/public/sources/S05.pdf",
+    "pdfSha256": "8776cc9faae573099b88a342600ead59aafd89911b0b836f3af6e96aa3361f61",
+    "pdfPages": 83,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S06",
+    "sourceSha256": "4f94f16e09c9f2e1f41dfbf71a9ad1c86bb64e4ada93bce744f3313dc44fca55",
+    "pdf": "docs/public/sources/S06.pdf",
+    "pdfSha256": "9634957f688eddf86bae4a3116b87bad20d612438bbcf1f61762cf831039fb05",
+    "pdfPages": 95,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S07",
+    "sourceSha256": "b466d38720bf491511eb9bd357c129fdb267d047e9005df08ae417056d16addd",
+    "pdf": "docs/public/sources/S07.pdf",
+    "pdfSha256": "fb834035e09d7bbc312fed30f1be05416245be8d9a063cb839902947c6fe3da5",
+    "pdfPages": 78,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  },
+  {
+    "id": "S08",
+    "sourceSha256": "8651d2b5dff4566b18f4f6776c88458acde01a5d992b540b93028a32eeaab1b4",
+    "pdf": "docs/public/sources/S08.pdf",
+    "pdfSha256": "9e8d670412533af1f77c2c4d94aadb38ab9fa4703656d608fb1b9a881782e750",
+    "pdfPages": 137,
+    "method": "LibreOffice impress_pdf_Export, ExportHiddenSlides=true, system CJK fontconfig; static derivative, not source binary"
+  }
+]

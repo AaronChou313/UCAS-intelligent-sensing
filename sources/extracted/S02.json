@@ -12,6 +12,10 @@
     "created": "2001-12-28T07:12:00Z",
     "modified": "2026-09-03T09:23:11Z"
   },
+  "coverDate": null,
+  "coverLecture": "第二章",
+  "notes": "无明确封面授课日期；仅有单一来源版本。",
+  "hiddenPages": [],
   "version_policy": "仅有此文件版本；属性日期与封面日期分别记录，不认定为授课年份",
   "slides": [
     {
@@ -26,7 +30,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 2,
@@ -43,7 +48,8 @@
       "omml": [],
       "pictures": 6,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 3,
@@ -79,7 +85,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 4,
@@ -99,7 +106,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 5,
@@ -111,7 +119,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 6,
@@ -124,7 +133,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 7,
@@ -137,7 +147,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 8,
@@ -154,7 +165,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 9,
@@ -169,7 +181,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 10,
@@ -184,7 +197,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 11,
@@ -199,7 +213,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 12,
@@ -223,7 +238,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 13,
@@ -244,7 +260,8 @@
       "omml": [],
       "pictures": 6,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 14,
@@ -260,7 +277,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 15,
@@ -302,7 +320,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 16,
@@ -317,7 +336,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 17,
@@ -330,7 +350,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 18,
@@ -342,7 +363,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 19,
@@ -354,7 +376,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 20,
@@ -372,7 +395,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 21,
@@ -386,7 +410,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 22,
@@ -410,7 +435,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 23,
@@ -422,7 +448,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 24,
@@ -436,7 +463,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 25,
@@ -445,7 +473,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 26,
@@ -463,7 +492,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 27,
@@ -480,7 +510,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 28,
@@ -496,7 +527,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 29,
@@ -516,7 +548,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 30,
@@ -536,7 +569,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 31,
@@ -550,7 +584,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 32,
@@ -566,7 +601,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 33,
@@ -575,7 +611,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 34,
@@ -594,7 +631,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 35,
@@ -606,7 +644,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 36,
@@ -659,7 +698,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 37,
@@ -674,7 +714,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 38,
@@ -683,7 +724,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 39,
@@ -692,7 +734,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 40,
@@ -721,7 +764,8 @@
       ],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 41,
@@ -740,7 +784,14 @@
       ],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject1.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 42,
@@ -754,7 +805,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 43,
@@ -771,13 +823,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": [
-        "第二个需要突破的技术难点是：如何建立料层下蒸汽模型。料层下蒸汽混沌、无规律，而传感器只能探测料层表面信息，如何通过表层信息建立内层的蒸汽模型。我提出了一种基于",
-        "CT",
-        "切片叠加原理，建立铺料厚度和蒸汽上升混合叠加模型，通过对料层表面温度和三维形貌信息的一层层叠加，得到料层下蒸汽的三维模型，最终实现料层下蒸汽高度实时探测，误差小于",
-        "3cm",
-        "，满足工艺要求。"
-      ]
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 44,
@@ -792,7 +839,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 45,
@@ -812,7 +860,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 46,
@@ -836,7 +885,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 47,
@@ -850,7 +900,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 48,
@@ -865,7 +916,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 49,
@@ -878,7 +930,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 50,
@@ -901,7 +954,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 51,
@@ -914,7 +968,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 52,
@@ -948,7 +1003,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 53,
@@ -1043,7 +1099,19 @@
       "omml": [],
       "pictures": 4,
       "ole": 4,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject3.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject2.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 54,
@@ -1138,7 +1206,29 @@
       "omml": [],
       "pictures": 4,
       "ole": 8,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject7.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject6.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject5.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject4.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 55,
@@ -1254,7 +1344,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject8.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 56,
@@ -1308,7 +1405,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 57,
@@ -1426,7 +1524,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 58,
@@ -1472,7 +1571,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 59,
@@ -1542,7 +1642,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 60,
@@ -1559,7 +1660,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 61,
@@ -1580,7 +1682,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 62,
@@ -1598,7 +1701,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 63,
@@ -1614,7 +1718,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 64,
@@ -1633,7 +1738,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject9.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 65,
@@ -1647,7 +1759,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject10.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 66,
@@ -1665,7 +1784,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 67,
@@ -1680,7 +1800,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject11.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 68,
@@ -1695,7 +1822,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject12.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 69,
@@ -1715,7 +1849,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject13.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 70,
@@ -1735,7 +1876,19 @@
       "omml": [],
       "pictures": 2,
       "ole": 4,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject15.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject14.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 71,
@@ -1762,7 +1915,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject16.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 72,
@@ -1801,7 +1961,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject17.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 73,
@@ -1818,7 +1985,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject18.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 74,
@@ -1835,7 +2009,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 75,
@@ -1852,7 +2027,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 76,
@@ -1868,7 +2044,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject19.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 77,
@@ -1885,7 +2068,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 78,
@@ -1908,7 +2092,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject20.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 79,
@@ -1926,7 +2117,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 80,
@@ -1943,7 +2135,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 81,
@@ -1957,7 +2150,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 82,
@@ -1971,7 +2165,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject21.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 83,
@@ -2025,7 +2226,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject22.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 84,
@@ -2158,7 +2366,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 85,
@@ -2174,7 +2383,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 86,
@@ -2189,7 +2399,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 87,
@@ -2205,7 +2416,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 88,
@@ -2222,7 +2434,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 89,
@@ -2237,7 +2450,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 90,
@@ -2253,7 +2467,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 91,
@@ -2273,7 +2488,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 92,
@@ -2319,7 +2535,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 93,
@@ -2377,7 +2594,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 94,
@@ -2409,7 +2627,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 95,
@@ -2422,7 +2641,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 96,
@@ -2437,7 +2657,19 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media1.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media1.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 97,
@@ -2462,7 +2694,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 98,
@@ -2477,7 +2710,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 99,
@@ -2495,7 +2729,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 100,
@@ -2526,7 +2761,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 101,
@@ -2549,7 +2785,24 @@
       "omml": [],
       "pictures": 3,
       "ole": 6,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject25.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject24.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject23.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 102,
@@ -2565,7 +2818,29 @@
       "omml": [],
       "pictures": 4,
       "ole": 8,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject29.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject28.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject27.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject26.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 103,
@@ -2584,7 +2859,69 @@
       "omml": [],
       "pictures": 13,
       "ole": 24,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject35.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject34.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject33.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject32.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject31.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject41.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject30.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject40.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject39.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject38.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject37.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject36.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 104,
@@ -2600,7 +2937,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 105,
@@ -2617,7 +2955,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 106,
@@ -2633,7 +2972,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 107,
@@ -2647,7 +2987,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 108,
@@ -2660,7 +3001,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 109,
@@ -2680,7 +3022,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 110,
@@ -2702,7 +3045,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 111,
@@ -2731,7 +3075,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 112,
@@ -2768,7 +3113,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 113,
@@ -2784,7 +3130,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 114,
@@ -2822,7 +3169,8 @@
       ],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 115,
@@ -2838,7 +3186,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 116,
@@ -2854,7 +3203,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 117,
@@ -2887,7 +3237,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 118,
@@ -2909,7 +3260,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 119,
@@ -2937,7 +3289,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 120,
@@ -2980,7 +3333,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 121,
@@ -3012,7 +3366,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 122,
@@ -3035,7 +3390,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 123,
@@ -3092,7 +3448,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 124,
@@ -3113,7 +3470,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 125,
@@ -3132,7 +3490,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 126,
@@ -3165,7 +3524,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 127,
@@ -3200,7 +3560,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 128,
@@ -3250,7 +3611,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 129,
@@ -3267,7 +3629,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 130,
@@ -3306,7 +3669,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 131,
@@ -3363,7 +3727,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 132,
@@ -3380,7 +3745,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 133,
@@ -3396,7 +3762,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 134,
@@ -3475,7 +3842,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 135,
@@ -3522,7 +3890,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 136,
@@ -3540,7 +3909,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 137,
@@ -3561,7 +3931,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 138,
@@ -3582,7 +3953,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 139,
@@ -3603,7 +3975,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 140,
@@ -3625,7 +3998,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 141,
@@ -3654,7 +4028,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 142,
@@ -3677,7 +4052,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 143,
@@ -3700,7 +4076,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 144,
@@ -3737,7 +4114,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 145,
@@ -3762,7 +4140,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 146,
@@ -3787,7 +4166,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 147,
@@ -3815,7 +4195,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 148,
@@ -3841,7 +4222,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 149,
@@ -3858,7 +4240,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 150,
@@ -3883,7 +4266,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 151,
@@ -3910,7 +4294,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 152,
@@ -3925,7 +4310,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 153,
@@ -3947,7 +4333,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 154,
@@ -3972,7 +4359,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 155,
@@ -3988,7 +4376,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 156,
@@ -4007,7 +4396,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 157,
@@ -4034,7 +4424,8 @@
       "omml": [],
       "pictures": 7,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 158,
@@ -4049,7 +4440,19 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media2.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media2.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 159,
@@ -4064,7 +4467,19 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media3.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media3.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 160,
@@ -4078,7 +4493,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 161,
@@ -4087,7 +4503,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 162,
@@ -4119,7 +4536,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 163,
@@ -4134,7 +4552,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 164,
@@ -4157,7 +4576,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 165,
@@ -4185,7 +4605,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 166,
@@ -4208,7 +4629,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 167,
@@ -4228,7 +4650,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 168,
@@ -4250,7 +4673,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 169,
@@ -4266,7 +4690,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 170,
@@ -4275,7 +4700,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 171,
@@ -4289,7 +4715,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 172,
@@ -4303,7 +4730,29 @@
       "omml": [],
       "pictures": 4,
       "ole": 8,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject45.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject44.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject43.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject42.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 173,
@@ -4328,7 +4777,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject46.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 174,
@@ -4355,7 +4811,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 175,
@@ -4374,7 +4831,8 @@
       "omml": [],
       "pictures": 8,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 176,
@@ -4396,7 +4854,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 177,
@@ -4420,7 +4879,19 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media4.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media4.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 178,
@@ -4433,7 +4904,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 179,
@@ -4446,7 +4918,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 180,
@@ -4459,7 +4932,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 181,
@@ -4472,7 +4946,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 182,
@@ -4491,7 +4966,19 @@
       "omml": [],
       "pictures": 7,
       "ole": 4,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject48.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject47.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 183,
@@ -4513,7 +5000,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 184,
@@ -4532,7 +5020,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 185,
@@ -4553,7 +5042,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 186,
@@ -4572,7 +5062,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 187,
@@ -4592,7 +5083,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 188,
@@ -4612,7 +5104,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 189,
@@ -4627,7 +5120,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 190,
@@ -4648,7 +5142,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 191,
@@ -4669,7 +5164,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 192,
@@ -4690,7 +5186,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 193,
@@ -4703,7 +5200,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 194,
@@ -4738,7 +5236,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 195,
@@ -4776,7 +5275,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 196,
@@ -4808,7 +5308,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 197,
@@ -4832,7 +5333,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 198,
@@ -4860,7 +5362,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject49.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 199,
@@ -4884,7 +5393,19 @@
       "omml": [],
       "pictures": 2,
       "ole": 4,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject51.bin",
+          "external": false
+        },
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject50.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 200,
@@ -4955,7 +5476,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject52.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 201,
@@ -4969,7 +5497,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 202,
@@ -4998,7 +5527,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 203,
@@ -5033,7 +5563,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 204,
@@ -5057,7 +5588,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject53.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 205,
@@ -5082,7 +5620,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject54.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 206,
@@ -5105,7 +5650,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject55.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 207,
@@ -5130,7 +5682,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 208,
@@ -5153,7 +5706,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 209,
@@ -5181,7 +5735,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 210,
@@ -5207,7 +5762,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 211,
@@ -5247,7 +5803,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 212,
@@ -5261,7 +5818,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 213,
@@ -5277,7 +5835,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 214,
@@ -5315,7 +5874,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 215,
@@ -5357,7 +5917,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 216,
@@ -5404,7 +5965,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 217,
@@ -5420,7 +5982,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 218,
@@ -5440,7 +6003,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 219,
@@ -5479,7 +6043,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 220,
@@ -5493,7 +6058,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 221,
@@ -5516,7 +6082,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 222,
@@ -5535,7 +6102,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 223,
@@ -5561,7 +6129,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 224,
@@ -5586,7 +6155,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 225,
@@ -5684,7 +6254,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 226,
@@ -5741,7 +6312,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 227,
@@ -5757,7 +6329,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 228,
@@ -5797,7 +6370,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 229,
@@ -5889,7 +6463,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 230,
@@ -5942,7 +6517,14 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "hyperlink",
+          "target": "http://imgsrc.baidu.com/baike/pic/item/61183b2db323fe29349bf70c.jpg",
+          "external": true
+        }
+      ]
     },
     {
       "page": 231,
@@ -6022,7 +6604,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 232,
@@ -6123,7 +6706,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 233,
@@ -6175,7 +6759,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 234,
@@ -6211,7 +6796,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 235,
@@ -6246,7 +6832,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 236,
@@ -6259,7 +6846,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 237,
@@ -6305,7 +6893,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 238,
@@ -6328,7 +6917,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 239,
@@ -6360,7 +6950,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 240,
@@ -6389,7 +6980,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 241,
@@ -6425,7 +7017,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 242,
@@ -6448,7 +7041,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 243,
@@ -6480,7 +7074,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 244,
@@ -6511,7 +7106,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 245,
@@ -6529,7 +7125,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 246,
@@ -6551,7 +7148,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 247,
@@ -6602,7 +7200,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 248,
@@ -6627,7 +7226,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 249,
@@ -6642,7 +7242,8 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 250,
@@ -6681,7 +7282,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 251,
@@ -6719,7 +7321,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 252,
@@ -6744,7 +7347,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 253,
@@ -6777,7 +7381,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 254,
@@ -6796,7 +7401,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 255,
@@ -6811,7 +7417,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 256,
@@ -6822,7 +7429,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 257,
@@ -6846,7 +7454,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 258,
@@ -6879,7 +7488,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 259,
@@ -6898,7 +7508,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 260,
@@ -6926,7 +7537,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 261,
@@ -6945,7 +7557,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 262,
@@ -6964,7 +7577,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 263,
@@ -6981,7 +7595,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 264,
@@ -6999,7 +7614,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 265,
@@ -7015,7 +7631,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 266,
@@ -7032,7 +7649,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 267,
@@ -7087,7 +7705,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 268,
@@ -7109,7 +7728,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 269,
@@ -7126,7 +7746,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 270,
@@ -7147,7 +7768,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 271,
@@ -7164,7 +7786,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 272,
@@ -7175,7 +7798,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 273,
@@ -7193,7 +7817,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 274,
@@ -7220,7 +7845,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 275,
@@ -7247,7 +7873,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 276,
@@ -7274,7 +7901,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 277,
@@ -7294,7 +7922,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 278,
@@ -7320,7 +7949,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 279,
@@ -7339,7 +7969,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 280,
@@ -7365,7 +7996,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 281,
@@ -7396,7 +8028,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 282,
@@ -7414,7 +8047,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 283,
@@ -7434,7 +8068,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 284,
@@ -7445,7 +8080,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 285,
@@ -7460,7 +8096,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 286,
@@ -7473,7 +8110,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 287,
@@ -7492,7 +8130,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 288,
@@ -7509,7 +8148,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 289,
@@ -7535,7 +8175,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 290,
@@ -7571,7 +8212,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 291,
@@ -7590,7 +8232,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 292,
@@ -7613,7 +8256,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 293,
@@ -7630,7 +8274,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 294,
@@ -7657,7 +8302,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 295,
@@ -7699,7 +8345,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 296,
@@ -7711,7 +8358,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 297,
@@ -7723,7 +8371,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 298,
@@ -7737,7 +8386,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 299,
@@ -7753,7 +8403,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 300,
@@ -7769,7 +8420,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 301,
@@ -7786,7 +8438,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 302,
@@ -7814,7 +8467,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 303,
@@ -7838,7 +8492,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 304,
@@ -7880,7 +8535,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 305,
@@ -7918,7 +8574,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 306,
@@ -7934,7 +8591,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 307,
@@ -7947,7 +8605,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 308,
@@ -7960,7 +8619,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 309,
@@ -7973,7 +8633,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 310,
@@ -7989,7 +8650,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 311,
@@ -8012,7 +8674,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 312,
@@ -8030,7 +8693,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 313,
@@ -8049,7 +8713,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 314,
@@ -8070,7 +8735,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 315,
@@ -8115,7 +8781,14 @@
       "omml": [],
       "pictures": 1,
       "ole": 2,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "oleObject",
+          "target": "ppt/embeddings/oleObject56.bin",
+          "external": false
+        }
+      ]
     },
     {
       "page": 316,
@@ -8128,7 +8801,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 317,
@@ -8154,7 +8828,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 318,
@@ -8177,7 +8852,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 319,
@@ -8186,7 +8862,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 320,
@@ -8202,7 +8879,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 321,
@@ -8216,7 +8894,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 322,
@@ -8233,7 +8912,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 323,
@@ -8268,7 +8948,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 324,
@@ -8285,7 +8966,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 325,
@@ -8297,7 +8979,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 326,
@@ -8312,7 +8995,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 327,
@@ -8327,7 +9011,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 328,
@@ -8343,7 +9028,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 329,
@@ -8354,7 +9040,8 @@
       "omml": [],
       "pictures": 6,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 330,
@@ -8365,7 +9052,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 331,
@@ -8380,7 +9068,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 332,
@@ -8391,7 +9080,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 333,
@@ -8414,7 +9104,8 @@
       "omml": [],
       "pictures": 3,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 334,
@@ -8431,7 +9122,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 335,
@@ -8455,7 +9147,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 336,
@@ -8464,7 +9157,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 337,
@@ -8488,7 +9182,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 338,
@@ -8526,7 +9221,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 339,
@@ -8546,7 +9242,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 340,
@@ -8566,7 +9263,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 341,
@@ -8589,7 +9287,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 342,
@@ -8610,7 +9309,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 343,
@@ -8642,7 +9342,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 344,
@@ -8663,7 +9364,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 345,
@@ -8683,7 +9385,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 346,
@@ -8697,7 +9400,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 347,
@@ -8710,7 +9414,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 348,
@@ -8732,7 +9437,8 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 349,
@@ -8771,7 +9477,14 @@
       ],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [
+        "第二个需要突破的技术难点是：如何建立料层下蒸汽模型。料层下蒸汽混沌、无规律，而传感器只能探测料层表面信息，如何通过表层信息建立内层的蒸汽模型。我提出了一种基于",
+        "CT",
+        "切片叠加原理，建立铺料厚度和蒸汽上升混合叠加模型，通过对料层表面温度和三维形貌信息的一层层叠加，得到料层下蒸汽的三维模型，最终实现料层下蒸汽高度实时探测，误差小于",
+        "3cm",
+        "，满足工艺要求。"
+      ],
+      "relationships": []
     },
     {
       "page": 350,
@@ -8780,7 +9493,8 @@
       "omml": [],
       "pictures": 5,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 351,
@@ -8802,7 +9516,19 @@
       "omml": [],
       "pictures": 4,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media5.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media5.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 352,
@@ -8813,7 +9539,19 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media6.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media6.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 353,
@@ -8824,7 +9562,19 @@
       "omml": [],
       "pictures": 1,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": [
+        {
+          "kind": "media",
+          "target": "ppt/media/media7.mp4",
+          "external": false
+        },
+        {
+          "kind": "video",
+          "target": "ppt/media/media7.mp4",
+          "external": false
+        }
+      ]
     },
     {
       "page": 354,
@@ -8846,7 +9596,8 @@
       "omml": [],
       "pictures": 2,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     },
     {
       "page": 355,
@@ -8859,7 +9610,8 @@
       "omml": [],
       "pictures": 0,
       "ole": 0,
-      "notes": []
+      "notes": [],
+      "relationships": []
     }
   ]
 }
